@@ -1,10 +1,1440 @@
 [
   {
+    "code": "19345/00",
+    "name": "ACHILLE",
+    "label": "JACQUARD FRAME THROW 150X200 BLANKET STITCH",
+    "fabric": "COZY",
+    "composition": "90% WV 10% WS",
+    "dimensions": "150x200 cm",
+    "description": "Wool and cashmere throw, with jacquard-woven logo pattern and tone-on-tone blanket stitch edging.",
+    "priceList": {
+      "retail": 1180,
+      "wholesale": 182,
+      "wholesale-trade": 279
+    },
+    "image": "/images/achille.jpg",
+    "fiber": "wool/cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "20415/00",
+    "name": "ADE",
+    "label": "DOUBLE-FACE CUSHION DENTARCA 30X50",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "30X50 cm",
+    "description": "100% cashmere double-face cushion with mouflon effect. Finished with blanket stitch using ten-ply twisted pure cashmere yarn.",
+    "priceList": {
+      "retail": 480,
+      "wholesale": 164,
+      "wholesale-trade": 171
+    },
+    "image": "/images/ade.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "20323/01",
+    "name": "AELLO",
+    "label": "ITACO BATH TOWEL BOURDON EMBROIDERY 100X150",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "100x150 cm",
+    "description": "Bath towel in 100% Italian ItacoTM cotton terry 500 gr/m², one side looped and one side sheared. Finished with bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 115,
+      "wholesale-trade": 105
+    },
+    "image": "/images/aello.jpg",
+    "fiber": "cotone",
+    "category": "telo"
+  },
+  {
+    "code": "20264/50",
+    "name": "AGIA",
+    "label": "WOMEN'S CROSSED BOUCLÉ SLIPPERS",
+    "fabric": "NEWILLE",
+    "composition": "90% WP 10% PA",
+    "dimensions": "35-36 = XS\n37-38 = S\n39-40 = M\n41-42 = L",
+    "description": "Women's crossed slippers in baby alpaca and wool bouclé with internal shearling insole and suede leather sole. Finished with Arca jacquard label.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 109,
+      "wholesale-trade": 100
+    },
+    "image": "/images/agia.jpg",
+    "fiber": "alpaca/wool",
+    "category": "pantofola"
+  },
+  {
+    "code": "20263/50",
+    "name": "AGIO",
+    "label": "MEN'S CROSSED BOUCLÉ SLIPPERS",
+    "fabric": "NEWILLE",
+    "composition": "90% WP 10% PA",
+    "dimensions": "39-40 = S\n41-42 = M\n43-44 = L\n45-46 = XL",
+    "description": "Men's crossed slippers in baby alpaca and wool bouclé with internal shearling insole and suede leather sole. Finished with Arca jacquard label.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 109,
+      "wholesale-trade": 100
+    },
+    "image": "/images/agio.jpg",
+    "fiber": "alpaca/wool",
+    "category": "pantofola"
+  },
+  {
+    "code": "19330/00",
+    "name": "ALECTO",
+    "label": "SMOOTH VELVET CUSHION ITACO 60X60",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "60x60 cm",
+    "description": "Cushion in smooth velvet made of 100% Italian Itaco cotton.",
+    "priceList": {
+      "retail": 390,
+      "wholesale": 114,
+      "wholesale-trade": 139
+    },
+    "image": "/images/alecto.jpg",
+    "fiber": "cotton",
+    "category": "cuscino"
+  },
+  {
+    "code": "19413/00",
+    "name": "ALFEO",
+    "label": "JACQUARD THROW ALL OVER 130X180 HAND-KNOTTED FRINGES",
+    "fabric": "STENCIL",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Throw in twisted 100% cashmere with knitted effect. Woven on Jacquard loom and finished with hand-knotted fringes.",
+    "priceList": {
+      "retail": 920,
+      "wholesale": 258,
+      "wholesale-trade": 329
+    },
+    "image": "/images/alfeo.jpg",
+    "fiber": "cashmere",
+    "category": "throw"
+  },
+  {
+    "code": "20412/01",
+    "name": "AMMON",
+    "label": "SET OF 6 HAND-DYED HEMP COASTERS WITH AJOUR EMBROIDERY 10X10",
+    "fabric": "ANVER/21",
+    "composition": "100% CA",
+    "dimensions": "10x10 cm",
+    "description": "Set of 6 coasters in 100% hemp, garment-dyed and finished with ajour embroidery on all four sides.",
+    "priceList": {
+      "retail": 160,
+      "wholesale": 62,
+      "wholesale-trade": 57
+    },
+    "image": "/images/ammon.jpg",
+    "fiber": "hemp",
+    "category": "table accessory"
+  },
+  {
+    "code": "20081/50-51",
+    "name": "ANCHISE",
+    "label": "UNISEX SPORT SOCKS",
+    "fabric": "100% WS",
+    "composition": "100% WS",
+    "dimensions": "XS-S-M-L",
+    "description": "Unisex sport socks in carded 100% WS yarn, certified by SFA (Sustainable Fibre Alliance) Nm 2/28 single-ply, made in Italy.",
+    "priceList": {
+      "retail": 90,
+      "wholesale": 24,
+      "wholesale-trade": 36
+    },
+    "image": "/images/anchise.jpg",
+    "fiber": "cashmere",
+    "category": "sock"
+  },
+  {
+    "code": "19350/00",
+    "name": "APOLLO",
+    "label": "DOUBLE-FACE THROW 4 ANIMALS 150X200 PIPING",
+    "fabric": "ROBORE",
+    "composition": "46% WP  40% WS  10% WK   4% WY",
+    "dimensions": "150x200 cm",
+    "description": "...",
+    "priceList": {
+      "retail": 1680,
+      "wholesale": 598,
+      "wholesale-trade": 600
+    },
+    "image": "/images/apollo.jpg",
+    "fiber": "various",
+    "category": "throw"
+  },
+  {
+    "code": "19414/00",
+    "name": "ARES",
+    "label": "JACQUARD GAMING CHESS THROW 130X180 UNRAVELLED FRINGES",
+    "fabric": "CHESS",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Gaming throw inspired by the chessboard in twisted 100% cashmere. Woven on Jacquard loom and finished with hand-unravelled fringes on both short sides.",
+    "priceList": {
+      "retail": 920,
+      "wholesale": 272,
+      "wholesale-trade": 329
+    },
+    "image": "/images/ares.jpg",
+    "fiber": "cashmere",
+    "category": "throw"
+  },
+  {
+    "code": "20293/01",
+    "name": "ARGO",
+    "label": "BOTTOM SHEET IN HAND-DYED HEMP 180X200",
+    "fabric": "100% CA",
+    "composition": "100% CA",
+    "dimensions": "180x200 cm",
+    "description": "Bottom sheet in 100% hemp plain weave, garment-dyed.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 205,
+      "wholesale-trade": 196
+    },
+    "image": "/images/argo.jpg",
+    "fiber": "hemp",
+    "category": "sheet"
+  },
+  {
+    "code": "19911/50",
+    "name": "ASTERIA",
+    "label": "SEERSUCKER PAJAMA SHORTS",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Shorts in plain seersucker fabric made of Supima cotton and silk, with elastic waistband.",
+    "priceList": {
+      "retail": 195,
+      "wholesale": 75,
+      "wholesale-trade": 78
+    },
+    "image": "/images/asteria.jpg",
+    "fiber": "cotton/silk",
+    "category": "apparel"
+  },
+  {
+    "code": "19346/00",
+    "name": "ATENA",
+    "label": "JACQUARD BORDER CUSHION 50X50 WITH SADDLE STITCH",
+    "fabric": "COZY/1",
+    "composition": "90% WV 10% WS",
+    "dimensions": "50x50 cm",
+    "description": "Wool and cashmere cushion with jacquard-woven logo pattern and tone-on-tone saddle stitch edging.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 102,
+      "wholesale-trade": 125
+    },
+    "image": "/images/atena.jpg",
+    "fiber": "wool/cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "20242/01",
+    "name": "BOREAS",
+    "label": "LINEN RUNNER 50X145 HAND UNRAVELLED",
+    "fabric": "CORSI",
+    "composition": "100% LI",
+    "dimensions": "50x145 cm",
+    "description": "Oxford weave runner in pure linen, hand-unravelled on all four sides.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 50,
+      "wholesale-trade": 79
+    },
+    "image": "/images/boreas.jpg",
+    "fiber": "linen",
+    "category": "runner"
+  },
+  {
+    "code": "20300/00",
+    "name": "BROMIO",
+    "label": "SMOOTH VELVET CUSHION ITACO 30X50",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "30x50 cm",
+    "description": "Cushion in smooth velvet made of 100% Italian Itaco cotton.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 88,
+      "wholesale-trade": 125
+    },
+    "image": "/images/bromio.jpg",
+    "fiber": "cotton",
+    "category": "cushion"
+  },
+  {
+    "code": "19329/00",
+    "name": "CALIPSO",
+    "label": "ABSOLUTE CUSHION 60X60 SADDLE STITCH",
+    "fabric": "DENTONE",
+    "composition": "100% WS",
+    "dimensions": "60x60 cm",
+    "description": "100% cashmere cushion with mouflon effect, saddle stitch with ten-ply twisted pure cashmere yarn.",
+    "priceList": {
+      "retail": 650,
+      "wholesale": 236,
+      "wholesale-trade": 232
+    },
+    "image": "/images/calipso.jpg",
+    "fiber": "cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "19353/00",
+    "name": "CARIDDI",
+    "label": "DOUBLE-FACE CUSHION NATTÈ STRIPED 30X50",
+    "fabric": "TELLINO",
+    "composition": "100% LI",
+    "dimensions": "30x50 cm",
+    "description": "Double-face cushion in pure linen with reps weave and striped pattern.",
+    "priceList": {
+      "retail": 280,
+      "wholesale": 94,
+      "wholesale-trade": 100
+    },
+    "image": "/images/cariddi.jpg",
+    "fiber": "linen",
+    "category": "cushion"
+  },
+  {
+    "code": "19906/50",
+    "name": "CASSIO",
+    "label": "LONG JOGGING PANTS",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Long jogging pants in scuba comfort made of Itaco cotton, with elasticated ribbed waistband and hems, and drawstring closure.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 123,
+      "wholesale-trade": 118
+    },
+    "image": "/images/cassio.jpg",
+    "fiber": "cotton",
+    "category": "apparel"
+  },
+  {
+    "code": "20517/00",
+    "name": "CATULLO",
+    "label": "",
+    "fabric": "50% WS 50% SUEDE",
+    "composition": "OUTSIDE: 70% WV 30% WS + suede parts 100% goat / INSIDE: lining 100% cotton + suede parts 100% goat",
+    "dimensions": "34 x 29 h.20 cm",
+    "description": "Bag composed of fabric and leather.",
+    "priceList": {
+      "retail": 3400,
+      "wholesale": 1503,
+      "wholesale-trade": 1214
+    },
+    "image": "/images/catullo.jpg",
+    "fiber": "cashmere/leather",
+    "category": "bag"
+  },
+  {
+    "code": "20299/00",
+    "name": "CERBERO",
+    "label": "SMOOTH VELVET CUSHION ITACO 50X50",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "50x50 cm",
+    "description": "Cushion in smooth velvet made of 100% Italian Itaco cotton.",
+    "priceList": {
+      "retail": 370,
+      "wholesale": 102,
+      "wholesale-trade": 132
+    },
+    "image": "/images/cerbero.jpg",
+    "fiber": "cotton",
+    "category": "cushion"
+  },
+  {
+    "code": "19415/00",
+    "name": "CHIMERA",
+    "label": "GAMING THROW BACKGAMMON 130X180 UNRAVELLED FRINGES",
+    "fabric": "GAMMON",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Gaming throw inspired by the game of backgammon in twisted 100% cashmere. Woven on Jacquard loom and finished with hand-unravelled fringes on both short sides.",
+    "priceList": {
+      "retail": 920,
+      "wholesale": 272,
+      "wholesale-trade": 329
+    },
+    "image": "/images/chimera.jpg",
+    "fiber": "cashmere",
+    "category": "throw"
+  },
+  {
+    "code": "20407/01",
+    "name": "CICLOPE",
+    "label": "SET OF 2 PILLOWCASES SEA ISLAND BOURDON 50X80",
+    "fabric": "100% CO",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set of 2 pillowcases in 600 thread count Sea Island pure cotton sateen with 5 cm flange and double bourdon embroidery.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 193,
+      "wholesale-trade": 196
+    },
+    "image": "/images/ciclope.jpg",
+    "fiber": "cotton",
+    "category": "pillowcase"
+  },
+  {
+    "code": "19411/00",
+    "name": "CIRCE",
+    "label": "DIAGONAL THROW ALPACA 130X180 LONG FRINGES",
+    "fabric": "PELUCHE",
+    "composition": "92% WP 8% SE",
+    "dimensions": "130x180 cm",
+    "description": "'Peluche' throw made of soft bouclé in baby alpaca and silk. Finished with long fringes.",
+    "priceList": {
+      "retail": 680,
+      "wholesale": 290,
+      "wholesale-trade": 243
+    },
+    "image": "/images/circe.jpg",
+    "fiber": "alpaca/silk",
+    "category": "throw"
+  },
+  {
+    "code": "20263/51",
+    "name": "CLELIA",
+    "label": "MEN'S CROSSED SLIPPER IN PURE LINEN",
+    "fabric": "GIGAPEZ",
+    "composition": "100% LI",
+    "dimensions": "39-40 = S\n41-42 = M\n43-44 = L\n45-46 = XL",
+    "description": "Men’s crossed slipper in three-ply twisted pure linen, with TPU sole.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 100,
+      "wholesale-trade": 88
+    },
+    "image": "/images/clelia.jpg",
+    "fiber": "linen",
+    "category": "slipper"
+  },
+  {
+    "code": "20410/01",
+    "name": "CLIO",
+    "label": "GARMENT-DYED HEMP RUNNER 50X150 A-JOUR",
+    "fabric": "ANVER/21",
+    "composition": "100 % CA",
+    "dimensions": "50X150",
+    "description": "Runner in 100% garment-dyed hemp, finished with ajour embroidery on all four sides.",
+    "priceList": {
+      "retail": 290,
+      "wholesale": 103,
+      "wholesale-trade": 104
+    },
+    "image": "/images/clio.jpg",
+    "fiber": "hemp",
+    "category": "runner"
+  },
+  {
+    "code": "20321/01",
+    "name": "CORE",
+    "label": "GUEST TOWEL ITACO BOURDON EMBROIDERY 40X60",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "40x60 cm",
+    "description": "Guest towel in 100% Italian ItacoTM cotton terry 500 gr/m², one side looped and one side sheared. Finished with bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 89,
+      "wholesale": 35,
+      "wholesale-trade": 32
+    },
+    "image": "/images/core.jpg",
+    "fiber": "cotton",
+    "category": "towel"
+  },
+  {
+    "code": "19347/00",
+    "name": "CRONO",
+    "label": "DIAGONAL TRAVEL THROW 90X150 UNRAVELLED FRINGES",
+    "fabric": "BIRU/1",
+    "composition": "100% WS",
+    "dimensions": "90x150 cm",
+    "description": "Travel throw in pure cashmere with diagonal weave, made on shuttle loom and finished with hand-unravelled fringes on both short sides.",
+    "priceList": {
+      "retail": 480,
+      "wholesale": 140,
+      "wholesale-trade": 171
+    },
+    "image": "/images/crono.jpg",
+    "fiber": "cashmere",
+    "category": "throw"
+  },
+  {
+    "code": "20155/00",
+    "name": "DAFNE",
+    "label": "ENGLISH KNIT THROW F.5",
+    "fabric": "MAG00069",
+    "composition": "",
+    "dimensions": "220x240 cm",
+    "description": "Two-tone English knit throw. Gauge 5, made with carded yarn 100% WS certified by SFA (Sustainable Fibre Alliance) Nm 2/28 3-ply, cashmere fabric border on all four sides.",
+    "priceList": {
+      "retail": 1780,
+      "wholesale": 812,
+      "wholesale-trade": 636
+    },
+    "image": "/images/dafne.jpg",
+    "fiber": "cashmere",
+    "category": "throw"
+  },
+  {
+    "code": "19897/50",
+    "name": "DEDALO",
+    "label": "LONG PANTS",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Long pants in mélange comfort interlock, with elasticated ribbed waistband and hem, and drawstring closure.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 111,
+      "wholesale-trade": 100
+    },
+    "image": "/images/dedalo.jpg",
+    "fiber": "cotton",
+    "category": "pants"
+  },
+  {
+    "code": "20281/01",
+    "name": "DEMETRA",
+    "label": "SET OF 6 GARMENT-DYED HEMP NAPKINS 50X50 A-JOUR",
+    "fabric": "ANVER/21",
+    "composition": "100% CA",
+    "dimensions": "50x50 cm",
+    "description": "Set of 6 napkins in 100% garment-dyed hemp, finished with ajour embroidery on all four sides.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 123,
+      "wholesale-trade": 125
+    },
+    "image": "/images/demetra.jpg",
+    "fiber": "hemp",
+    "category": "napkins"
+  },
+  {
+    "code": "20237/00",
+    "name": "DIONISO",
+    "label": "QUILTED THROW SMOOTH VELVET ITACO 130X180",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "130x180 cm",
+    "description": "Double-face quilted throw in smooth velvet made of 100% Italian Itaco cotton, padded.",
+    "priceList": {
+      "retail": 780,
+      "wholesale": 284,
+      "wholesale-trade": 279
+    },
+    "image": "/images/dioniso.jpg",
+    "fiber": "cotton",
+    "category": "quilt"
+  },
+  {
+    "code": "19323/00",
+    "name": "EDIPO",
+    "label": "DIAGONAL BASIC THROW 130X180 HAND-KNOTTED FRINGES",
+    "fabric": "FUBBE",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Throw with knitted effect in twisted 100% cashmere. Woven on antique shuttle loom with maxi-twill weave. Finished with hand-knotted fringes.",
+    "priceList": {
+      "retail": 780,
+      "wholesale": 233,
+      "wholesale-trade": 279
+    },
+    "image": "/images/edipo.jpg",
+    "fiber": "cashmere",
+    "category": "throw"
+  },
+  {
+    "code": "19904/50",
+    "name": "EFESTO",
+    "label": "LONG PAJAMA PANTS",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Long melange comfort interlock pants with elastic waistband and wide hem with drawstring.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 107,
+      "wholesale-trade": 100
+    },
+    "image": "/images/efesto.jpg",
+    "fiber": "cotton",
+    "category": "pants"
+  },
+  {
+    "code": "19348/00",
+    "name": "EGEO",
+    "label": "DELICATE STRIPED LINEN BEACH TOWEL 130X180 SPIRAL FRINGES",
+    "fabric": "DELLINO",
+    "composition": "100% LI",
+    "dimensions": "130x180 cm",
+    "description": "Striped barre linen beach towel in delavé finish. Twill weave on antique shuttle loom with hand-spiraled fringes on both short sides.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 108,
+      "wholesale-trade": 125
+    },
+    "image": "/images/egeo.jpg",
+    "fiber": "linen",
+    "category": "beach towel"
+  },
+  {
+    "code": "20264/51",
+    "name": "ELEA",
+    "label": "WOMEN'S CROSSED SLIPPERS IN PURE LINEN",
+    "fabric": "GIGAPEZ",
+    "composition": "100% LI",
+    "dimensions": "35-36 = XS, 37-38 = S, 39-40 = M, 41-42 = L",
+    "description": "Women's crossed slippers in three-ply twisted pure linen, with TPU sole.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 100,
+      "wholesale-trade": 88
+    },
+    "image": "/images/elea.jpg",
+    "fiber": "linen",
+    "category": "slipper"
+  },
+  {
+    "code": "20406/01",
+    "name": "ELEUSI",
+    "label": "SET OF 2 SEA ISLAND PILLOWCASES 50X80",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set of 2 pillowcases in 600 thread count fine Sea Island cotton sateen.",
+    "priceList": {
+      "retail": 420,
+      "wholesale": 130,
+      "wholesale-trade": 150
+    },
+    "image": "/images/eleusi.jpg",
+    "fiber": "cotton",
+    "category": "pillowcase"
+  },
+  {
+    "code": "19901/50",
+    "name": "ENEA",
+    "label": "CREWNECK SWEATSHIRT",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Crewneck sweatshirt in scuba comfort Itaco cotton, with elasticated ribbed hems.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 116,
+      "wholesale-trade": 118
+    },
+    "image": "/images/enea.jpg",
+    "fiber": "cotton/polyamide",
+    "category": "sweatshirt"
+  },
+  {
+    "code": "19327/00",
+    "name": "EOLO",
+    "label": "DOUBLE-FACE CUSHION NATTÈ 5 PLY 60X60",
+    "fabric": "CICCO/1",
+    "composition": "100% WS",
+    "dimensions": "60x60 cm",
+    "description": "Double-face cushion made with pure cashmere ten-ply twisted yarn, woven in Maxi-Panama structure.",
+    "priceList": {
+      "retail": 590,
+      "wholesale": 184,
+      "wholesale-trade": 211
+    },
+    "image": "/images/eolo.jpg",
+    "fiber": "cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "19905/50",
+    "name": "EPICURO",
+    "label": "COTTON CREPE SHORTS",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Shorts in Supima cotton comfort interlock with rounded hem and ribbed waistband with drawstring.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 78,
+      "wholesale-trade": 88
+    },
+    "image": "/images/epicuro.jpg",
+    "fiber": "cotton",
+    "category": "homewear"
+  },
+  {
+    "code": "20297/00",
+    "name": "ERACLE",
+    "label": "BASIC DIAGONAL CUSHION 30X50 SADDLE STITCH",
+    "fabric": "FUBBE/1",
+    "composition": "100% WS",
+    "dimensions": "30x50 cm",
+    "description": "Pure cashmere cushion with maxi-twill weave and saddle stitch finishing.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 116,
+      "wholesale-trade": 125
+    },
+    "image": "/images/eracle.jpg",
+    "fiber": "cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "19324/00",
+    "name": "ERATO",
+    "label": "BASIC DIAGONAL CUSHION 50X50 SADDLE STITCH",
+    "fabric": "FUBBE/1",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Pure cashmere cushion with maxi-twill weave and saddle stitch finishing.",
+    "priceList": {
+      "retail": 390,
+      "wholesale": 136,
+      "wholesale-trade": 139
+    },
+    "image": "/images/erato.jpg",
+    "fiber": "cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "20076/50",
+    "name": "ERCOLE",
+    "label": "UNISEX CARDIGAN",
+    "fabric": "100% WS",
+    "composition": "100% WS",
+    "dimensions": "Women: XXS-XS-S-M-L, Men: S-M-L-XL-XXL",
+    "description": "Unisex cardigan, French Terry knit. Gauge 7, made with 100% WS carded yarn certified by SFA (Sustainable Fibre Alliance) Nm 2/28 2-ply, made in China.",
+    "priceList": {
+      "retail": 450,
+      "wholesale": 126,
+      "wholesale-trade": 180
+    },
+    "image": "/images/ercole.jpg",
+    "fiber": "cashmere",
+    "category": "homewear"
+  },
+  {
+    "code": "19913/50",
+    "name": "EREBO",
+    "label": "SEERSUCKER PAJAMA SHORTS",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Seersucker shorts in Supima cotton and silk, with elastic waistband.",
+    "priceList": {
+      "retail": 195,
+      "wholesale": 75,
+      "wholesale-trade": 78
+    },
+    "image": "/images/erebo.jpg",
+    "fiber": "cotton/silk",
+    "category": "homewear"
+  },
+  {
+    "code": "19326/00",
+    "name": "EROS",
+    "label": "NATTÈ CUSHION 5 PLY 50X50 UNRAVELLED FRINGES",
+    "fabric": "CICCO/1",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Knitted-effect cushion made with ten-ply twisted pure cashmere yarn and Maxi-Panama weave, finished with hand-unravelled fringes on all four sides.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 172,
+      "wholesale-trade": 196
+    },
+    "image": "/images/eros.jpg",
+    "fiber": "cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "20316/01",
+    "name": "ESTIA",
+    "label": "SET OF 2 PILLOWCASES ITACO 50X80",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set of 2 pillowcases in 600 thread count pure cotton ItacoTM, 100% Italian.",
+    "priceList": {
+      "retail": 320,
+      "wholesale": 102,
+      "wholesale-trade": 114
+    },
+    "image": "/images/estia.jpg",
+    "fiber": "cotton",
+    "category": "pillowcase"
+  },
+  {
+    "code": "20535/00",
+    "name": "FAUNA",
+    "label": "WASHBASIN MAT",
+    "fabric": "CO",
+    "composition": "",
+    "dimensions": "40x60",
+    "description": "Washbasin mat in 100% Italian ItacoTM cotton terry 500 gr/m², one side looped and one side sheared. Finished with contrasting border and bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 125,
+      "wholesale": 41,
+      "wholesale-trade": 45
+    },
+    "image": "/images/fauna.jpg",
+    "fiber": "cotton",
+    "category": "rug"
+  },
+  {
+    "code": "20563/00",
+    "name": "FLORA",
+    "label": "SHOWER MAT",
+    "fabric": "CO",
+    "composition": "",
+    "dimensions": "60x110",
+    "description": "Shower mat in 100% Italian ItacoTM cotton terry 500 gr/m², one side looped and one side sheared. Finished with contrasting border and bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 195,
+      "wholesale": 68,
+      "wholesale-trade": 70
+    },
+    "image": "/images/flora.jpg",
+    "fiber": "cotton",
+    "category": "rug"
+  },
+  {
+    "code": "20278/01",
+    "name": "FORGIA",
+    "label": "GARMENT-DYED HEMP TABLECLOTH 150X190 A-JOUR",
+    "fabric": "ANVER/21",
+    "composition": "100% CA",
+    "dimensions": "150x190 cm",
+    "description": "Tablecloth in 100% garment-dyed hemp, finished with ajour embroidery on all four sides.",
+    "priceList": {
+      "retail": 420,
+      "wholesale": 148,
+      "wholesale-trade": 150
+    },
+    "image": "/images/forgia.jpg",
+    "fiber": "hemp",
+    "category": "tablecloth"
+  },
+  {
+    "code": "19896/50",
+    "name": "FRIXO",
+    "label": "JERSEY SHORTS",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Jersey shorts in Supima cotton comfort interlock with elasticated ribbed waistband and drawstring.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 84,
+      "wholesale-trade": 88
+    },
+    "image": "/images/frixo.jpg",
+    "fiber": "cotton",
+    "category": "homewear"
+  },
+  {
+    "code": "20408/01",
+    "name": "GERIONE",
+    "label": "DUVET COVER SEA ISLAND BOURDON 270X240",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "270 x 240",
+    "description": "Duvet cover in 600 thread count fine Sea Island cotton sateen with double bourdon embroidery.",
+    "priceList": {
+      "retail": 1950,
+      "wholesale": 657,
+      "wholesale-trade": 696
+    },
+    "image": "/images/gerione.jpg",
+    "fiber": "cotton",
+    "category": "duvet cover"
+  },
+  {
+    "code": "20295/01",
+    "name": "GIASONE",
+    "label": "DUVET COVER GARMENT-DYED HEMP 270X240",
+    "fabric": "CA",
+    "composition": "100% CA",
+    "dimensions": "270x240 cm",
+    "description": "Duvet cover in 100% hemp plain weave, garment-dyed.",
+    "priceList": {
+      "retail": 850,
+      "wholesale": 295,
+      "wholesale-trade": 304
+    },
+    "image": "/images/giasone.jpg",
+    "fiber": "hemp",
+    "category": "duvet cover"
+  },
+  {
+    "code": "20075/50",
+    "name": "GIOVE",
+    "label": "UNISEX CREWNECK",
+    "fabric": "100% WS",
+    "composition": "100% WS",
+    "dimensions": "Women: XXS-XS-S-M-L, Men: S-M-L-XL-XXL",
+    "description": "Unisex crewneck in French Terry knit. Gauge 7, made with 100% WS carded yarn certified by SFA (Sustainable Fibre Alliance) Nm 2/28 2-ply, made in China.",
+    "priceList": {
+      "retail": 420,
+      "wholesale": 118,
+      "wholesale-trade": 168
+    },
+    "image": "/images/giove.jpg",
+    "fiber": "cashmere",
+    "category": "homewear"
+  },
+  {
+    "code": "19908/50",
+    "name": "GORGIA",
+    "label": "HOODED SWEATSHIRT",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Hooded sweatshirt in scuba comfort Itaco cotton, with elasticated ribbed hems.",
+    "priceList": {
+      "retail": 330,
+      "wholesale": 124,
+      "wholesale-trade": 132
+    },
+    "image": "/images/gorgia.jpg",
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
+  },
+  {
+    "code": "20294/01",
+    "name": "HEBE",
+    "label": "SET OF 2 PILLOWCASES GARMENT-DYED HEMP 50X80",
+    "fabric": "CA",
+    "composition": "100% CA",
+    "dimensions": "50x80 cm",
+    "description": "Set of 2 pillowcases in 100% garment-dyed hemp plain weave.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 83,
+      "wholesale-trade": 89
+    },
+    "image": "/images/hebe.jpg",
+    "fiber": "hemp",
+    "category": "pillowcase"
+  },
+  {
+    "code": "19912/50",
+    "name": "HECATE",
+    "label": "LONG SLEEVE SHIRT IN SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Long sleeve shirt in plain seersucker of Supima cotton and silk with chest pocket.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 119,
+      "wholesale-trade": 118
+    },
+    "image": "/images/hecate.jpg",
+    "fiber": "cotton/silk",
+    "category": "homewear"
+  },
+  {
+    "code": "19390/00",
+    "name": "HELIOS",
+    "label": "CREPE COTTON BEACH TOWEL 110X180 UNRAVELLED FRINGES",
+    "fabric": "LUXTEL",
+    "composition": "100% CO",
+    "dimensions": "110x180 cm",
+    "description": "Beach towel with contrast selvedge in pure Itaco cotton crêpe 100% Italian. Twill weave on antique shuttle loom, hand-unravelled fringes on both short sides.",
+    "priceList": {
+      "retail": 290,
+      "wholesale": 112,
+      "wholesale-trade": 104
+    },
+    "image": "/images/helios.jpg",
+    "fiber": "cotton",
+    "category": "beach towel"
+  },
+  {
+    "code": "19895/50",
+    "name": "HEMERA",
+    "label": "LONG SLEEVE T-SHIRT",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Long sleeve t-shirt in mélange comfort interlock.",
+    "priceList": {
+      "retail": 180,
+      "wholesale": 73,
+      "wholesale-trade": 72
+    },
+    "image": "/images/hemera.jpg",
+    "fiber": "cotton",
+    "category": "homewear"
+  },
+  {
+    "code": "19902/50",
+    "name": "HERA",
+    "label": "SHORT SLEEVE T-SHIRT",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Short sleeve t-shirt in Supima cotton comfort interlock.",
+    "priceList": {
+      "retail": 165,
+      "wholesale": 52,
+      "wholesale-trade": 66
+    },
+    "image": "/images/hera.jpg",
+    "fiber": "cotton",
+    "category": "homewear"
+  },
+  {
+    "code": "19903/50",
+    "name": "HESTIA",
+    "label": "LONG SLEEVE T-SHIRT",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Long sleeve t-shirt in mélange comfort interlock.",
+    "priceList": {
+      "retail": 180,
+      "wholesale": 68,
+      "wholesale-trade": 72
+    },
+    "image": "/images/hestia.jpg",
+    "fiber": "cotton",
+    "category": "homewear"
+  },
+  {
+    "code": "20241/01",
+    "name": "HYPNOS",
+    "label": "SET OF 2 PLACEMATS 35X50 UNRAVELLED FRINGES",
+    "fabric": "BRESH",
+    "composition": "100% LI",
+    "dimensions": "35x50 cm",
+    "description": "Set of 2 placemats in pure linen oxford weave, hand-unravelled on all four sides.",
+    "priceList": {
+      "retail": 190,
+      "wholesale": 68,
+      "wholesale-trade": 68
+    },
+    "image": "/images/hypnos.jpg",
+    "fiber": "linen",
+    "category": "placemat"
+  },
+  {
+    "code": "19890/01",
+    "name": "ICARO",
+    "label": "TRAVEL THROW",
+    "fabric": "QILIN",
+    "composition": "",
+    "dimensions": "130x150",
+    "description": "Travel throw with flounced motif in pure cashmere, woven on antique shuttle looms and finished with hand-knotted fringes.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 194,
+      "wholesale-trade": 196
+    },
+    "image": "/images/icaro.jpg",
+    "fiber": "cashmere",
+    "category": "throw"
+  },
+  {
+    "code": "19894/50",
+    "name": "IDRA",
+    "label": "SHORT SLEEVE T-SHIRT",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Short sleeve t-shirt in Supima cotton comfort interlock.",
+    "priceList": {
+      "retail": 165,
+      "wholesale": 55,
+      "wholesale-trade": 66
+    },
+    "image": "/images/idra.jpg",
+    "fiber": "cotton",
+    "category": "homewear"
+  },
+  {
+    "code": "20282/01",
+    "name": "ILIZIA",
+    "label": "SET OF 6 PAPER NAPKINS 50X50 GARMENT-DYED",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "50x50 cm",
+    "description": "Set of 6 napkins in pure Japanese paper with Oxford weave, garment-dyed and finished with tone-on-tone bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 120,
+      "wholesale-trade": 125
+    },
+    "image": "/images/ilizia.jpg",
+    "fiber": "paper",
+    "category": "napkin"
+  },
+  {
+    "code": "19349/00",
+    "name": "IONIO",
+    "label": "DElavé LINEN CUSHION 40X60",
+    "fabric": "DELLINO",
+    "composition": "100% LI",
+    "dimensions": "40x60 cm",
+    "description": "Double-face cushion with twill weave and striped pattern in pure delavé linen.",
+    "priceList": {
+      "retail": 290,
+      "wholesale": 100,
+      "wholesale-trade": 104
+    },
+    "image": "/images/ionio.jpg",
+    "fiber": "linen",
+    "category": "cushion"
+  },
+  {
+    "code": "20411/01",
+    "name": "IRIS",
+    "label": "PAPER RUNNER BOURDON GARMENT-DYED 50X150",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "50X150",
+    "description": "Runner in pure Japanese paper with Oxford weave, garment-dyed and finished with tone-on-tone bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 88,
+      "wholesale-trade": 89
+    },
+    "image": "/images/iris.jpg",
+    "fiber": "paper",
+    "category": "runner"
+  },
+  {
+    "code": "20413/01",
+    "name": "LEDA",
+    "label": "SET OF 6 COASTERS PAPER BOURDON GARMENT-DYED 13X13",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "13X13",
+    "description": "Set of 6 coasters in pure Japanese paper with Oxford weave, garment-dyed and finished with tone-on-tone bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 160,
+      "wholesale": 62,
+      "wholesale-trade": 57
+    },
+    "image": "/images/leda.jpg",
+    "fiber": "paper",
+    "category": "coaster"
+  },
+  {
+    "code": "19907/50",
+    "name": "MANLIO",
+    "label": "JOGGING PANTS",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Jogging pants with elastic ribbed waistband and wide hem with drawstring, in Itaco cotton.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 123,
+      "wholesale-trade": 118
+    },
+    "image": "/images/manlio.jpg",
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
+  },
+  {
+    "code": "20279/01",
+    "name": "MEDEA",
+    "label": "JAPANESE PAPER TABLECLOTH GARMENT-DYED 150X190",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "150x190 cm",
+    "description": "Tablecloth in pure Japanese paper with Oxford weave, garment-dyed and finished with tone-on-tone bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 420,
+      "wholesale": 135,
+      "wholesale-trade": 150
+    },
+    "image": "/images/medea.jpg",
+    "fiber": "paper",
+    "category": "tablecloth"
+  },
+  {
+    "code": "19412/00",
+    "name": "MEDUSA",
+    "label": "DIAGONAL CUSHION ALPACA 60X60 LEATHER PIPING",
+    "fabric": "PELUCHE/1",
+    "composition": "92% WP 8% SE",
+    "dimensions": "60x60 cm",
+    "description": "'Peluche' cushion made of soft bouclé in baby alpaca and silk. Finished with elegant leather piping.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 184,
+      "wholesale-trade": 125
+    },
+    "image": "/images/medusa.jpg",
+    "fiber": "alpaca/silk",
+    "category": "cushion"
+  },
+  {
+    "code": "20280/01",
+    "name": "MELIA",
+    "label": "SET OF 6 NAPKINS ITACO BOURDON EMBROIDERY 50X50",
+    "fabric": "ARSON",
+    "composition": "100% CO",
+    "dimensions": "50x50 cm",
+    "description": "Set of 6 napkins in yarn-dyed pure Itaco™ cotton with Oxford weave, finished with bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 390,
+      "wholesale": 132,
+      "wholesale-trade": 139
+    },
+    "image": "/images/melia.jpg",
+    "fiber": "cotton",
+    "category": "napkin"
+  },
+  {
+    "code": "20404/01",
+    "name": "MENELAO",
+    "label": "TOP SHEET SEA ISLAND 270X300",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "270x300 cm",
+    "description": "Top sheet in 600 thread count fine Sea Island cotton sateen.",
+    "priceList": {
+      "retail": 950,
+      "wholesale": 353,
+      "wholesale-trade": 339
+    },
+    "image": "/images/menelao.jpg",
+    "fiber": "cotton",
+    "category": "sheet"
+  },
+  {
+    "code": "20292/01",
+    "name": "MORFEO",
+    "label": "TOP SHEET HEMP GARMENT-DYED 270X300",
+    "fabric": "CA",
+    "composition": "100% CA",
+    "dimensions": "270x300 cm",
+    "description": "Top sheet in 100% hemp plain weave, garment-dyed.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 188,
+      "wholesale-trade": 196
+    },
+    "image": "/images/morfeo.jpg",
+    "fiber": "hemp",
+    "category": "sheet"
+  },
+  {
+    "code": "19873/00",
+    "name": "MUSA",
+    "label": "ENGLISH RIB CUSHION BICOLOUR F.5",
+    "fabric": "MAG00070",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Double-face cushion in pure cashmere with one side in bicolour English rib knit and one side in fabric with mouflon effect.",
+    "priceList": {
+      "retail": 780,
+      "wholesale": 234,
+      "wholesale-trade": 279
+    },
+    "image": "/images/musa.jpg",
+    "fiber": "cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "16893/02",
+    "name": "NARCISO",
+    "label": "PLAID ABSOLUTE 150X200 SADDLE STITCH + HAND-KNOTTED FRINGE",
+    "fabric": "DENTONE",
+    "composition": "100% WS",
+    "dimensions": "150x200 cm",
+    "description": "100% cashmere plaid with mouflon effect, saddle stitch and hand-knotted fringe in ten-ply twisted pure cashmere yarn.",
+    "priceList": {
+      "retail": 1750,
+      "wholesale": 484,
+      "wholesale-trade": 625
+    },
+    "image": "/images/narciso.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "19389/00",
+    "name": "NEMESI",
+    "label": "STRIPED COTTON CRÊPE REPS CUSHION 30X50",
+    "fabric": "LUXTEL/1",
+    "composition": "100% CO",
+    "dimensions": "30x50 cm",
+    "description": "Cushion with reps weave and striped pattern made of pure Itaco cotton crêpe 100% Italian.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 86,
+      "wholesale-trade": 79
+    },
+    "image": "/images/nemesi.jpg",
+    "fiber": "cotton",
+    "category": "cushion"
+  },
+  {
+    "code": "19331/00",
+    "name": "NEREO",
+    "label": "LINEN PLAID TWILL SOLID 150X200 SADDLE STITCH",
+    "fabric": "GIGABYTE",
+    "composition": "100% LI",
+    "dimensions": "150x200 cm",
+    "description": "Plaid in pure three-ply twisted linen twill. Garment-dyed with smoothed effect, finished with saddle stitch and multi-ply cotton fringes. Hand-knotted.",
+    "priceList": {
+      "retail": 450,
+      "wholesale": 126,
+      "wholesale-trade": 161
+    },
+    "image": "/images/nereo.jpg",
+    "fiber": "linen",
+    "category": "plaid"
+  },
+  {
+    "code": "19759/00",
+    "name": "NIOBE",
+    "label": "JACQUARD BOUCLÉ PLAID 130X180 LONG FRINGES",
+    "fabric": "DUOLOGY",
+    "composition": "90% WP 10% SE",
+    "dimensions": "130x180 cm",
+    "description": "Plaid made of soft bouclé in baby alpaca and silk. Woven on Jacquard loom and finished with long fringes.",
+    "priceList": {
+      "retail": 850,
+      "wholesale": 312,
+      "wholesale-trade": 304
+    },
+    "image": "/images/niobe.jpg",
+    "fiber": "alpaca/silk",
+    "category": "plaid"
+  },
+  {
+    "code": "19910/50",
+    "name": "NYX",
+    "label": "LONG SLEEVE SHIRT IN SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Long sleeve shirt in plain seersucker of Supima cotton and silk with chest pocket.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 115,
+      "wholesale-trade": 118
+    },
+    "image": "/images/nyx.jpg",
+    "fiber": "cotton/silk",
+    "category": "homewear"
+  },
+  {
+    "code": "20318/01",
+    "name": "OCEANO",
+    "label": "SET OF 2 PILLOWCASES ITACO BOURDON EMBROIDERY 50X80",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set of 2 pillowcases in 600 thread count pure cotton Itaco™ 100% Italian with 5 cm flange and double bourdon embroidery.",
+    "priceList": {
+      "retail": 450,
+      "wholesale": 157,
+      "wholesale-trade": 161
+    },
+    "image": "/images/oceano.jpg",
+    "fiber": "cotton",
+    "category": "pillowcase"
+  },
+  {
+    "code": "19388/00",
+    "name": "ODISSEO",
+    "label": "CREPE COTTON REPS BEACH TOWEL 110X180 UNRAVELLED FRINGES",
+    "fabric": "LUXTEL",
+    "composition": "100% CO",
+    "dimensions": "110x180 cm",
+    "description": "Beach towel with striped design made of pure Itaco cotton crêpe 100% Italian. Twill weave on antique shuttle loom and hand-unravelled fringes on both short sides.",
+    "priceList": {
+      "retail": 290,
+      "wholesale": 112,
+      "wholesale-trade": 104
+    },
+    "image": "/images/odisseo.jpg",
+    "fiber": "cotton",
+    "category": "beach towel"
+  },
+  {
+    "code": "19898/50",
+    "name": "OMERO",
+    "label": "JOGGING SHORTS",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Jogging shorts in scuba comfort Itaco cotton, with elasticated ribbed waistband and drawstring.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 95,
+      "wholesale-trade": 100
+    },
+    "image": "/images/omero.jpg",
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
+  },
+  {
+    "code": "20298/00",
+    "name": "ORFEO",
+    "label": "ABSOLUTE CUSHION 50X50 SADDLE STITCH",
+    "fabric": "DENTONE",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Cushion in 100% cashmere with mouflon effect, saddle stitch in ten-ply twisted pure cashmere yarn.",
+    "priceList": {
+      "retail": 620,
+      "wholesale": 206,
+      "wholesale-trade": 211
+    },
+    "image": "/images/orfeo.jpg",
+    "fiber": "cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "20296/01",
+    "name": "ORIONE",
+    "label": "TOP SHEET ITACO SOLID 270X300",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "270x300 cm",
+    "description": "Top sheet in 600 thread count pure cotton Itaco™ 100% Italian.",
+    "priceList": {
+      "retail": 690,
+      "wholesale": 250,
+      "wholesale-trade": 246
+    },
+    "image": "/images/orione.jpg",
+    "fiber": "cotton",
+    "category": "sheet"
+  },
+  {
     "code": "20405/01",
     "name": "PALLAS",
+    "label": "BOTTOM SHEET SEA ISLAND 180X200",
     "fabric": "",
     "composition": "100% CO",
     "dimensions": "180x200 cm",
+    "description": "Bottom sheet in 600 thread count fine Sea Island cotton sateen.",
     "priceList": {
       "retail": 950,
       "wholesale": 392,
@@ -12,8 +1442,363 @@
     },
     "image": "/images/pallas.jpg",
     "fiber": "cotton",
-    "category": "sheet",
-    "label": "FITTED SEA ISLAND SHEET 180X200",
-    "description": "Fitted sheet in 600-thread Sea Island cotton satin."
+    "category": "sheet"
+  },
+  {
+    "code": "20301/00",
+    "name": "PAN",
+    "label": "DOUBLE-FACE CUSHION 4 NOBLE FIBRES 40X60",
+    "fabric": "ROBORE",
+    "composition": "46% WP 40% WS 10% WK 4% WY",
+    "dimensions": "40x60 cm",
+    "description": "Double-face cushion made with a special blend of 4 noble fibres.",
+    "priceList": {
+      "retail": 490,
+      "wholesale": 180,
+      "wholesale-trade": 175
+    },
+    "image": "/images/pan.jpg",
+    "fiber": "alpaca/cashmere/camel/yak",
+    "category": "cushion"
+  },
+  {
+    "code": "16554/01",
+    "name": "PANDORA",
+    "label": "CHEVRON PLAID 130X180 HAND-KNOTTED FRINGES",
+    "fabric": "LIDIPE",
+    "composition": "100% WS",
+    "dimensions": "130x180",
+    "description": "Plaid with knitted effect in 100% twisted cashmere. Woven on antique shuttle loom with classic chevron pattern. Finished with hand-knotted fringes.",
+    "priceList": {
+      "retail": 780,
+      "wholesale": 232,
+      "wholesale-trade": 279
+    },
+    "image": "/images/pandora.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "20496/00",
+    "name": "PARIDE",
+    "label": "DOUBLE-FACE PLAID",
+    "fabric": "ROBORE",
+    "composition": "",
+    "dimensions": "150x200",
+    "description": "Double-face plaid made with a special blend of 4 noble fibres, finished with saddle stitch using ten-ply twisted pure cashmere yarn.",
+    "priceList": {
+      "retail": 1450,
+      "wholesale": 300,
+      "wholesale-trade": 518
+    },
+    "image": "/images/paride.jpg",
+    "fiber": "alpaca/cashmere/camel/yak",
+    "category": "throw"
+  },
+  {
+    "code": "19899/50",
+    "name": "PEGASO",
+    "label": "LONG JOGGING PANTS",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Long jogging pants in scuba comfort Itaco cotton, with elasticated ribbed waistband and cuffs and drawstring.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 135,
+      "wholesale-trade": 118
+    },
+    "image": "/images/pegaso.jpg",
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
+  },
+  {
+    "code": "19356/00",
+    "name": "PERSEO",
+    "label": "DOUBLE-FACE CUSHION CONTRAST 50X50 SADDLE STITCH",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "100% cashmere double-face cushion with mouflon effect and contrast border. Finished with saddle stitch using ten-ply twisted pure cashmere yarn.",
+    "priceList": {
+      "retail": 620,
+      "wholesale": 206,
+      "wholesale-trade": 221
+    },
+    "image": "/images/perseo.jpg",
+    "fiber": "cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "20320/01",
+    "name": "PHOBOS",
+    "label": "BOTTOM SHEET ITACO SOLID 180X200",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "180x200 cm",
+    "description": "Bottom sheet in 600 thread count pure cotton Itaco™ 100% Italian.",
+    "priceList": {
+      "retail": 690,
+      "wholesale": 273,
+      "wholesale-trade": 246
+    },
+    "image": "/images/phobos.jpg",
+    "fiber": "cotton",
+    "category": "sheet"
+  },
+  {
+    "code": "20414/00",
+    "name": "RHEA",
+    "label": "DOUBLE-FACE CUSHION WIDE STRIPE 50X50 SADDLE STITCH",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "50x50",
+    "description": "100% cashmere double-face cushion with mouflon effect and contrast border. Finished with saddle stitch using ten-ply twisted pure cashmere yarn.",
+    "priceList": {
+      "retail": 620,
+      "wholesale": 206,
+      "wholesale-trade": 221
+    },
+    "image": "/images/rhea.jpg",
+    "fiber": "cashmere",
+    "category": "cushion"
+  },
+  {
+    "code": "19909/00",
+    "name": "SAFFO",
+    "label": "CREWNECK SWEATSHIRT SCUBA",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Crewneck sweatshirt in scuba comfort Itaco cotton, with elasticated ribbed hems.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 99,
+      "wholesale-trade": 118
+    },
+    "image": "/images/saffo.jpg",
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
+  },
+  {
+    "code": "19351/00",
+    "name": "SATIRO",
+    "label": "DOUBLE-FACE CUSHION 4 NOBLE FIBRES 40X60 LEATHER PIPING",
+    "fabric": "ROBORE",
+    "composition": "46% WP 40% WS 10% WK 4% WY",
+    "dimensions": "40x60 cm",
+    "description": "Double-face cushion made with a special blend of 4 noble fibres, finished with elegant leather piping along all four sides.",
+    "priceList": {
+      "retail": 590,
+      "wholesale": 160,
+      "wholesale-trade": 211
+    },
+    "image": "/images/satiro.jpg",
+    "fiber": "alpaca/cashmere/camel/yak",
+    "category": "cushion"
+  },
+  {
+    "code": "19352/00",
+    "name": "SCILLA",
+    "label": "STRIPED NATTÈ BEACH TOWEL 130X180 SPIRAL FRINGES",
+    "fabric": "TELLINO",
+    "composition": "100% LI",
+    "dimensions": "130x180 cm",
+    "description": "Striped beach towel in pure linen. Twill weave on antique shuttle loom, finished with hand-spiraled fringes on both short sides.",
+    "priceList": {
+      "retail": 320,
+      "wholesale": 114,
+      "wholesale-trade": 114
+    },
+    "image": "/images/scilla.jpg",
+    "fiber": "linen",
+    "category": "beach towel"
+  },
+  {
+    "code": "20154/00",
+    "name": "SELENE",
+    "label": "ENGLISH KNIT BLANKET F.5 220X240 + BORDER",
+    "fabric": "1968-05-01 00:00:00",
+    "composition": "",
+    "dimensions": "220x240 cm",
+    "description": "Two-tone English knit blanket. Gauge 5, made with 100% WS carded yarn certified by SFA (Sustainable Fibre Alliance) Nm 2/28 3-ply, cashmere fabric border on all four sides.",
+    "priceList": {
+      "retail": 2200,
+      "wholesale": 1212,
+      "wholesale-trade": 786
+    },
+    "image": "/images/selene.jpg",
+    "fiber": "cashmere",
+    "category": "blanket"
+  },
+  {
+    "code": "19860/01",
+    "name": "TACITO",
+    "label": "",
+    "fabric": "60% WS 40% SE",
+    "composition": "OUTSIDE: 100% WS INSIDE: 93% SE 7% EA",
+    "dimensions": "19 X 10 CM",
+    "description": "",
+    "priceList": {
+      "retail": 160,
+      "wholesale": 33,
+      "wholesale-trade": 57
+    },
+    "image": "/images/tacito.jpg",
+    "fiber": "cashmere/silk",
+    "category": "accessory"
+  },
+  {
+    "code": "20277/01",
+    "name": "TALIA",
+    "label": "TABLECLOTH ITACO BOURDON EMBROIDERY 150X190",
+    "fabric": "ARSON",
+    "composition": "100% CO",
+    "dimensions": "150x190 cm",
+    "description": "Tablecloth in yarn-dyed pure cotton Itaco™ with Oxford weave, finished with bourdon embroidery on all four sides.",
+    "priceList": {
+      "retail": 490,
+      "wholesale": 168,
+      "wholesale-trade": 175
+    },
+    "image": "/images/talia.jpg",
+    "fiber": "cotton",
+    "category": "tablecloth"
+  },
+  {
+    "code": "19355/00",
+    "name": "TESEO",
+    "label": "DOUBLE-FACE CONTRAST PLAID 150X200 SADDLE STITCH",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "150x200 cm",
+    "description": "100% cashmere double-face plaid with mouflon effect and contrast border. Finished with saddle stitch using ten-ply twisted pure cashmere yarn.",
+    "priceList": {
+      "retail": 1750,
+      "wholesale": 476,
+      "wholesale-trade": 625
+    },
+    "image": "/images/teseo.jpg",
+    "fiber": "cashmere",
+    "category": "throw"
+  },
+  {
+    "code": "20497/00",
+    "name": "TETIDE",
+    "label": "DOUBLE-FACE BEDSPREAD",
+    "fabric": "ROBORE",
+    "composition": "",
+    "dimensions": "230x260",
+    "description": "Double-face bedspread made with a special blend of 4 noble fibres, finished with a double-folded decorative border.",
+    "priceList": {
+      "retail": 2500,
+      "wholesale": 905,
+      "wholesale-trade": 893
+    },
+    "image": "/images/tetide.jpg",
+    "fiber": "alpaca/cashmere/camel/yak",
+    "category": "bedspread"
+  },
+  {
+    "code": "20319/01",
+    "name": "TIA",
+    "label": "DUVET COVER ITACO BOURDON EMBROIDERY 270X240",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "270x240 cm",
+    "description": "Duvet cover in 600 thread count pure cotton Itaco™ 100% Italian with double bourdon embroidery.",
+    "priceList": {
+      "retail": 1490,
+      "wholesale": 662,
+      "wholesale-trade": 532
+    },
+    "image": "/images/tia.jpg",
+    "fiber": "cotton",
+    "category": "duvet cover"
+  },
+  {
+    "code": "20327/01",
+    "name": "TITO",
+    "label": "HOODED BATHROBE ITACO BOURDON EMBROIDERY",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "S-M-L",
+    "description": "Hooded bathrobe in 500 gr/m² cotton terry Itaco™ 100% Italian, one side looped and one side sheared. Finished with bourdon embroidery.",
+    "priceList": {
+      "retail": 450,
+      "wholesale": 180,
+      "wholesale-trade": 161
+    },
+    "image": "/images/tito.jpg",
+    "fiber": "cotton",
+    "category": "bathrobe"
+  },
+  {
+    "code": "19328/00",
+    "name": "TRITONE",
+    "label": "LIGHT TWILL CUSHION SOLID 50X50 SADDLE STITCH",
+    "fabric": "GIGABYTE",
+    "composition": "100% LI",
+    "dimensions": "50x50 cm",
+    "description": "Cushion in pure three-ply twisted linen twill. Garment-dyed with smoothed effect and finished with saddle stitch in multi-ply cotton yarn.",
+    "priceList": {
+      "retail": 390,
+      "wholesale": 114,
+      "wholesale-trade": 139
+    },
+    "image": "/images/tritone.jpg",
+    "fiber": "linen",
+    "category": "cushion"
+  },
+  {
+    "code": "20329/01",
+    "name": "TYPHON",
+    "label": "BEACH TOWEL ITACO BOURDON EMBROIDERY 100X180",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "100x180/80 cm",
+    "description": "Beach towel in 500 gr/m² cotton terry Itaco™ 100% Italian, one side looped and one side sheared. Finished with contrast border on all four sides.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 140,
+      "wholesale-trade": 125
+    },
+    "image": "/images/typhon.jpg",
+    "fiber": "cotton",
+    "category": "beach towel"
+  },
+  {
+    "code": "19900/50",
+    "name": "VESTA",
+    "label": "HOODED SWEATSHIRT",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Hooded sweatshirt in scuba comfort Itaco cotton, with elasticated ribbed hems.",
+    "priceList": {
+      "retail": 330,
+      "wholesale": 132,
+      "wholesale-trade": 132
+    },
+    "image": "/images/vesta.jpg",
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
+  },
+  {
+    "code": "19325/00",
+    "name": "ZEFIRO",
+    "label": "CASHMERE THROW KNITTED EFFECT",
+    "fabric": "CICCO",
+    "composition": "100% CASHMERE",
+    "dimensions": "130x180",
+    "description": "Throw with knitted effect made from ten-ply twisted pure cashmere yarn, woven in Maxi-Panama on shuttle loom and finished with long fringes, hand-knotted and wrapped.",
+    "priceList": {
+      "retail": 1180,
+      "wholesale": 334,
+      "wholesale-trade": 421
+    },
+    "image": "/images/zefiro.jpg",
+    "fiber": "cashmere",
+    "category": "throw"
   }
 ]
