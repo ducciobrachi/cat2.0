@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700&family=Ysabeau+Office:wght@400;600&display=swap');
 
 /* Reset */
@@ -94,8 +93,33 @@ h1 {
   transform: translateY(0);
 }
 
-/* Pulsante Cambio Lingua */
-#lang-switch {
+/* Pulsanti Cambio Lingua */
+#language-toggle .lang-button {
+  font-family: 'Ysabeau Office', sans-serif;
+  font-size: 0.85rem;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  margin-right: 0.5rem;
+  border: 2px solid #290000;
+  border-radius: 8px;
+  background-color: transparent;
+  color: #290000;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, transform 0.3s;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+}
+
+#language-toggle .lang-button:hover,
+#language-toggle .lang-button.active {
+  background-color: #290000;
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
+/* Pulsante Reset Filtri */
+#reset-filters {
   font-family: 'Ysabeau Office', sans-serif;
   font-size: 0.85rem;
   padding: 0.5rem 1rem;
@@ -111,17 +135,12 @@ h1 {
   letter-spacing: 0.5px;
 }
 
-#language-toggle:hover {
+#reset-filters:hover {
   background-color: #290000;
   color: #ffffff;
   transform: translateY(-2px);
 }
 
-#language-toggle:active {
-  background-color: #4d1a1a;
-  border-color: #4d1a1a;
-  transform: translateY(0);
-}
 /* Slider prezzo */
 input[type="range"] {
   -webkit-appearance: none;
@@ -224,23 +243,7 @@ input[type="range"]::-moz-range-thumb {
   }
 
   .active-filter {
-  border: 2px solid #333;
-  background-color: #f0f0f0;
-  }#reset-filters {
-  background-color: #fff;
-  color: #333;
-  border: 1px solid #ccc;
-  padding: 8px 16px;
-  font-size: 14px;
-  font-family: inherit;
-  cursor: pointer;
-  border-radius: 6px;
-  transition: background-color 0.2s ease, border-color 0.2s ease;
-  margin-top: 10px;
-  }
-
-  #reset-filters:hover {
-  background-color: #f5f5f5;
-  border-color: #999;
+    border: 2px solid #333;
+    background-color: #f0f0f0;
   }
 }
