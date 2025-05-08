@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="page-title">Catalogo Arca</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .lang-switch {
+      display: flex;
+      gap: 0.5rem;
+    }
+    .lang-button {
+      padding: 4px 10px;
+      border: 1px solid #ccc;
+      background: white;
+      cursor: pointer;
+      transition: background 0.2s ease;
+    }
+    .lang-button.active,
+    .lang-button:hover {
+      background: #f0f0f0;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div id="main-content">
+    <header>
+      <h1 id="catalog-title">Catalogo Arca</h1>
+      <div class="lang-switch">
+        <button class="lang-button" data-lang="it" id="btn-it">IT</button>
+        <button class="lang-button" data-lang="en" id="btn-en">EN</button>
+        <button class="lang-button" data-lang="fr" id="btn-fr">FR</button>
+      </div>
+    </header>
+
+    <section class="filters">
+      <input type="text" id="search" placeholder="Cerca prodotti...">
+      
+      <select id="fiberFilter">
+        <option value="">Tutti i materiali</option>
+        <option value="cashmere">Cashmere</option>
+        <option value="cotone">Cotone</option>
+        <option value="lana">Lana</option>
+        <option value="alpaca">Alpaca</option>
+      </select>
+
+      <select id="categoryFilter">
+        <option value="">Tutte le categorie</option>
+        <option value="plaid">Plaid</option>
+        <option value="cuscino">Cuscino</option>
+        <option value="copripiumino">Copripiumino</option>
+        <option value="lenzuolo">Lenzuolo</option>
+        <option value="calzini">Calzini</option>
+        <option value="pantofola">Pantofola</option>
+        <option value="short">Short</option>
+        <option value="pantalone">Pantalone</option>
+        <option value="asciugamano">Asciugamano</option>
+        <option value="telo">Telo</option>
+        <option value="cardigan">Cardigan</option>
+        <option value="federe">Federe</option>
+      </select>
+
+      <input type="range" id="priceRange" min="0" max="2000" value="2000">
+      <label id="priceLabel">Prezzo massimo: 2000€</label>
+    </section>
+
+    <main id="catalog"></main>
+  </div>
+
+  <script src="catalog.js"></script>
+  <script>
+    const translations = {
+      it: {
+        title: 'Catalogo Arca',
+        search: 'Cerca prodotti...',
+        fiber: ['Tutti i materiali', 'Cashmere', 'Cotone', 'Lana', 'Alpaca'],
+        category: ['Tutte le categorie', 'Plaid', 'Cuscino', 'Copripiumino', 'Lenzuolo', 'Calzini', 'Pantofola', 'Short', 'Pantalone', 'Asciugamano', 'Telo', 'Cardigan', 'Federe'],
+        price: val => `Prezzo massimo: €${val}`
+      },
+      en: {
+        title: 'Arca Catalog',
+        search: 'Search products...',
+        fiber: ['All materials', 'Cashmere', 'Cotton', 'Wool', 'Alpaca'],
+        category: ['All categories', 'Throw', 'Cushion', 'Duvet cover', 'Sheet', 'Socks', 'Slippers', 'Shorts', 'Trousers', 'Towel', 'Beach towel', 'Cardigan', 'Pillowcase'],
+        price: val => `Maximum price: €${val}`
+      },
+      fr: {
+        title: 'Catalogue Arca',
+        search: 'Rechercher des produits...',
+        fiber: ['Tous les matériaux', 'Cachemire', 'Coton', 'Laine', 'Alpaga'],
+        category: ['Toutes les catégories', 'Plaid', 'Coussin', 'Housse de couette', 'Drap', 'Chaussettes', 'Pantoufles', 'Short', 'Pantalon', 'Serviette', 'Drap de plage', 'Cardigan', 'Taie d’oreiller'],
+        price: val => `Prix maximum : €${val}`
+      }
+    };
+
+    document.querySelectorAll('.lang-button').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const lang = btn.dataset.lang;
+        const t = translations[lang];
+        document.getElementById('catalog-title').innerText = t.title;
+        document.getElementById('page-title').innerText = t.title;
+        document.getElementById('search').placeholder = t.search;
+
+        const fiberOptions = document.getElementById('fiberFilter').options;
+        t.fiber.forEach((label, i) => fiberOptions[i].text = label);
+
+        const categoryOptions = document.getElementById('categoryFilter').options;
+        t.category.forEach((label, i) => categoryOptions[i].text = label);
+
+        const price = document.getElementById('priceRange').value;
+        document.getElementById('priceLabel').innerText = t.price(price);
+
+        document.querySelectorAll('.lang-button').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        // carica i prodotti per la lingua selezionata
+        currentLang = lang;
+        loadProducts(lang);
+      });
+    });
+  </script>
+</body>
+</html>

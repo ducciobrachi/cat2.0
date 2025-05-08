@@ -1,0 +1,19 @@
+[
+  {
+    "code": "20405/01",
+    "name": "PALLAS",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "180x200 cm",
+    "priceList": {
+      "retail": 950,
+      "wholesale": 392,
+      "wholesale-trade": 339
+    },
+    "image": "/images/pallas.jpg",
+    "fiber": "coton",
+    "category": "drap",
+    "label": "DRAP-HOUSSE SEA ISLAND 180X200",
+    "description": "Drap-housse en satin de coton Sea Island 600 fils."
+  }
+]

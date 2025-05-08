@@ -1,0 +1,19 @@
+[
+  {
+    "code": "20405/01",
+    "name": "PALLAS",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "180x200 cm",
+    "priceList": {
+      "retail": 950,
+      "wholesale": 392,
+      "wholesale-trade": 339
+    },
+    "image": "/images/pallas.jpg",
+    "fiber": "cotone",
+    "category": "lenzuolo",
+    "label": "LENZUOLO SOTTO UNITO SEA ISLAND 180X200",
+    "description": "Lenzuolo sotto in Raso 600 fili di pregiato cotone Sea Island."
+  }
+]
