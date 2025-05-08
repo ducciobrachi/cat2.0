@@ -85,7 +85,7 @@ h1 {
 input[type="range"] {
   -webkit-appearance: none !important;
   width: 100% !important;
-  height: 4px !important;
+  height: 1px !important;
   background: #00000 !important;
   border-radius: 0px !important;
   outline: none !important;
@@ -100,7 +100,7 @@ input[type="range"]::-webkit-slider-thumb {
   appearance: none !important;
   width: 16px !important;
   height: 16px !important;
-  background: #290000 !important;
+  background: #00000 !important;
   border-radius: 50% !important;
   cursor: pointer !important;
   border: none !important;
