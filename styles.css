@@ -86,8 +86,8 @@ input[type="range"] {
   -webkit-appearance: none !important;
   width: 100% !important;
   height: 4px !important;
-  background: #ccc !important;
-  border-radius: 2px !important;
+  background: #00000 !important;
+  border-radius: 0px !important;
   outline: none !important;
   background-image: linear-gradient(to right, #290000 var(--progress, 50%), #ccc var(--progress, 50%)) !important;
   background-size: 100% 100% !important;
