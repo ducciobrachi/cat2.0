@@ -43,6 +43,11 @@ const translations = {
   }
 };
 
+function updateSliderProgress() {
+  const percentage = (priceRange.value / priceRange.max) * 100;
+  priceRange.style.setProperty('--progress', `${percentage}%`);
+}
+
 function updateFilterHighlight() {
   document.querySelectorAll('.active-filter').forEach(el => el.classList.remove('active-filter'));
   if (fiberFilter.value) fiberFilter.classList.add('active-filter');
@@ -105,6 +110,7 @@ function resetFilters() {
   fiberFilter.value = "";
   categoryFilter.value = "";
   priceRange.value = priceRange.max;
+  updateSliderProgress();
   priceLabel.textContent = translations[currentLang].price(priceRange.max);
   filterProducts();
 }
@@ -142,6 +148,7 @@ document.querySelectorAll('.lang-button').forEach(btn => {
     t.fiber.forEach((label, i) => fiberOptions[i].text = label);
     t.category.forEach((label, i) => categoryOptions[i].text = label);
     priceLabel.textContent = t.price(priceRange.value);
+    updateSliderProgress();
     document.querySelectorAll('.lang-button').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     loadProducts(lang);
@@ -152,11 +159,13 @@ searchInput.addEventListener('input', filterProducts);
 fiberFilter.addEventListener('change', filterProducts);
 categoryFilter.addEventListener('change', filterProducts);
 priceRange.addEventListener('input', () => {
+  updateSliderProgress();
   priceLabel.textContent = translations[currentLang].price(priceRange.value);
   filterProducts();
 });
 
 document.addEventListener("DOMContentLoaded", () => {
+  updateSliderProgress();
   loadProducts(currentLang);
   const resetBtn = document.getElementById('reset-filters');
   if (resetBtn) resetBtn.addEventListener('click', resetFilters);
