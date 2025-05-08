@@ -1,10 +1,1440 @@
 [
   {
+    "code": "19345/00",
+    "name": "ACHILLE",
+    "label": "JETÉ JACQUARD 150X200 POINT DE CHEVALET",
+    "fabric": "COZY",
+    "composition": "90% WV 10% WS",
+    "dimensions": "150x200 cm",
+    "description": "Jeté en laine et cachemire, avec motif logo tissé en jacquard et finition au point de chevalet ton sur ton.",
+    "priceList": {
+      "retail": 1180,
+      "wholesale": 182,
+      "wholesale-trade": 279
+    },
+    "image": "/images/achille.jpg",
+    "fiber": "laine/cachemire",
+    "category": "plaid"
+  },
+  {
+    "code": "20415/00",
+    "name": "ADE",
+    "label": "COUSSIN DOUBLE FACE DENTARCA 30X50",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "30X50 cm",
+    "description": "Coussin double face 100% cachemire avec effet mouflon. Fini avec point de chevalet en fil de cachemire torsadé à dix brins.",
+    "priceList": {
+      "retail": 480,
+      "wholesale": 164,
+      "wholesale-trade": 171
+    },
+    "image": "/images/ade.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "20323/01",
+    "name": "AELLO",
+    "label": "SERVIETTE DE BAIN ITACO BRODERIE BOURDON 100X150",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "100x150 cm",
+    "description": "Serviette de bain en éponge de coton italien ItacoTM 100%, 500 gr/m², une face bouclée et une face rasée. Finition avec broderie bourdon sur les quatre côtés.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 115,
+      "wholesale-trade": 105
+    },
+    "image": "/images/aello.jpg",
+    "fiber": "coton",
+    "category": "serviette"
+  },
+  {
+    "code": "20264/50",
+    "name": "AGIA",
+    "label": "CHAUSSONS FEMME CROISÉS EN BOUCLÉ",
+    "fabric": "NEWILLE",
+    "composition": "90% WP 10% PA",
+    "dimensions": "35-36 = XS\n37-38 = S\n39-40 = M\n41-42 = L",
+    "description": "Chaussons croisés pour femme en bouclé d'alpaga bébé et laine avec semelle intérieure en shearling et semelle extérieure en cuir suédé. Finition avec étiquette jacquard Arca.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 109,
+      "wholesale-trade": 100
+    },
+    "image": "/images/agia.jpg",
+    "fiber": "alpaga/laine",
+    "category": "chausson"
+  },
+  {
+    "code": "20263/50",
+    "name": "AGIO",
+    "label": "CHAUSSONS HOMME CROISÉS EN BOUCLÉ",
+    "fabric": "NEWILLE",
+    "composition": "90% WP 10% PA",
+    "dimensions": "39-40 = S\n41-42 = M\n43-44 = L\n45-46 = XL",
+    "description": "Chaussons croisés pour homme en bouclé d'alpaga bébé et laine avec semelle intérieure en shearling et semelle extérieure en cuir suédé. Finition avec étiquette jacquard Arca.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 109,
+      "wholesale-trade": 100
+    },
+    "image": "/images/agio.jpg",
+    "fiber": "alpaga/laine",
+    "category": "chausson"
+  },
+  {
+    "code": "19330/00",
+    "name": "ALECTO",
+    "label": "COUSSIN VELOURS LISSE ITACO 60X60",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "60x60 cm",
+    "description": "Coussin en velours lisse en coton Itaco 100% italien.",
+    "priceList": {
+      "retail": 390,
+      "wholesale": 114,
+      "wholesale-trade": 139
+    },
+    "image": "/images/alecto.jpg",
+    "fiber": "coton",
+    "category": "coussin"
+  },
+  {
+    "code": "19413/00",
+    "name": "ALFEO",
+    "label": "JETÉ JACQUARD ALL OVER 130X180 FRANGES NOUÉES À LA MAIN",
+    "fabric": "STENCIL",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Jeté en cachemire 100% torsadé avec effet tricoté. Tissé sur métier Jacquard et fini avec des franges nouées à la main.",
+    "priceList": {
+      "retail": 920,
+      "wholesale": 258,
+      "wholesale-trade": 329
+    },
+    "image": "/images/alfeo.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "20412/01",
+    "name": "AMMON",
+    "label": "SET DE 6 SOUS-VERRES EN CHANVRE TEINTS EN PIÈCE BRODERIE AJOUR 10X10",
+    "fabric": "ANVER/21",
+    "composition": "100% CA",
+    "dimensions": "10x10 cm",
+    "description": "Set de 6 sous-verres en chanvre 100%, teints en pièce et finis avec broderie ajour sur les quatre côtés.",
+    "priceList": {
+      "retail": 160,
+      "wholesale": 62,
+      "wholesale-trade": 57
+    },
+    "image": "/images/ammon.jpg",
+    "fiber": "chanvre",
+    "category": "accessoire de table"
+  },
+  {
+    "code": "20081/50-51",
+    "name": "ANCHISE",
+    "label": "CHAUSSETTES DE SPORT UNISEXE",
+    "fabric": "100% WS",
+    "composition": "100% WS",
+    "dimensions": "XS-S-M-L",
+    "description": "Chaussettes de sport unisexe en fil cardé 100% WS, certifié SFA (Sustainable Fibre Alliance) Nm 2/28 simple fil, fabriquées en Italie.",
+    "priceList": {
+      "retail": 90,
+      "wholesale": 24,
+      "wholesale-trade": 36
+    },
+    "image": "/images/anchise.jpg",
+    "fiber": "cachemire",
+    "category": "chaussette"
+  },
+  {
+    "code": "19350/00",
+    "name": "APOLLO",
+    "label": "JETÉ BIFACE 4 ANIMAUX 150X200 BORDURE PIPING",
+    "fabric": "ROBORE",
+    "composition": "46% WP  40% WS  10% WK   4% WY",
+    "dimensions": "150x200 cm",
+    "description": "...",
+    "priceList": {
+      "retail": 1680,
+      "wholesale": 598,
+      "wholesale-trade": 600
+    },
+    "image": "/images/apollo.jpg",
+    "fiber": "divers",
+    "category": "jeté"
+  },
+  {
+    "code": "19414/00",
+    "name": "ARES",
+    "label": "JETÉ JACQUARD GAMING ÉCHECS 130X180 FRANGES DÉFAITES",
+    "fabric": "CHESS",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Jeté gaming inspiré du jeu d’échecs en cachemire 100% torsadé. Tissé sur métier Jacquard et fini avec des franges défaites à la main sur les côtés courts.",
+    "priceList": {
+      "retail": 920,
+      "wholesale": 272,
+      "wholesale-trade": 329
+    },
+    "image": "/images/ares.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "20293/01",
+    "name": "ARGO",
+    "label": "DRAP-HOUSSE EN CHANVRE TEINT EN PIÈCE 180X200",
+    "fabric": "100% CA",
+    "composition": "100% CA",
+    "dimensions": "180x200 cm",
+    "description": "Drap-housse en toile de chanvre 100%, teint en pièce.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 205,
+      "wholesale-trade": 196
+    },
+    "image": "/images/argo.jpg",
+    "fiber": "chanvre",
+    "category": "drap"
+  },
+  {
+    "code": "19911/50",
+    "name": "ASTERIA",
+    "label": "SHORT DE PYJAMA EN SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Short en seersucker uni en coton Supima et soie, avec taille élastiquée.",
+    "priceList": {
+      "retail": 195,
+      "wholesale": 75,
+      "wholesale-trade": 78
+    },
+    "image": "/images/asteria.jpg",
+    "fiber": "coton/soie",
+    "category": "vêtement"
+  },
+  {
+    "code": "19346/00",
+    "name": "ATENA",
+    "label": "COUSSIN À BORDURE JACQUARD 50X50 AVEC POINT DE CHEVALET",
+    "fabric": "COZY/1",
+    "composition": "90% WV 10% WS",
+    "dimensions": "50x50 cm",
+    "description": "Coussin en laine et cachemire, avec motif logo tissé sur métier jacquard et finition en point de chevalet ton sur ton.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 102,
+      "wholesale-trade": 125
+    },
+    "image": "/images/atena.jpg",
+    "fiber": "laine/cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "20242/01",
+    "name": "BOREAS",
+    "label": "CHEMIN DE TABLE EN LIN 50X145 DÉFILÉ À LA MAIN",
+    "fabric": "CORSI",
+    "composition": "100% LI",
+    "dimensions": "50x145 cm",
+    "description": "Chemin de table en pur lin à tissage oxford, défilé à la main sur les quatre côtés.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 50,
+      "wholesale-trade": 79
+    },
+    "image": "/images/boreas.jpg",
+    "fiber": "lin",
+    "category": "chemin de table"
+  },
+  {
+    "code": "20300/00",
+    "name": "BROMIO",
+    "label": "COUSSIN VELOURS LISSE ITACO 30X50",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "30x50 cm",
+    "description": "Coussin en velours lisse de pur coton Itaco 100% italien.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 88,
+      "wholesale-trade": 125
+    },
+    "image": "/images/bromio.jpg",
+    "fiber": "coton",
+    "category": "coussin"
+  },
+  {
+    "code": "19329/00",
+    "name": "CALIPSO",
+    "label": "COUSSIN ABSOLUTE 60X60 POINT DE CHEVALET",
+    "fabric": "DENTONE",
+    "composition": "100% WS",
+    "dimensions": "60x60 cm",
+    "description": "Coussin en 100% cachemire avec effet mouflon, couture point de chevalet en fil de cachemire pur torsadé à dix brins.",
+    "priceList": {
+      "retail": 650,
+      "wholesale": 236,
+      "wholesale-trade": 232
+    },
+    "image": "/images/calipso.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "19353/00",
+    "name": "CARIDDI",
+    "label": "COUSSIN DOUBLE FACE NATTÈ RAYÉ 30X50",
+    "fabric": "TELLINO",
+    "composition": "100% LI",
+    "dimensions": "30x50 cm",
+    "description": "Coussin en pur lin double face avec tissage reps et motif rayé.",
+    "priceList": {
+      "retail": 280,
+      "wholesale": 94,
+      "wholesale-trade": 100
+    },
+    "image": "/images/cariddi.jpg",
+    "fiber": "lin",
+    "category": "coussin"
+  },
+  {
+    "code": "19906/50",
+    "name": "CASSIO",
+    "label": "PANTALON DE JOGGING LONG",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Pantalon de jogging long en scuba confort en coton Itaco, avec ceinture et bas côtelés élastiques et cordon de serrage.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 123,
+      "wholesale-trade": 118
+    },
+    "image": "/images/cassio.jpg",
+    "fiber": "coton",
+    "category": "vêtement"
+  },
+  {
+    "code": "20517/00",
+    "name": "CATULLO",
+    "label": "",
+    "fabric": "50% WS 50% SUEDE",
+    "composition": "EXTÉRIEUR : 70% WV 30% WS + parties en daim 100% chèvre / INTÉRIEUR : doublure 100% coton + parties en daim 100% chèvre",
+    "dimensions": "34 x 29 h.20 cm",
+    "description": "Sac composé de tissu et cuir.",
+    "priceList": {
+      "retail": 3400,
+      "wholesale": 1503,
+      "wholesale-trade": 1214
+    },
+    "image": "/images/catullo.jpg",
+    "fiber": "cachemire/cuir",
+    "category": "sac"
+  },
+  {
+    "code": "20299/00",
+    "name": "CERBERO",
+    "label": "COUSSIN VELOURS LISSE ITACO 50X50",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "50x50 cm",
+    "description": "Coussin en velours lisse de pur coton Itaco 100% italien.",
+    "priceList": {
+      "retail": 370,
+      "wholesale": 102,
+      "wholesale-trade": 132
+    },
+    "image": "/images/cerbero.jpg",
+    "fiber": "coton",
+    "category": "coussin"
+  },
+  {
+    "code": "19415/00",
+    "name": "CHIMERA",
+    "label": "JETÉ GAMING BACKGAMMON 130X180 FRANGES DÉFAITES",
+    "fabric": "GAMMON",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Jeté \"gaming\" inspiré du jeu de backgammon en cachemire 100% torsadé. Tissé sur métier Jacquard et fini avec des franges défaites à la main sur les côtés courts.",
+    "priceList": {
+      "retail": 920,
+      "wholesale": 272,
+      "wholesale-trade": 329
+    },
+    "image": "/images/chimera.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "20407/01",
+    "name": "CICLOPE",
+    "label": "SET DE 2 TAIES SEA ISLAND BOURDON 50X80",
+    "fabric": "100% CO",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set de 2 taies en satin 600 fils de pur coton Sea Island avec volant de 5 cm et broderie double ligne bourdon.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 193,
+      "wholesale-trade": 196
+    },
+    "image": "/images/ciclope.jpg",
+    "fiber": "coton",
+    "category": "taie d'oreiller"
+  },
+  {
+    "code": "19411/00",
+    "name": "CIRCE",
+    "label": "JETÉ DIAGONAL ALPAGA 130X180 FRANGES LONGUES",
+    "fabric": "PELUCHE",
+    "composition": "92% WP 8% SE",
+    "dimensions": "130x180 cm",
+    "description": "Jeté 'peluche' en bouclé doux d’alpaga bébé et de soie. Finition avec longues franges.",
+    "priceList": {
+      "retail": 680,
+      "wholesale": 290,
+      "wholesale-trade": 243
+    },
+    "image": "/images/circe.jpg",
+    "fiber": "alpaga/soie",
+    "category": "jeté"
+  },
+  {
+    "code": "20263/51",
+    "name": "CLELIA",
+    "label": "MULE HOMME CROISÉE EN PUR LIN",
+    "fabric": "GIGAPEZ",
+    "composition": "100% LI",
+    "dimensions": "39-40 = S\n41-42 = M\n43-44 = L\n45-46 = XL",
+    "description": "Pantoufle croisée homme en pur lin trois brins torsadé, semelle en TPU.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 100,
+      "wholesale-trade": 88
+    },
+    "image": "/images/clelia.jpg",
+    "fiber": "lin",
+    "category": "pantoufle"
+  },
+  {
+    "code": "20410/01",
+    "name": "CLIO",
+    "label": "CHEMIN DE TABLE EN CHANVRE TEINT EN PIÈCE 50X150 AJOUR",
+    "fabric": "ANVER/21",
+    "composition": "100 % CA",
+    "dimensions": "50X150",
+    "description": "Chemin de table en chanvre 100% teint en pièce, finition avec broderie ajour sur les quatre côtés.",
+    "priceList": {
+      "retail": 290,
+      "wholesale": 103,
+      "wholesale-trade": 104
+    },
+    "image": "/images/clio.jpg",
+    "fiber": "chanvre",
+    "category": "chemin de table"
+  },
+  {
+    "code": "20321/01",
+    "name": "CORE",
+    "label": "SERVIETTE INVITÉ ITACO BRODERIE BOURDON 40X60",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "40x60 cm",
+    "description": "Serviette invité en éponge de coton ItacoTM 100% italien 500 gr/m², une face bouclée et une face rasée. Finition broderie bourdon sur les quatre côtés.",
+    "priceList": {
+      "retail": 89,
+      "wholesale": 35,
+      "wholesale-trade": 32
+    },
+    "image": "/images/core.jpg",
+    "fiber": "coton",
+    "category": "serviette"
+  },
+  {
+    "code": "19347/00",
+    "name": "CRONO",
+    "label": "JETÉ DE VOYAGE DIAGONAL 90X150 FRANGES DÉFAITES",
+    "fabric": "BIRU/1",
+    "composition": "100% WS",
+    "dimensions": "90x150 cm",
+    "description": "Jeté de voyage en pur cachemire avec tissage diagonal, réalisé sur métier navette et fini avec franges défaites à la main sur les deux côtés courts.",
+    "priceList": {
+      "retail": 480,
+      "wholesale": 140,
+      "wholesale-trade": 171
+    },
+    "image": "/images/crono.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "20155/00",
+    "name": "DAFNE",
+    "label": "JETÉ MAILLE ANGLAISE F.5",
+    "fabric": "MAG00069",
+    "composition": "",
+    "dimensions": "220x240 cm",
+    "description": "Jeté en maille anglaise bicolore. Jauge 5, réalisé avec fil cardé 100% WS certifié SFA (Sustainable Fibre Alliance) Nm 2/28 à 3 brins, bord en tissu de cachemire sur les quatre côtés.",
+    "priceList": {
+      "retail": 1780,
+      "wholesale": 812,
+      "wholesale-trade": 636
+    },
+    "image": "/images/dafne.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "19897/50",
+    "name": "DEDALO",
+    "label": "PANTALON LONG",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Pantalon long en interlock confort chiné, avec ceinture et bas côtelés élastiques et cordon de serrage.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 111,
+      "wholesale-trade": 100
+    },
+    "image": "/images/dedalo.jpg",
+    "fiber": "coton",
+    "category": "pantalon"
+  },
+  {
+    "code": "20281/01",
+    "name": "DEMETRA",
+    "label": "SET DE 6 SERVIETTES CHANVRE TEINT EN PIÈCE 50X50 AJOUR",
+    "fabric": "ANVER/21",
+    "composition": "100% CA",
+    "dimensions": "50x50 cm",
+    "description": "Set de 6 serviettes en chanvre 100% teint en pièce, finition broderie ajour sur les quatre côtés.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 123,
+      "wholesale-trade": 125
+    },
+    "image": "/images/demetra.jpg",
+    "fiber": "chanvre",
+    "category": "serviette"
+  },
+  {
+    "code": "20237/00",
+    "name": "DIONISO",
+    "label": "JETÉ MATELASSÉ VELOURS LISSE ITACO 130X180",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "130x180 cm",
+    "description": "Jeté matelassé double face en velours lisse de coton Itaco 100% italien, avec rembourrage.",
+    "priceList": {
+      "retail": 780,
+      "wholesale": 284,
+      "wholesale-trade": 279
+    },
+    "image": "/images/dioniso.jpg",
+    "fiber": "coton",
+    "category": "jeté"
+  },
+  {
+    "code": "19323/00",
+    "name": "EDIPO",
+    "label": "JETÉ DIAGONAL BASIQUE 130X180 FRANGES NOUÉES À LA MAIN",
+    "fabric": "FUBBE",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Jeté avec effet tricoté en cachemire 100% torsadé. Tissé sur ancien métier à navette avec tissage maxi sergé. Finition avec franges nouées à la main.",
+    "priceList": {
+      "retail": 780,
+      "wholesale": 233,
+      "wholesale-trade": 279
+    },
+    "image": "/images/edipo.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "19904/50",
+    "name": "EFESTO",
+    "label": "PANTALON LONG DE PYJAMA",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Pantalon long en interlock confort chiné avec taille élastiquée et large bas avec cordon de serrage.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 107,
+      "wholesale-trade": 100
+    },
+    "image": "/images/efesto.jpg",
+    "fiber": "coton",
+    "category": "pantalon"
+  },
+  {
+    "code": "19348/00",
+    "name": "EGEO",
+    "label": "SERVIETTE DE PLAGE EN LIN RAYÉ DÉLAVÉ 130X180 FRANGES EN SPIRALE",
+    "fabric": "DELLINO",
+    "composition": "100% LI",
+    "dimensions": "130x180 cm",
+    "description": "Serviette de plage rayée barre' en lin délavé. Tissée en sergé sur métier à navette ancien, finie avec franges spiralées à la main sur les deux côtés courts.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 108,
+      "wholesale-trade": 125
+    },
+    "image": "/images/egeo.jpg",
+    "fiber": "lin",
+    "category": "serviette de plage"
+  },
+  {
+    "code": "20264/51",
+    "name": "ELEA",
+    "label": "MULE FEMME CROISÉE EN PUR LIN",
+    "fabric": "GIGAPEZ",
+    "composition": "100% LI",
+    "dimensions": "35-36 = XS, 37-38 = S, 39-40 = M, 41-42 = L",
+    "description": "Pantoufle croisée pour femme en pur lin trois brins torsadé, semelle en TPU.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 100,
+      "wholesale-trade": 88
+    },
+    "image": "/images/elea.jpg",
+    "fiber": "lin",
+    "category": "pantoufle"
+  },
+  {
+    "code": "20406/01",
+    "name": "ELEUSI",
+    "label": "SET DE 2 TAIES D’OREILLER SEA ISLAND 50X80",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set de 2 taies d’oreiller en satin 600 fils de coton Sea Island de haute qualité.",
+    "priceList": {
+      "retail": 420,
+      "wholesale": 130,
+      "wholesale-trade": 150
+    },
+    "image": "/images/eleusi.jpg",
+    "fiber": "coton",
+    "category": "taie d'oreiller"
+  },
+  {
+    "code": "19901/50",
+    "name": "ENEA",
+    "label": "SWEAT-SHIRT COL ROND",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Sweat-shirt col rond en coton Itaco scuba confort, avec bords en maille côtelée élastique.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 116,
+      "wholesale-trade": 118
+    },
+    "image": "/images/enea.jpg",
+    "fiber": "coton/polyamide",
+    "category": "sweat-shirt"
+  },
+  {
+    "code": "19327/00",
+    "name": "EOLO",
+    "label": "COUSSIN DOUBLE FACE NATTÈ 5 FILS 60X60",
+    "fabric": "CICCO/1",
+    "composition": "100% WS",
+    "dimensions": "60x60 cm",
+    "description": "Coussin double face réalisé en pur cachemire torsadé dix fils, tissé en structure Maxi-Panama.",
+    "priceList": {
+      "retail": 590,
+      "wholesale": 184,
+      "wholesale-trade": 211
+    },
+    "image": "/images/eolo.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "19905/50",
+    "name": "EPICURO",
+    "label": "SHORT EN CRÊPE DE COTON",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Short en interlock confort en coton Supima avec ourlet arrondi et ceinture côtelée avec cordon de serrage.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 78,
+      "wholesale-trade": 88
+    },
+    "image": "/images/epicuro.jpg",
+    "fiber": "coton",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "20297/00",
+    "name": "ERACLE",
+    "label": "COUSSIN BASIQUE DIAGONAL 30X50 POINT DE CHEVALET",
+    "fabric": "FUBBE/1",
+    "composition": "100% WS",
+    "dimensions": "30x50 cm",
+    "description": "Coussin en pur cachemire avec tissage en grand sergé et finition point de chevalet.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 116,
+      "wholesale-trade": 125
+    },
+    "image": "/images/eracle.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "19324/00",
+    "name": "ERATO",
+    "label": "COUSSIN BASIQUE DIAGONAL 50X50 POINT DE CHEVALET",
+    "fabric": "FUBBE/1",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Coussin en pur cachemire avec tissage maxi-twill et finition point de chevalet.",
+    "priceList": {
+      "retail": 390,
+      "wholesale": 136,
+      "wholesale-trade": 139
+    },
+    "image": "/images/erato.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "20076/50",
+    "name": "ERCOLE",
+    "label": "CARDIGAN UNISEXE",
+    "fabric": "100% WS",
+    "composition": "100% WS",
+    "dimensions": "Femme : XXS-XS-S-M-L, Homme : S-M-L-XL-XXL",
+    "description": "Cardigan unisexe, tricot French Terry. Jauge 7, réalisé avec fil cardé 100% WS certifié SFA (Sustainable Fibre Alliance) Nm 2/28 à 2 brins, fabriqué en Chine.",
+    "priceList": {
+      "retail": 450,
+      "wholesale": 126,
+      "wholesale-trade": 180
+    },
+    "image": "/images/ercole.jpg",
+    "fiber": "cachemire",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "19913/50",
+    "name": "EREBO",
+    "label": "SHORT DE PYJAMA EN SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Short en seersucker uni en coton Supima et soie, avec taille élastiquée.",
+    "priceList": {
+      "retail": 195,
+      "wholesale": 75,
+      "wholesale-trade": 78
+    },
+    "image": "/images/erebo.jpg",
+    "fiber": "coton/soie",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "19326/00",
+    "name": "EROS",
+    "label": "COUSSIN NATTÈ 5 FILS 50X50 FRANGES DÉFAITES",
+    "fabric": "CICCO/1",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Coussin effet tricot réalisé en pur cachemire torsadé dix fils et tissé en Maxi-Panama, finition avec franges défaites à la main sur les 4 côtés.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 172,
+      "wholesale-trade": 196
+    },
+    "image": "/images/eros.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "20316/01",
+    "name": "ESTIA",
+    "label": "SET DE 2 TAIES D'OREILLER ITACO 50X80",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set de 2 taies d'oreiller en satin 600 fils en pur coton ItacoTM, 100% italien.",
+    "priceList": {
+      "retail": 320,
+      "wholesale": 102,
+      "wholesale-trade": 114
+    },
+    "image": "/images/estia.jpg",
+    "fiber": "coton",
+    "category": "taie d'oreiller"
+  },
+  {
+    "code": "20535/00",
+    "name": "FAUNA",
+    "label": "TAPIS DE LAVABO",
+    "fabric": "CO",
+    "composition": "",
+    "dimensions": "40x60",
+    "description": "Tapis de lavabo en éponge de coton ItacoTM 100% italien 500 gr/m², une face bouclée et une face rasée. Finition avec bord contrasté et broderie bourdon sur les 4 côtés.",
+    "priceList": {
+      "retail": 125,
+      "wholesale": 41,
+      "wholesale-trade": 45
+    },
+    "image": "/images/fauna.jpg",
+    "fiber": "coton",
+    "category": "tapis"
+  },
+  {
+    "code": "20563/00",
+    "name": "FLORA",
+    "label": "TAPIS DE DOUCHE",
+    "fabric": "CO",
+    "composition": "",
+    "dimensions": "60x110",
+    "description": "Tapis de douche en éponge de coton ItacoTM 100% italien 500 gr/m², une face bouclée et une face rasée. Finition avec bord contrasté et broderie bourdon sur les 4 côtés.",
+    "priceList": {
+      "retail": 195,
+      "wholesale": 68,
+      "wholesale-trade": 70
+    },
+    "image": "/images/flora.jpg",
+    "fiber": "coton",
+    "category": "tapis"
+  },
+  {
+    "code": "20278/01",
+    "name": "FORGIA",
+    "label": "NAPPE EN CHANVRE TEINTE EN PIÈCE 150X190 AJOUR",
+    "fabric": "ANVER/21",
+    "composition": "100% CA",
+    "dimensions": "150x190 cm",
+    "description": "Nappe en chanvre 100% teint en pièce, finition avec broderie ajour sur les 4 côtés.",
+    "priceList": {
+      "retail": 420,
+      "wholesale": 148,
+      "wholesale-trade": 150
+    },
+    "image": "/images/forgia.jpg",
+    "fiber": "chanvre",
+    "category": "nappe"
+  },
+  {
+    "code": "19896/50",
+    "name": "FRIXO",
+    "label": "SHORT EN JERSEY",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Short en jersey interlock confort en coton Supima avec taille élastiquée côtelée et cordon de serrage.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 84,
+      "wholesale-trade": 88
+    },
+    "image": "/images/frixo.jpg",
+    "fiber": "coton",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "20408/01",
+    "name": "GERIONE",
+    "label": "HOUSSE DE COUETTE SEA ISLAND BOURDON 270X240",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "270 x 240",
+    "description": "Housse de couette en satin de coton Sea Island 600 fils avec broderie bourdon double ligne.",
+    "priceList": {
+      "retail": 1950,
+      "wholesale": 657,
+      "wholesale-trade": 696
+    },
+    "image": "/images/gerione.jpg",
+    "fiber": "coton",
+    "category": "housse de couette"
+  },
+  {
+    "code": "20295/01",
+    "name": "GIASONE",
+    "label": "HOUSSE DE COUETTE CHANVRE TEINT EN PIÈCE 270X240",
+    "fabric": "CA",
+    "composition": "100% CA",
+    "dimensions": "270x240 cm",
+    "description": "Housse de couette en toile de chanvre 100%, teinte en pièce.",
+    "priceList": {
+      "retail": 850,
+      "wholesale": 295,
+      "wholesale-trade": 304
+    },
+    "image": "/images/giasone.jpg",
+    "fiber": "chanvre",
+    "category": "housse de couette"
+  },
+  {
+    "code": "20075/50",
+    "name": "GIOVE",
+    "label": "SWEAT-SHIRT UNISEXE COL ROND",
+    "fabric": "100% WS",
+    "composition": "100% WS",
+    "dimensions": "Femme : XXS-XS-S-M-L, Homme : S-M-L-XL-XXL",
+    "description": "Sweat-shirt unisexe en tricot French Terry. Jauge 7, réalisé avec fil cardé 100% WS certifié SFA (Sustainable Fibre Alliance) Nm 2/28 à 2 brins, fabriqué en Chine.",
+    "priceList": {
+      "retail": 420,
+      "wholesale": 118,
+      "wholesale-trade": 168
+    },
+    "image": "/images/giove.jpg",
+    "fiber": "cachemire",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "19908/50",
+    "name": "GORGIA",
+    "label": "SWEAT À CAPUCHE",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Sweat à capuche en coton Itaco scuba confort, avec finitions côtelées élastiques.",
+    "priceList": {
+      "retail": 330,
+      "wholesale": 124,
+      "wholesale-trade": 132
+    },
+    "image": "/images/gorgia.jpg",
+    "fiber": "coton/polyamide",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "20294/01",
+    "name": "HEBE",
+    "label": "SET DE 2 TAIES D'OREILLER CHANVRE TEINT EN PIÈCE 50X80",
+    "fabric": "CA",
+    "composition": "100% CA",
+    "dimensions": "50x80 cm",
+    "description": "Set de 2 taies d'oreiller en toile de chanvre 100% teinte en pièce.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 83,
+      "wholesale-trade": 89
+    },
+    "image": "/images/hebe.jpg",
+    "fiber": "chanvre",
+    "category": "taie d'oreiller"
+  },
+  {
+    "code": "19912/50",
+    "name": "HECATE",
+    "label": "CHEMISE À MANCHES LONGUES EN SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Chemise à manches longues en seersucker uni de coton Supima et soie avec poche poitrine.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 119,
+      "wholesale-trade": 118
+    },
+    "image": "/images/hecate.jpg",
+    "fiber": "coton/soie",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "19390/00",
+    "name": "HELIOS",
+    "label": "SERVIETTE DE PLAGE COTON CRÊPE 110X180 FRANGES DÉFAITES",
+    "fabric": "LUXTEL",
+    "composition": "100% CO",
+    "dimensions": "110x180 cm",
+    "description": "Serviette de plage en pur coton crêpe Itaco 100% italien, tissée en reps sur ancien métier à navette, finie avec franges défaites à la main sur les deux côtés courts.",
+    "priceList": {
+      "retail": 290,
+      "wholesale": 112,
+      "wholesale-trade": 104
+    },
+    "image": "/images/helios.jpg",
+    "fiber": "coton",
+    "category": "serviette de plage"
+  },
+  {
+    "code": "19895/50",
+    "name": "HEMERA",
+    "label": "T-SHIRT À MANCHES LONGUES",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "T-shirt à manches longues en interlock confort chiné.",
+    "priceList": {
+      "retail": 180,
+      "wholesale": 73,
+      "wholesale-trade": 72
+    },
+    "image": "/images/hemera.jpg",
+    "fiber": "coton",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "19902/50",
+    "name": "HERA",
+    "label": "T-SHIRT À MANCHES COURTES",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "T-shirt à manches courtes en interlock confort de coton Supima.",
+    "priceList": {
+      "retail": 165,
+      "wholesale": 52,
+      "wholesale-trade": 66
+    },
+    "image": "/images/hera.jpg",
+    "fiber": "coton",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "19903/50",
+    "name": "HESTIA",
+    "label": "T-SHIRT À MANCHES LONGUES",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "T-shirt à manches longues en interlock confort chiné.",
+    "priceList": {
+      "retail": 180,
+      "wholesale": 68,
+      "wholesale-trade": 72
+    },
+    "image": "/images/hestia.jpg",
+    "fiber": "coton",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "20241/01",
+    "name": "HYPNOS",
+    "label": "SET DE 2 SETS DE TABLE 35X50 FRANGES DÉFAITES",
+    "fabric": "BRESH",
+    "composition": "100% LI",
+    "dimensions": "35x50 cm",
+    "description": "Set de 2 sets de table en tissage oxford pur lin, franges défaites à la main sur les 4 côtés.",
+    "priceList": {
+      "retail": 190,
+      "wholesale": 68,
+      "wholesale-trade": 68
+    },
+    "image": "/images/hypnos.jpg",
+    "fiber": "lin",
+    "category": "set de table"
+  },
+  {
+    "code": "19890/01",
+    "name": "ICARO",
+    "label": "PLAID DE VOYAGE",
+    "fabric": "QILIN",
+    "composition": "",
+    "dimensions": "130x150",
+    "description": "Plaid de voyage à motif volanté en pur cachemire, tissé sur anciens métiers à navette et fini avec des franges nouées à la main.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 194,
+      "wholesale-trade": 196
+    },
+    "image": "/images/icaro.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "19894/50",
+    "name": "IDRA",
+    "label": "T-SHIRT À MANCHES COURTES",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "T-shirt à manches courtes en interlock confort de coton Supima.",
+    "priceList": {
+      "retail": 165,
+      "wholesale": 55,
+      "wholesale-trade": 66
+    },
+    "image": "/images/idra.jpg",
+    "fiber": "coton",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "20282/01",
+    "name": "ILIZIA",
+    "label": "SET DE 6 SERVIETTES EN PAPIER TEINT EN PIÈCE 50X50",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "50x50 cm",
+    "description": "Set de 6 serviettes en pur papier japonais avec armure Oxford, teintes en pièce et finies avec broderie bourdon ton sur ton sur les 4 côtés.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 120,
+      "wholesale-trade": 125
+    },
+    "image": "/images/ilizia.jpg",
+    "fiber": "papier",
+    "category": "serviette"
+  },
+  {
+    "code": "19349/00",
+    "name": "IONIO",
+    "label": "COUSSIN LIN DÉLAVÉ 40X60",
+    "fabric": "DELLINO",
+    "composition": "100% LI",
+    "dimensions": "40x60 cm",
+    "description": "Coussin double face en lin délavé pur avec tissage sergé et motif rayé.",
+    "priceList": {
+      "retail": 290,
+      "wholesale": 100,
+      "wholesale-trade": 104
+    },
+    "image": "/images/ionio.jpg",
+    "fiber": "lin",
+    "category": "coussin"
+  },
+  {
+    "code": "20411/01",
+    "name": "IRIS",
+    "label": "RUNNER PAPIER BOURDON TEINT EN PIÈCE 50X150",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "50X150",
+    "description": "Runner en pur papier japonais avec armure Oxford, teint en pièce et fini avec broderie bourdon ton sur ton sur les 4 côtés.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 88,
+      "wholesale-trade": 89
+    },
+    "image": "/images/iris.jpg",
+    "fiber": "papier",
+    "category": "runner"
+  },
+  {
+    "code": "20413/01",
+    "name": "LEDA",
+    "label": "SET DE 6 SOUS-VERRES PAPIER BOURDON TEINT EN PIÈCE 13X13",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "13X13",
+    "description": "Set de 6 sous-verres en pur papier japonais avec armure Oxford, teints en pièce et finis avec broderie bourdon ton sur ton sur les 4 côtés.",
+    "priceList": {
+      "retail": 160,
+      "wholesale": 62,
+      "wholesale-trade": 57
+    },
+    "image": "/images/leda.jpg",
+    "fiber": "papier",
+    "category": "sous-verre"
+  },
+  {
+    "code": "19907/50",
+    "name": "MANLIO",
+    "label": "PANTALON JOGGING",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Pantalon de jogging long avec ceinture élastique côtelée et bas ample à cordon, en coton Itaco.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 123,
+      "wholesale-trade": 118
+    },
+    "image": "/images/manlio.jpg",
+    "fiber": "coton/polyamide",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "20279/01",
+    "name": "MEDEA",
+    "label": "NAPPE PAPIER JAPONAIS TEINT EN PIÈCE 150X190",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "150x190 cm",
+    "description": "Nappe en pur papier japonais avec armure Oxford, teint en pièce et fini avec broderie bourdon ton sur ton sur les 4 côtés.",
+    "priceList": {
+      "retail": 420,
+      "wholesale": 135,
+      "wholesale-trade": 150
+    },
+    "image": "/images/medea.jpg",
+    "fiber": "papier",
+    "category": "nappe"
+  },
+  {
+    "code": "19412/00",
+    "name": "MEDUSA",
+    "label": "COUSSIN DIAGONAL ALPAGA 60X60 PASSEPOIL EN CUIR",
+    "fabric": "PELUCHE/1",
+    "composition": "92% WP 8% SE",
+    "dimensions": "60x60 cm",
+    "description": "Coussin 'peluche' en bouclé doux d’alpaga bébé et soie. Finition avec élégant passepoil en cuir.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 184,
+      "wholesale-trade": 125
+    },
+    "image": "/images/medusa.jpg",
+    "fiber": "alpaga/soie",
+    "category": "coussin"
+  },
+  {
+    "code": "20280/01",
+    "name": "MELIA",
+    "label": "SET DE 6 SERVIETTES ITACO BRODERIE BOURDON 50X50",
+    "fabric": "ARSON",
+    "composition": "100% CO",
+    "dimensions": "50x50 cm",
+    "description": "Set de 6 serviettes en pur coton Itaco™ teint en fil avec armure Oxford, finition broderie bourdon sur les 4 côtés.",
+    "priceList": {
+      "retail": 390,
+      "wholesale": 132,
+      "wholesale-trade": 139
+    },
+    "image": "/images/melia.jpg",
+    "fiber": "coton",
+    "category": "serviette"
+  },
+  {
+    "code": "20404/01",
+    "name": "MENELAO",
+    "label": "DRAP DU DESSUS SEA ISLAND 270X300",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "270x300 cm",
+    "description": "Drap du dessus en satin de coton Sea Island 600 fils de grande qualité.",
+    "priceList": {
+      "retail": 950,
+      "wholesale": 353,
+      "wholesale-trade": 339
+    },
+    "image": "/images/menelao.jpg",
+    "fiber": "coton",
+    "category": "drap"
+  },
+  {
+    "code": "20292/01",
+    "name": "MORFEO",
+    "label": "DRAP DU DESSUS CHANVRE TEINT EN PIÈCE 270X300",
+    "fabric": "CA",
+    "composition": "100% CA",
+    "dimensions": "270x300 cm",
+    "description": "Drap du dessus en toile de chanvre 100%, teint en pièce.",
+    "priceList": {
+      "retail": 550,
+      "wholesale": 188,
+      "wholesale-trade": 196
+    },
+    "image": "/images/morfeo.jpg",
+    "fiber": "chanvre",
+    "category": "drap"
+  },
+  {
+    "code": "19873/00",
+    "name": "MUSA",
+    "label": "COUSSIN CÔTES ANGLAISES BICOLORE F.5",
+    "fabric": "MAG00070",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Coussin double face en pur cachemire, avec un côté en maille anglaise vanisé bicolore et un côté en tissu effet mouflon.",
+    "priceList": {
+      "retail": 780,
+      "wholesale": 234,
+      "wholesale-trade": 279
+    },
+    "image": "/images/musa.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "16893/02",
+    "name": "NARCISO",
+    "label": "PLAID ABSOLUTE 150X200 POINT DE CHEVALET + FRANGES NOUÉES À LA MAIN",
+    "fabric": "DENTONE",
+    "composition": "100% WS",
+    "dimensions": "150x200 cm",
+    "description": "Plaid en 100% cachemire avec effet mouflon, point de chevalet et franges nouées à la main en fil de cachemire pur torsadé dix brins.",
+    "priceList": {
+      "retail": 1750,
+      "wholesale": 484,
+      "wholesale-trade": 625
+    },
+    "image": "/images/narciso.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "19389/00",
+    "name": "NEMESI",
+    "label": "COUSSIN COTON CRÊPE REPS RAYÉ 30X50",
+    "fabric": "LUXTEL/1",
+    "composition": "100% CO",
+    "dimensions": "30x50 cm",
+    "description": "Coussin en tissage reps et motif rayé en pur coton crêpe Itaco 100% italien.",
+    "priceList": {
+      "retail": 220,
+      "wholesale": 86,
+      "wholesale-trade": 79
+    },
+    "image": "/images/nemesi.jpg",
+    "fiber": "coton",
+    "category": "coussin"
+  },
+  {
+    "code": "19331/00",
+    "name": "NEREO",
+    "label": "PLAID LIN TWILL UNI 150X200 POINT DE CHEVALET",
+    "fabric": "GIGABYTE",
+    "composition": "100% LI",
+    "dimensions": "150x200 cm",
+    "description": "Plaid en twill de lin pur trois brins torsadé. Teint en pièce avec effet lissé, finition point de chevalet et franges en coton multi-brins nouées à la main.",
+    "priceList": {
+      "retail": 450,
+      "wholesale": 126,
+      "wholesale-trade": 161
+    },
+    "image": "/images/nereo.jpg",
+    "fiber": "lin",
+    "category": "jeté"
+  },
+  {
+    "code": "19759/00",
+    "name": "NIOBE",
+    "label": "PLAID JACQUARD BOUCLÉ 130X180 FRANGES LONGUES",
+    "fabric": "DUOLOGY",
+    "composition": "90% WP 10% SE",
+    "dimensions": "130x180 cm",
+    "description": "Plaid en bouclé doux d’alpaga bébé et soie. Tissé sur métier Jacquard et fini avec de longues franges.",
+    "priceList": {
+      "retail": 850,
+      "wholesale": 312,
+      "wholesale-trade": 304
+    },
+    "image": "/images/niobe.jpg",
+    "fiber": "alpaga/soie",
+    "category": "jeté"
+  },
+  {
+    "code": "19910/50",
+    "name": "NYX",
+    "label": "CHEMISE MANCHES LONGUES EN SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Chemise à manches longues en seersucker uni de coton Supima et soie avec poche poitrine.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 115,
+      "wholesale-trade": 118
+    },
+    "image": "/images/nyx.jpg",
+    "fiber": "coton/soie",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "20318/01",
+    "name": "OCEANO",
+    "label": "SET DE 2 TAIES D'OREILLER ITACO BRODERIE BOURDON 50X80",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set de 2 taies en satin 600 fils de pur coton Itaco™ 100% italien avec volant de 5 cm et broderie bourdon double ligne.",
+    "priceList": {
+      "retail": 450,
+      "wholesale": 157,
+      "wholesale-trade": 161
+    },
+    "image": "/images/oceano.jpg",
+    "fiber": "coton",
+    "category": "taie d'oreiller"
+  },
+  {
+    "code": "19388/00",
+    "name": "ODISSEO",
+    "label": "SERVIETTE DE PLAGE COTON CRÊPE REPS 110X180 FRANGES DÉFAITES",
+    "fabric": "LUXTEL",
+    "composition": "100% CO",
+    "dimensions": "110x180 cm",
+    "description": "Serviette de plage à rayures en pur coton crêpe Itaco 100% italien. Tissée en reps sur ancien métier à navette et finie avec des franges défaites à la main sur les deux côtés courts.",
+    "priceList": {
+      "retail": 290,
+      "wholesale": 112,
+      "wholesale-trade": 104
+    },
+    "image": "/images/odisseo.jpg",
+    "fiber": "coton",
+    "category": "serviette de plage"
+  },
+  {
+    "code": "19898/50",
+    "name": "OMERO",
+    "label": "SHORT DE JOGGING",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Short de jogging en coton Itaco scuba confort, avec ceinture élastique côtelée et cordon de serrage.",
+    "priceList": {
+      "retail": 250,
+      "wholesale": 95,
+      "wholesale-trade": 100
+    },
+    "image": "/images/omero.jpg",
+    "fiber": "coton/polyamide",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "20298/00",
+    "name": "ORFEO",
+    "label": "COUSSIN ABSOLUTE 50X50 POINT DE CHEVALET",
+    "fabric": "DENTONE",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Coussin en 100% cachemire avec effet mouflon, couture point de chevalet en fil de cachemire pur torsadé à dix brins.",
+    "priceList": {
+      "retail": 620,
+      "wholesale": 206,
+      "wholesale-trade": 211
+    },
+    "image": "/images/orfeo.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "20296/01",
+    "name": "ORIONE",
+    "label": "DRAP DU DESSUS ITACO UNI 270X300",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "270x300 cm",
+    "description": "Drap du dessus en satin 600 fils de pur coton Itaco™ 100% italien.",
+    "priceList": {
+      "retail": 690,
+      "wholesale": 250,
+      "wholesale-trade": 246
+    },
+    "image": "/images/orione.jpg",
+    "fiber": "coton",
+    "category": "drap"
+  },
+  {
     "code": "20405/01",
     "name": "PALLAS",
+    "label": "DRAP-HOUSSE SEA ISLAND 180X200",
     "fabric": "",
     "composition": "100% CO",
     "dimensions": "180x200 cm",
+    "description": "Drap-housse en satin 600 fils de coton Sea Island de grande qualité.",
     "priceList": {
       "retail": 950,
       "wholesale": 392,
@@ -12,8 +1442,363 @@
     },
     "image": "/images/pallas.jpg",
     "fiber": "coton",
-    "category": "drap",
-    "label": "DRAP-HOUSSE SEA ISLAND 180X200",
-    "description": "Drap-housse en satin de coton Sea Island 600 fils."
+    "category": "drap"
+  },
+  {
+    "code": "20301/00",
+    "name": "PAN",
+    "label": "COUSSIN DOUBLE FACE 4 FIBRES NOBLES 40X60",
+    "fabric": "ROBORE",
+    "composition": "46% WP 40% WS 10% WK 4% WY",
+    "dimensions": "40x60 cm",
+    "description": "Coussin double face réalisé avec un mélange spécial de 4 fibres nobles.",
+    "priceList": {
+      "retail": 490,
+      "wholesale": 180,
+      "wholesale-trade": 175
+    },
+    "image": "/images/pan.jpg",
+    "fiber": "alpaga/cachemire/chameau/yak",
+    "category": "coussin"
+  },
+  {
+    "code": "16554/01",
+    "name": "PANDORA",
+    "label": "PLAID CHEVRON 130X180 FRANGES NOUÉES À LA MAIN",
+    "fabric": "LIDIPE",
+    "composition": "100% WS",
+    "dimensions": "130x180",
+    "description": "Plaid avec effet tricoté en 100% cachemire torsadé. Tissé sur ancien métier à navette avec motif chevron classique. Fini avec franges nouées à la main.",
+    "priceList": {
+      "retail": 780,
+      "wholesale": 232,
+      "wholesale-trade": 279
+    },
+    "image": "/images/pandora.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "20496/00",
+    "name": "PARIDE",
+    "label": "PLAID DOUBLE FACE",
+    "fabric": "ROBORE",
+    "composition": "",
+    "dimensions": "150x200",
+    "description": "Plaid double face réalisé avec un mélange spécial de 4 fibres nobles, finition point de chevalet avec fil de cachemire pur torsadé à dix brins.",
+    "priceList": {
+      "retail": 1450,
+      "wholesale": 300,
+      "wholesale-trade": 518
+    },
+    "image": "/images/paride.jpg",
+    "fiber": "alpaga/cachemire/chameau/yak",
+    "category": "jeté"
+  },
+  {
+    "code": "19899/50",
+    "name": "PEGASO",
+    "label": "PANTALON LONG DE JOGGING",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Pantalon long de jogging en scuba confort coton Itaco, avec ceinture et bas en maille côtelée élastique et cordon de serrage.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 135,
+      "wholesale-trade": 118
+    },
+    "image": "/images/pegaso.jpg",
+    "fiber": "coton/polyamide",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "19356/00",
+    "name": "PERSEO",
+    "label": "COUSSIN DOUBLE FACE ALTERNÉ 50X50 POINT DE CHEVALET",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Coussin en 100% cachemire double face avec effet mouflon et bord contrasté. Finition point de chevalet avec fil de cachemire pur torsadé à dix brins.",
+    "priceList": {
+      "retail": 620,
+      "wholesale": 206,
+      "wholesale-trade": 221
+    },
+    "image": "/images/perseo.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "20320/01",
+    "name": "PHOBOS",
+    "label": "DRAP-HOUSSE ITACO UNI 180X200",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "180x200 cm",
+    "description": "Drap-housse en satin 600 fils de pur coton Itaco™ 100% italien.",
+    "priceList": {
+      "retail": 690,
+      "wholesale": 273,
+      "wholesale-trade": 246
+    },
+    "image": "/images/phobos.jpg",
+    "fiber": "coton",
+    "category": "drap"
+  },
+  {
+    "code": "20414/00",
+    "name": "RHEA",
+    "label": "COUSSIN DOUBLE FACE LARGE RAYURE 50X50 POINT DE CHEVALET",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "50x50",
+    "description": "Coussin en 100% cachemire double face avec effet mouflon et bord contrasté. Finition point de chevalet avec fil de cachemire pur torsadé à dix brins.",
+    "priceList": {
+      "retail": 620,
+      "wholesale": 206,
+      "wholesale-trade": 221
+    },
+    "image": "/images/rhea.jpg",
+    "fiber": "cachemire",
+    "category": "coussin"
+  },
+  {
+    "code": "19909/00",
+    "name": "SAFFO",
+    "label": "SWEAT-SHIRT COL ROND SCUBA",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Sweat-shirt col rond en scuba confort coton Itaco, avec bords en maille côtelée élastique.",
+    "priceList": {
+      "retail": 295,
+      "wholesale": 99,
+      "wholesale-trade": 118
+    },
+    "image": "/images/saffo.jpg",
+    "fiber": "coton/polyamide",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "19351/00",
+    "name": "SATIRO",
+    "label": "COUSSIN DOUBLE FACE 4 FIBRES NOBLES 40X60 PASSEPOIL EN CUIR",
+    "fabric": "ROBORE",
+    "composition": "46% WP 40% WS 10% WK 4% WY",
+    "dimensions": "40x60 cm",
+    "description": "Coussin double face réalisé avec un mélange spécial de 4 fibres nobles, fini avec un élégant passepoil en cuir sur les quatre côtés.",
+    "priceList": {
+      "retail": 590,
+      "wholesale": 160,
+      "wholesale-trade": 211
+    },
+    "image": "/images/satiro.jpg",
+    "fiber": "alpaga/cachemire/chameau/yak",
+    "category": "coussin"
+  },
+  {
+    "code": "19352/00",
+    "name": "SCILLA",
+    "label": "SERVIETTE DE PLAGE NATTÈ RAYÉ 130X180 FRANGES SPIRALES",
+    "fabric": "TELLINO",
+    "composition": "100% LI",
+    "dimensions": "130x180 cm",
+    "description": "Serviette de plage rayée en pur lin. Tissée en reps sur ancien métier à navette et finie avec des franges spiralées à la main sur les deux côtés courts.",
+    "priceList": {
+      "retail": 320,
+      "wholesale": 114,
+      "wholesale-trade": 114
+    },
+    "image": "/images/scilla.jpg",
+    "fiber": "lin",
+    "category": "serviette de plage"
+  },
+  {
+    "code": "20154/00",
+    "name": "SELENE",
+    "label": "COUVERTURE MAILLE ANGLAISE F.5 220X240 + BORDURE",
+    "fabric": "1968-05-01 00:00:00",
+    "composition": "",
+    "dimensions": "220x240 cm",
+    "description": "Couverture en maille anglaise bicolore. Jauge 5, réalisée avec du fil cardé 100% WS certifié SFA (Sustainable Fibre Alliance) Nm 2/28 à 3 brins, bordure en tissu cachemire sur les quatre côtés.",
+    "priceList": {
+      "retail": 2200,
+      "wholesale": 1212,
+      "wholesale-trade": 786
+    },
+    "image": "/images/selene.jpg",
+    "fiber": "cachemire",
+    "category": "couverture"
+  },
+  {
+    "code": "19860/01",
+    "name": "TACITO",
+    "label": "",
+    "fabric": "60% WS 40% SE",
+    "composition": "EXTÉRIEUR : 100% WS INTÉRIEUR : 93% SE 7% EA",
+    "dimensions": "19 X 10 CM",
+    "description": "",
+    "priceList": {
+      "retail": 160,
+      "wholesale": 33,
+      "wholesale-trade": 57
+    },
+    "image": "/images/tacito.jpg",
+    "fiber": "cachemire/soie",
+    "category": "accessoire"
+  },
+  {
+    "code": "20277/01",
+    "name": "TALIA",
+    "label": "NAPPE ITACO BRODERIE BOURDON 150X190",
+    "fabric": "ARSON",
+    "composition": "100% CO",
+    "dimensions": "150x190 cm",
+    "description": "Nappe en pur coton Itaco™ teint en fil avec armure Oxford, finie avec broderie bourdon sur les quatre côtés.",
+    "priceList": {
+      "retail": 490,
+      "wholesale": 168,
+      "wholesale-trade": 175
+    },
+    "image": "/images/talia.jpg",
+    "fiber": "coton",
+    "category": "nappe"
+  },
+  {
+    "code": "19355/00",
+    "name": "TESEO",
+    "label": "PLAID DOUBLE FACE CONTRASTÉ 150X200 POINT DE CHEVALET",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "150x200 cm",
+    "description": "Plaid double face en 100% cachemire avec effet mouflon et bordure contrastée. Finition point de chevalet avec fil de cachemire pur torsadé à dix brins.",
+    "priceList": {
+      "retail": 1750,
+      "wholesale": 476,
+      "wholesale-trade": 625
+    },
+    "image": "/images/teseo.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
+  },
+  {
+    "code": "20497/00",
+    "name": "TETIDE",
+    "label": "DESSUS DE LIT DOUBLE FACE",
+    "fabric": "ROBORE",
+    "composition": "",
+    "dimensions": "230x260",
+    "description": "Dessus de lit double face réalisé avec un mélange spécial de 4 fibres nobles, fini avec une bordure décorative double pliée.",
+    "priceList": {
+      "retail": 2500,
+      "wholesale": 905,
+      "wholesale-trade": 893
+    },
+    "image": "/images/tetide.jpg",
+    "fiber": "alpaga/cachemire/chameau/yak",
+    "category": "dessus-de-lit"
+  },
+  {
+    "code": "20319/01",
+    "name": "TIA",
+    "label": "HOUSSE DE COUETTE ITACO BRODERIE BOURDON 270X240",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "270x240 cm",
+    "description": "Housse de couette en satin 600 fils de pur coton Itaco™ 100% italien avec broderie bourdon double ligne.",
+    "priceList": {
+      "retail": 1490,
+      "wholesale": 662,
+      "wholesale-trade": 532
+    },
+    "image": "/images/tia.jpg",
+    "fiber": "coton",
+    "category": "housse de couette"
+  },
+  {
+    "code": "20327/01",
+    "name": "TITO",
+    "label": "PEIGNOIR À CAPUCHE ITACO BRODERIE BOURDON",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "S-M-L",
+    "description": "Peignoir à capuche en éponge de coton 500 g/m² Itaco™ 100% italien, une face bouclée et une face rasée. Finition broderie bourdon.",
+    "priceList": {
+      "retail": 450,
+      "wholesale": 180,
+      "wholesale-trade": 161
+    },
+    "image": "/images/tito.jpg",
+    "fiber": "coton",
+    "category": "peignoir"
+  },
+  {
+    "code": "19328/00",
+    "name": "TRITONE",
+    "label": "COUSSIN TWILL LÉGER UNI 50X50 POINT DE CHEVALET",
+    "fabric": "GIGABYTE",
+    "composition": "100% LI",
+    "dimensions": "50x50 cm",
+    "description": "Coussin en twill de lin pur torsadé trois brins. Teint en pièce avec effet lissé et fini avec couture point de chevalet en fil de coton multi-brins.",
+    "priceList": {
+      "retail": 390,
+      "wholesale": 114,
+      "wholesale-trade": 139
+    },
+    "image": "/images/tritone.jpg",
+    "fiber": "lin",
+    "category": "coussin"
+  },
+  {
+    "code": "20329/01",
+    "name": "TYPHON",
+    "label": "SERVIETTE DE PLAGE ITACO BRODERIE BOURDON 100X180",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "100x180/80 cm",
+    "description": "Serviette de plage en éponge de coton 500 g/m² Itaco™ 100% italien, une face bouclée et une face rasée. Finition avec encadrement contrasté sur les 4 côtés.",
+    "priceList": {
+      "retail": 350,
+      "wholesale": 140,
+      "wholesale-trade": 125
+    },
+    "image": "/images/typhon.jpg",
+    "fiber": "coton",
+    "category": "serviette de plage"
+  },
+  {
+    "code": "19900/50",
+    "name": "VESTA",
+    "label": "SWEAT À CAPUCHE",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Sweat à capuche en coton scuba confort Itaco, avec bords en maille côtelée élastique.",
+    "priceList": {
+      "retail": 330,
+      "wholesale": 132,
+      "wholesale-trade": 132
+    },
+    "image": "/images/vesta.jpg",
+    "fiber": "coton/polyamide",
+    "category": "vêtement d'intérieur"
+  },
+  {
+    "code": "19325/00",
+    "name": "ZEFIRO",
+    "label": "PLAID CACHEMIRE EFFET TRICOT",
+    "fabric": "CICCO",
+    "composition": "100% CACHEMIRE",
+    "dimensions": "130x180",
+    "description": "Plaid à effet tricoté réalisé avec un fil de cachemire pur torsadé à dix brins, tissé en Maxi-Panama sur métier à navette et fini avec longues franges nouées et gainées à la main.",
+    "priceList": {
+      "retail": 1180,
+      "wholesale": 334,
+      "wholesale-trade": 421
+    },
+    "image": "/images/zefiro.jpg",
+    "fiber": "cachemire",
+    "category": "jeté"
   }
 ]
