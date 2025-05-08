@@ -85,45 +85,45 @@ h1 {
 input[type="range"] {
   -webkit-appearance: none;
   width: 100%;
-  height: 12px;
-  border-radius: 6px;
+  height: 4px;
+  background: #ccc;
+  border-radius: 2px;
   outline: none;
+  background-image: linear-gradient(to right, #290000 var(--progress, 50%), #ccc var(--progress, 50%));
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   transition: background 0.3s ease-in-out;
-  margin: 0.5rem 0;
-  background: linear-gradient(to right, #290000 var(--progress, 50%), #ccc var(--progress, 50%));
 }
 
 input[type="range"]::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  width: 24px;
-  height: 24px;
-  background: #ffffff;
-  border: 2px solid #290000;
+  width: 16px;
+  height: 16px;
+  background: #290000;
   border-radius: 50%;
   cursor: pointer;
+  border: none;
   transition: transform 0.2s ease;
   margin-top: -6px;
-  position: relative;
-  z-index: 1;
 }
 
 input[type="range"]::-webkit-slider-thumb:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 input[type="range"]::-moz-range-thumb {
-  width: 24px;
-  height: 24px;
-  background: #ffffff;
-  border: 2px solid #290000;
+  width: 16px;
+  height: 16px;
+  background: #290000;
+  border: none;
   border-radius: 50%;
   cursor: pointer;
   transition: transform 0.2s ease;
 }
 
 input[type="range"]::-moz-range-thumb:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 /* Custom select appearance */
