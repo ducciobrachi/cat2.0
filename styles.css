@@ -95,7 +95,7 @@ h1 {
 }
 
 /* Pulsante Cambio Lingua */
-#language-toggle {
+#lang-button {
   font-family: 'Ysabeau Office', sans-serif;
   font-size: 0.85rem;
   padding: 0.5rem 1rem;
