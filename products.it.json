@@ -1,19 +1,1805 @@
 [
+ {
+    "code": "19345/00",
+    "name": "ACHILLE",
+    "label": "PLAID C/CORNICE JACQUARD 150X200 CAVALLO",
+    "fabric": "COZY",
+    "composition": "90% WV 10% WS",
+    "dimensions": "150x200 cm",
+    "description": "Plaid in lana e cashmere, con motivo logo tessuto su telaio jacquard e rifinito con cucitura punto cavallo in tono.",
+    "priceList": {
+    "retail": 1180,
+    "wholesale": 182,
+    "wholesale-trade":279
+    },
+    "image": "/images/achille.jpg",
+    "fiber": "wool/cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "20415/00",
+    "name": "ADE",
+    "label": "CUSCINO BIFACCIA UNITO DENTARCA 30X50",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "30X50 cm",
+    "description": "Cuscino in 100% cashmere double-face con effetto mouflon. Finito con lavorazione punto cavallo con filato puro cashmere ritorto a dieci capi.",
+    "priceList": {
+    "retail": 480,
+    "wholesale": 164,
+    "wholesale-trade":171
+    },
+    "image": "/images/ade.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "20323/01",
+    "name": "AELLO",
+    "label": "TELO DOCCIA ITACO RIC.BOURDON 100X150",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "100x150 cm",
+    "description": "Telo doccia in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con ricamo bourdon sui 4 lati.",
+     "priceList": {
+    "retail": 295,
+    "wholesale": 115,
+    "wholesale-trade":105
+    },
+    "image": "/images/aello.jpg",
+    "fiber": "cotone",
+    "category": "telo"
+  },
+  {
+    "code": "20264/50",
+    "name": "AGIA",
+    "label": "PANTOFOLA INCROCIATA BOUCLE",
+    "fabric": "NEWILLE",
+    "composition": "90% WP 10% PA",
+    "dimensions": "35-36 = XS\n37-38 = S\n39-40 = M\n41-42 = L",
+    "description": "Pantofola donna incrociata in bouclé di baby alpaca e lana con soletta interna in montone e fondo in pelle scamosciata. Finitura con etichetta jacquard Arca.",
+     "priceList": {
+    "retail": 250,
+    "wholesale": 109,
+    "wholesale-trade":100
+    },
+    "image": "/images/agia.jpg",
+    "fiber": "alpaca/wool",
+    "category": "pantofola"
+  },
+  {
+    "code": "20263/50",
+    "name": "AGIO",
+    "label": "PANTOFOLA INCROCIATA BOUCLE",
+    "fabric": "NEWILLE",
+    "composition": "90% WP 10% PA",
+    "dimensions": "39-40 = S\n41-42 = M\n43-44 = L\n45-46 = XL",
+    "description": "Pantofola uomo incrociata in bouclé di baby alpaca e lana con soletta interna in montone e fondo in pelle scamosciata. Finitura con etichetta jacquard Arca.",
+    "priceList": {
+    "retail": 250,
+    "wholesale": 109,
+    "wholesale-trade":100
+    },
+    "image": "/images/agio.jpg",
+    "fiber": "alpaca/wool",
+    "category": "pantofola"
+  },
+  {
+    "code": "19330/00",
+    "name": "ALECTO",
+    "label": "CUSCINO VELLUTO LISCIO ITACO 60X60",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "60x60 cm",
+    "description": "Cuscino in velluto liscio di puro cotone Itaco 100% Italiano.",
+    "priceList": {
+    "retail": 390,
+    "wholesale": 114,
+    "wholesale-trade":139
+    },
+    "image": "/images/alecto.jpg",
+    "fiber": "cotton",
+    "category": "cuscino"
+  },
+  {
+    "code": "19413/00",
+    "name": "ALFEO",
+    "label": "PLAID JACQUARD ALL OVER A 130X180 ANN.8",
+    "fabric": "STENCIL",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Plaid con effetto ammagliato in 100% cashmere ritorto. Tessuto su telaio Jacquard e rifinito con frange annodate a mano.",
+     "priceList": {
+    "retail": 920,
+    "wholesale":258,
+    "wholesale-trade":329
+    },
+    "image": "/images/alfeo.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "20412/01",
+    "name": "AMMON",
+    "label": "SET 6 SOTTO-BICC.CANAPA T.CAPO 13X13 A-J",
+    "fabric": "ANVER/21",
+    "composition": "100 % CA",
+    "dimensions": "10x10 cm",
+    "description": "Set 6 sottobicchieri in 100% Canapa tinti in capo, rifiniti con ricamo ajour sui 4 lati.",
+     "priceList": {
+    "retail": 160,
+    "wholesale":62,
+    "wholesale-trade":57
+    },
+    "image": "/images/ammon.jpg",
+    "fiber": "hemp",
+    "category": "accessorio tavola"
+  },
+  {
+    "code": "20081/50-51",
+    "name": "ANCHISE",
+    "label": "CALZINO SPORTIVO UNISEX",
+    "fabric": "100% WS",
+    "composition": "100% WS",
+    "dimensions": "XS-S-M-L",
+    "description": "Calzino sportivo unisex, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 1 capo, made in Italy",
+     "priceList": {
+    "retail": 90,
+    "wholesale":24,
+    "wholesale-trade":36
+    },
+    "image": "/images/anchise.jpg",
+    "fiber": "cashmere",
+    "category": "calzino"
+  },
+  {
+    "code": "19350/00",
+    "name": "APOLLO",
+    "label": "PLAID BIFACCIA 4 ANIMALI 150X200 PIPING",
+    "fabric": "ROBORE",
+    "composition": "46% WP  40%WS  10%WK   4% WY",
+    "dimensions": "150x200 cm",
+    "description": "...",
+    "priceList": {
+    "retail": 1680,
+    "wholesale":598,
+    "wholesale-trade":600
+    },
+    "image": "/images/apollo.jpg",
+    "fiber": "various",
+    "category": "plaid"
+  },
+  {
+    "code": "19414/00",
+    "name": "ARES",
+    "label": "PLAID JAC.GAMING SCACCHI 130X180 SFIL.4",
+    "fabric": "CHESS",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Plaid \"gaming\" ispirato al gioco degli scacchi in 100% cashmere ritorto. Tessuto su telaio Jacquard e rifinito con frange sfilate a mano sui due lati corti.",
+    "priceList": {
+    "retail": 920,
+    "wholesale":272,
+    "wholesale-trade":329
+    },
+    "image": "/images/ares.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "20293/01",
+    "name": "ARGO",
+    "label": "LENZUOLO SOTTO CANAPA T.CAPO 180X200",
+    "fabric": "100% CA",
+    "composition": "100% CA",
+    "dimensions": "180x200 cm",
+    "description": "Lenzuolo sotto in tela100% canapa tinto in capo.",
+    "priceList": {
+    "retail": 550,
+    "wholesale":205,
+    "wholesale-trade":196
+    },
+    "image": "/images/argo.jpg",
+    "fiber": "hemp",
+    "category": "lenzuolo"
+  },
+  {
+    "code": "19911/50",
+    "name": "ASTERIA",
+    "label": "SHORT PIGIAMA SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Short in seersucker unito in Supima e seta, con elastico in vita.",
+    "priceList": {
+    "retail": 195,
+    "wholesale":75,
+    "wholesale-trade":78
+    },
+    "image": "/images/asteria.jpg",
+    "fiber": "cotton/silk",
+    "category": "abbigliamento"
+  },
+  {
+    "code": "19346/00",
+    "name": "ATENA",
+    "label": "CUSCINO C/CORNICE JAC 50X50+ CAVALLO",
+    "fabric": "COZY/1",
+    "composition": "90% WV 10% WS",
+    "dimensions": "50x50 cm",
+    "description": "Cuscino in lana e cashmere, con motivo logo tessuto su telaio jacquard e rifinito con cucitura punto cavallo in tono.",
+    "priceList": {
+    "retail": 350,
+    "wholesale":102,
+    "wholesale-trade":125
+    },
+    "image": "/images/atena.jpg",
+    "fiber": "wool/cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "20242/01",
+    "name": "BOREAS",
+    "label": "RUNNER LINO 50X145 SFIL.2",
+    "fabric": "CORSI",
+    "composition": "100% LI",
+    "dimensions": "50x145 cm",
+    "description": "Runner intreccio oxford in puro lino, sfilato a mano sui 4 lati.",
+    "priceList": {
+    "retail": 220,
+    "wholesale":50,
+    "wholesale-trade":79
+    },
+    "image": "/images/boreas.jpg",
+    "fiber": "linen",
+    "category": "runner"
+  },
+  {
+    "code": "20300/00",
+    "name": "BROMIO",
+    "label": "CUSCINO VELLUTO LISCIO ITACO 30X50",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "30x50 cm",
+    "description": "Cuscino in velluto liscio di puro cotone Itaco 100% Italiano.",
+    "priceList": {
+    "retail": 350,
+    "wholesale":88,
+    "wholesale-trade":125
+    },
+    "image": "/images/bromio.jpg",
+    "fiber": "cotton",
+    "category": "cuscino"
+  },
+  {
+    "code": "19329/00",
+    "name": "CALIPSO",
+    "label": "CUSCINO ABSOLUTE 60X60 P.CAVALLO",
+    "fabric": "DENTONE",
+    "composition": "100% WS",
+    "dimensions": "60x60 cm",
+    "description": "Cuscino in 100% cashmere con effetto mouflon, lavorazione punto cavallo in filato puro cashmere ritorto a dieci capi.",
+    "priceList": {
+    "retail": 650,
+    "wholesale":236,
+    "wholesale-trade":232
+    },
+    "image": "/images/calipso.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "19353/00",
+    "name": "CARIDDI",
+    "label": "CUSCINO BIFACCIA NATTÈ RIG.30X50",
+    "fabric": "TELLINO",
+    "composition": "100% LI",
+    "dimensions": "30x50 cm",
+    "description": "Cuscino in puro lino doppia faccia con intreccio a reps e motivo rigato.",
+    "priceList": {
+    "retail": 280,
+    "wholesale":94,
+    "wholesale-trade":100
+    },
+    "image": "/images/cariddi.jpg",
+    "fiber": "linen",
+    "category": "cuscino"
+  },
+  {
+    "code": "19906/50",
+    "name": "CASSIO",
+    "label": "PANTALONE LUNGO JOGGING",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Pantalone lungo jogging in scuba comfort in cotone Itaco, con cintura e fondo gamba in costina elasticizzata e coulisse.",
+    "priceList": {
+    "retail": 295,
+    "wholesale":123,
+    "wholesale-trade":118
+    },
+    "image": "/images/cassio.jpg",
+    "fiber": "cotton",
+    "category": "abbigliamento"
+  },
+  {
+    "code": "20517/00",
+    "name": "CATULLO",
+    "label": "",
+    "fabric": "50% WS 50% SUEDE",
+    "composition": "ESTERNO 70%WV 30%WS + parti in camoscio 100% capra / INTERNO: fodera 100%cotone + parti in camoscio 100% capra",
+    "dimensions": "34 x 29 h.20 cm",
+    "description": "È una borsa composta da tessuto e pelle.",
+    "priceList": {
+    "retail": 3400,
+    "wholesale":1503,
+    "wholesale-trade":1214
+    },
+    "image": "/images/catullo.jpg",
+    "fiber": "cashmere/leather",
+    "category": "borsa"
+  },
+  {
+    "code": "20299/00",
+    "name": "CERBERO",
+    "label": "CUSCINO VELLUTO LISCIO ITACO 50X50",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "50x50 cm",
+    "description": "Cuscino in velluto liscio di puro cotone Itaco 100% Italiano.",
+    "priceList": {
+    "retail": 370,
+    "wholesale":102,
+    "wholesale-trade":132
+    },
+    "image": "/images/cerbero.jpg",
+    "fiber": "cotton",
+    "category": "cuscino"
+  },
+  {
+    "code": "19415/00",
+    "name": "CHIMERA",
+    "label": "PLAID GAMING BACKGAMMON 130X180 SFIL.4",
+    "fabric": "GAMMON",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Plaid \"gaming\" ispirato al gioco del backgammon in 100% cashmere ritorto. Tessuto su telaio Jacquard e rifinito con frange sfilate a mano sui due lati corti.",
+    "priceList": {
+    "retail": 920,
+    "wholesale":272,
+    "wholesale-trade":329
+    },
+    "image": "/images/chimera.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "20407/01",
+    "name": "CICLOPE",
+    "label": "SET 2 FEDERE SEA ISLAND BOURDON 50X80",
+    "fabric": "100% CO",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set 2 federe in Raso 600 fili di puro cotone Sea Island con volano di 5 cm e ricamo doppia riga bourdon.",
+    "priceList": {
+    "retail": 550,
+    "wholesale":193,
+    "wholesale-trade":196
+    },
+    "image": "/images/ciclope.jpg",
+    "fiber": "cotton",
+    "category": "federe"
+  },
+  {
+    "code": "19411/00",
+    "name": "CIRCE",
+    "label": "PLAID DIAGONALE ALPACA 130X180 PENERATO",
+    "fabric": "PELUCHE",
+    "composition": "92% WP 8% SE",
+    "dimensions": "130x180 cm",
+    "description": "Plaid \"peluche\" realizzato con soffice boucle' in baby alpaca e seta. Finito con frange lunghe.",
+    "priceList": {
+    "retail": 680,
+    "wholesale":290,
+    "wholesale-trade":243
+    },
+    "image": "/images/circe.jpg",
+    "fiber": "alpaca/silk",
+    "category": "plaid"
+  },
+  {
+    "code": "20263/51",
+    "name": "CLELIA",
+    "label": "PANTOFOLA UOMO INCROCIATA IN PURO LINO",
+    "fabric": "GIGAPEZ",
+    "composition": "100% LI",
+    "dimensions": "39-40 = S\n41-42 = M\n43-44 = L\n45-46 = XL",
+    "description": "Pantofola uomo incrociata in puro lino tre capi ritorto, con suola in TPU.",
+    "priceList": {
+    "retail": 220,
+    "wholesale":100,
+    "wholesale-trade":88
+    },
+    "image": "/images/clelia.jpg",
+    "fiber": "linen",
+    "category": "pantofola"
+  },
+  {
+    "code": "20410/01",
+    "name": "CLIO",
+    "label": "RUNNER CANAPA T.CAPO 50X150 A-JOUR",
+    "fabric": "ANVER/21",
+    "composition": "100 % CA",
+    "dimensions": "50X150",
+    "description": "Runner in 100% Canapa tinta in capo, rifinito con ricamo ajour sui 4 lati.",
+    "priceList": {
+    "retail": 290,
+    "wholesale":103,
+    "wholesale-trade":104
+    },
+    "image": "/images/clio.jpg",
+    "fiber": "hemp",
+    "category": "runner"
+  },
+  {
+    "code": "20321/01",
+    "name": "CORE",
+    "label": "ASCIUGAMANO OSPITI ITA.RIC.BOURDON 40X60",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "40x60 cm",
+    "description": "Asciugamano ospite in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con ricamo bourdon sui 4 lati.",
+    "priceList": {
+    "retail": 89,
+    "wholesale":35,
+    "wholesale-trade":32
+    },
+    "image": "/images/core.jpg",
+    "fiber": "cotton",
+    "category": "asciugamano"
+  },
+  {
+    "code": "19347/00",
+    "name": "CRONO",
+    "label": "PLAID DIAGONALE TRAVEL 90X150 SFIL.2",
+    "fabric": "BIRU/1",
+    "composition": "100% WS",
+    "dimensions": "90x150 cm",
+    "description": "Plaid in puro cashmere con intreccio diagonale, realizzato su telaio a navetta e rifinito con frange sfilate a mano sui due lati corti.",
+    "priceList": {
+    "retail": 480,
+    "wholesale":140,
+    "wholesale-trade":171
+    },
+    "image": "/images/crono.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "20155/00",
+    "name": "DAFNE",
+    "label": "PLAID INGLESE F.5",
+    "fabric": "MAG00069",
+    "composition": "",
+    "dimensions": "220x240 cm",
+    "description": "Plaid in maglia inglese bicolore. Finezza 5, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 3 capi, bordo in tessuto di cashmere sui 4 lati",
+    "priceList": {
+    "retail": 1780,
+    "wholesale":812,
+    "wholesale-trade":636
+    },
+    "image": "/images/dafne.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "19897/50",
+    "name": "DEDALO",
+    "label": "PANTALONE LUNGO",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Pantalone lungo in interlock comfort mélange, con cintura e fondo gamba in costina elasticizzata e coulisse.",
+    "priceList": {
+    "retail": 250,
+    "wholesale":111,
+    "wholesale-trade":100
+    },
+    "image": "/images/dedalo.jpg",
+    "fiber": "cotton",
+    "category": "pants"
+  },
+  {
+    "code": "20281/01",
+    "name": "DEMETRA",
+    "label": "SET 6 TOVAGLIOLI CANAPA T.CAPO 50X50 A-J",
+    "fabric": "ANVER/21",
+    "composition": "100% CA",
+    "dimensions": "50x50 cm",
+    "description": "Set 6 tovaglioli in 100% Canapa tinti in capo, rifiniti con ricamo ajour sui 4 lati.",
+    "priceList": {
+    "retail": 350,
+    "wholesale":123,
+    "wholesale-trade":125
+    },
+    "image": "/images/demetra.jpg",
+    "fiber": "hemp",
+    "category": "napkins"
+  },
+  {
+    "code": "20237/00",
+    "name": "DIONISO",
+    "label": "TRAPUNTINO VELLUTO LISCIO ITACO 130X180",
+    "fabric": "SALUTO",
+    "composition": "100% CO",
+    "dimensions": "130x180 cm",
+    "description": "Trapuntino doppia faccia in velluto liscio di puro cotone Itaco 100% italiano, con imbottitura.",
+    "priceList": {
+    "retail": 780,
+    "wholesale":284,
+    "wholesale-trade":279
+    },
+    "image": "/images/dioniso.jpg",
+    "fiber": "cotton",
+    "category": "quilt"
+  },
+  {
+    "code": "19323/00",
+    "name": "EDIPO",
+    "label": "PLAID DIAGONALE BASIC 130X180 ANN.8",
+    "fabric": "FUBBE",
+    "composition": "100% WS",
+    "dimensions": "130x180 cm",
+    "description": "Plaid con effetto ammagliato in 100% cashmere ritorto. Tessuto su antico telaio a navetta con intreccio maxi-twill. Rifinito con frange annodate a mano.",
+    "priceList": {
+    "retail": 780,
+    "wholesale":233,
+    "wholesale-trade":279
+    },
+    "image": "/images/edipo.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "19904/50",
+    "name": "EFESTO",
+    "label": "PANTALONE LUNGO PIGIAMA",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Pantalone lungo interlock comfort melange con vita elasticata e fondo ampio con coulisse.",
+    "priceList": {
+    "retail": 250,
+    "wholesale":107,
+    "wholesale-trade":100
+    },
+    "image": "/images/efesto.jpg",
+    "fiber": "cotone",
+    "category": "pantalone"
+  },
+  {
+    "code": "19348/00",
+    "name": "EGEO",
+    "label": "T.MARE DELAVÈ DIS.130X180 SPIR.8",
+    "fabric": "DELLINO",
+    "composition": "100% LI",
+    "dimensions": "130x180 cm",
+    "description": "Telo mare rigato barre' in puro lino delavè. Tessuto con intreccio a twill su antico telaio a navetta e finito con spiralatura a mano sui due lati corti.",
+    "priceList": {
+    "retail": 350,
+    "wholesale":108,
+    "wholesale-trade":125
+    },
+    "image": "/images/egeo.jpg",
+    "fiber": "lino",
+    "category": "telo_mare"
+  },
+  {
+    "code": "20264/51",
+    "name": "ELEA",
+    "label": "PANTOFOLA DONNA INCROCIATA IN PURO LINO",
+    "fabric": "GIGAPEZ",
+    "composition": "100% LI",
+    "dimensions": "35-36 = XS, 37-38 = S, 39-40 = M, 41-42 = L",
+    "description": "Pantofola donna incrociata in puro lino tre capi ritorto, con suola in TPU.",
+    "priceList": {
+    "retail": 220,
+    "wholesale":100,
+    "wholesale-trade":88
+    },
+    "image": "/images/elea.jpg",
+    "fiber": "lino",
+    "category": "pantofola"
+  },
+  {
+    "code": "20406/01",
+    "name": "ELEUSI",
+    "label": "SET 2 FEDERE SEA ISLAND UNITO 50X80",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set 2 federe in Raso 600 fili di pregiato cotone Sea Island.",
+    "priceList": {
+    "retail": 420,
+    "wholesale": 130,
+    "wholesale-trade":150
+    },
+    "image": "/images/eleusi.jpg",
+    "fiber": "cotone",
+    "category": "federa"
+  },
+  {
+    "code": "19901/50",
+    "name": "ENEA",
+    "label": "FELPA GIROCOLLO",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Felpa girocollo in scuba comfort in cotone Itaco, con fondi in costina elasticizzata.",
+    "priceList": {
+    "retail": 295,
+    "wholesale":116,
+    "wholesale-trade":118
+    },
+    "image": "/images/enea.jpg",
+    "fiber": "cotone/poliammide",
+    "category": "felpa"
+  },
+  {
+    "code": "19327/00",
+    "name": "EOLO",
+    "label": "CUSCINO BIFACCIA NATTÈ 5 CAPI 60X60",
+    "fabric": "CICCO/1",
+    "composition": "100% WS",
+    "dimensions": "60x60 cm",
+    "description": "Cuscino doppia faccia realizzato con un filo di puro cashmere ritorto a dieci capi ed intrecciato a Maxi-Panama.",
+    "priceList": {
+    "retail": 590,
+    "wholesale":184,
+    "wholesale-trade":211
+    },
+    "image": "/images/eolo.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "19905/50",
+    "name": "EPICURO",
+    "label": "SHORT CREPE COTONE",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Short in interlock comfort in cotone Supima con fondo stondato e cinta in costina con coulisse.",
+    "priceList": {
+    "retail": 220,
+    "wholesale":78,
+    "wholesale-trade":88
+    },
+    "image": "/images/epicuro.jpg",
+    "fiber": "cotone",
+    "category": "homewear"
+  },
+  {
+    "code": "20297/00",
+    "name": "ERACLE",
+    "label": "CUSCINO DIAG.BASIC 30X50 CAVALLO",
+    "fabric": "FUBBE/1",
+    "composition": "100% WS",
+    "dimensions": "30x50 cm",
+    "description": "Cuscino in puro cashmere, con intreccio maxi-twill e finitura punto cavallo.",
+    "priceList": {
+    "retail": 350,
+    "wholesale":116,
+    "wholesale-trade":125
+    },
+    "image": "/images/eracle.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "19324/00",
+    "name": "ERATO",
+    "label": "CUSCINO DIAG.BASIC 50X50 CAVALLO",
+    "fabric": "FUBBE/1",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Cuscino in puro cashmere, con intreccio maxi-twill e finitura punto cavallo.",
+    "priceList": {
+    "retail": 390,
+    "wholesale":136,
+    "wholesale-trade":139
+    },
+    "image": "/images/erato.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "20076/50",
+    "name": "ERCOLE",
+    "label": "CARDIGAN UNISEX",
+    "fabric": "100% WS",
+    "composition": "100% WS",
+    "dimensions": "Donna: XXS-XS-S-M-L, Uomo: S-M-L-XL-XXL",
+    "description": "Cardigan unisex, punto maglia French Terry. Finezza 7, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 2 capi, made in China",
+    "priceList": {
+    "retail": 450,
+    "wholesale":126,
+    "wholesale-trade":180
+    },
+    "image": "/images/ercole.jpg",
+    "fiber": "cashmere",
+    "category": "homewear"
+  },
+  {
+    "code": "19913/50",
+    "name": "EREBO",
+    "label": "SHORT PIGIAMA SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Short in seersucker unito in Supima e seta, con elastico in vita.",
+    "priceList": {
+    "retail": 195,
+    "wholesale":75,
+    "wholesale-trade":78
+    },
+
+    "image": "/images/erebo.jpg",
+    "fiber": "cotone/seta",
+    "category": "homewear"
+  },
+  {
+    "code": "19326/00",
+    "name": "EROS",
+    "label": "CUSCINO NATTÈ 5 CAPI 50X50 SFRANG.4 LATI",
+    "fabric": "CICCO/1",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Cuscino effetto maglia realizzato con un filo di puro cashmere ritorto a dieci capi ed intrecciato a Maxi-Panama, finitura con frange sfilate a mano sui 4 lati.",
+    "priceList": {
+    "retail": 550,
+    "wholesale":172,
+    "wholesale-trade":196
+    },
+    "image": "/images/eros.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "20316/01",
+    "name": "ESTIA",
+    "label": "SET 2 FEDERE ITACO UNITO 50X80",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set 2 federe in Raso 600 fili di puro cotone ItacoTM 100% italiano.",
+    "priceList": {
+    "retail": 320,
+    "wholesale":102,
+    "wholesale-trade":114
+    },
+    "image": "/images/estia.jpg",
+    "fiber": "cotone",
+    "category": "federa"
+  },
+  {
+    "code": "20535/00",
+    "name": "FAUNA",
+    "label": "TAPPETO LAVABO",
+    "fabric": "CO",
+    "composition": "",
+    "dimensions": "40x60",
+    "description": "Tappeto lavabo in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con bordo a contrato e ricamo bourdon sui 4 lati.",
+    "priceList": {
+    "retail": 125,
+    "wholesale":41,
+    "wholesale-trade":45
+    },
+    "image": "/images/fauna.jpg",
+    "fiber": "cotone",
+    "category": "tappeto"
+  },
+  {
+    "code": "20563/00",
+    "name": "FLORA",
+    "label": "TAPPETO DOCCIA",
+    "fabric": "CO",
+    "composition": "",
+    "dimensions": "60x110",
+    "description": "Tappeto doccia in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con bordo a contrato e ricamo bourdon sui 4 lati.",
+    "priceList": {
+    "retail": 195,
+    "wholesale":68,
+    "wholesale-trade":70
+    },
+    "image": "/images/flora.jpg",
+    "fiber": "cotone",
+    "category": "tappeto"
+  },
+  {
+    "code": "20278/01",
+    "name": "FORGIA",
+    "label": "TOVAGLIA CANAPA T.CAPO 150X190 A-JOUR",
+    "fabric": "ANVER/21",
+    "composition": "100% CA",
+    "dimensions": "150x190 cm",
+    "description": "Tovaglia in 100% Canapa tinta in capo, rifinita con ricamo ajour sui 4 lati.",
+    "priceList": {
+    "retail": 420,
+    "wholesale":148,
+    "wholesale-trade":150
+    },
+    "image": "/images/forgia.jpg",
+    "fiber": "canapa",
+    "category": "tovaglia"
+  },
+  {
+    "code": "19896/50",
+    "name": "FRIXO",
+    "label": "SHORT JERSEY",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Short in interlock comfort in cotone Supima con cinta in costina elasticcizzata e coulisse.",
+    "priceList": {
+    "retail": 220,
+    "wholesale":84,
+    "wholesale-trade":88
+    },
+    "image": "/images/frixo.jpg",
+    "fiber": "cotone",
+    "category": "homewear"
+  },
+  {
+    "code": "20408/01",
+    "name": "GERIONE",
+    "label": "COPRIPIUMINO SEA ISLAND BOURDON 270X240",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "270 x 240",
+    "description": "Corpipiumino in Raso 600 fili di pregiato cotone Sea Island con ricamo doppia riga bourdon.",
+    "priceList": {
+    "retail": 1950,
+    "wholesale":657,
+    "wholesale-trade":696
+    },
+    "image": "/images/gerione.jpg",
+    "fiber": "cotone",
+    "category": "copripiumino"
+  },
+  {
+    "code": "20295/01",
+    "name": "GIASONE",
+    "label": "COPRIPIUMINO CANAPA T.CAPO 270X240",
+    "fabric": "CA",
+    "composition": "100% CA",
+    "dimensions": "270x240 cm",
+    "description": "Copripiumino in tela 100% canapa tinto in capo.",
+    "priceList": {
+    "retail": 850,
+    "wholesale":295,
+    "wholesale-trade":304
+    },
+    "image": "/images/giasone.jpg",
+    "fiber": "canapa",
+    "category": "copripiumino"
+  },
+  {
+    "code": "20075/50",
+    "name": "GIOVE",
+    "label": "GIROCOLLO UNISEX",
+    "fabric": "100% WS",
+    "composition": "100% WS",
+    "dimensions": "Donna: XXS-XS-S-M-L, Uomo: S-M-L-XL-XXL",
+    "description": "Girocollo unisex, punto maglia French Terry. Finezza 7, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 2 capi, made in China",
+    "priceList": {
+    "retail": 420,
+    "wholesale":118,
+    "wholesale-trade":168
+    },
+    "image": "/images/giove.jpg",
+    "fiber": "cashmere",
+    "category": "homewear"
+  },
+  {
+    "code": "19908/50",
+    "name": "GORGIA",
+    "label": "FELPA CON CAPPUCCIO",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Felpa con cappuccio in scuba comfort in cotone Itaco, con fondi in costina elasticizzata.",
+    "priceList": {
+    "retail": 330,
+    "wholesale":124,
+    "wholesale-trade":132
+    },
+    "image": "/images/gorgia.jpg",
+    "fiber": "cotone/poliammide",
+    "category": "homewear"
+  },
+  {
+    "code": "20294/01",
+    "name": "HEBE",
+    "label": "SET 2 FEDERE CANAPA T.CAPO 50X80",
+    "fabric": "CA",
+    "composition": "100% CA",
+    "dimensions": "50x80 cm",
+    "description": "Set 2 federe in tela 100% canapa tinte in capo.",
+    "priceList": {
+    "retail": 250,
+    "wholesale":83,
+    "wholesale-trade":89
+    },
+    "image": "/images/hebe.jpg",
+    "fiber": "canapa",
+    "category": "federa"
+  },
+  {
+    "code": "19912/50",
+    "name": "HECATE",
+    "label": "CAMICIA MANICA LUNGA SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Camicia a manica lunga in seersucker unito di cotone Supima e seta con taschino.",
+    "priceList": {
+    "retail": 295,
+    "wholesale":119,
+    "wholesale-trade":118
+    },
+    "image": "/images/hecate.jpg",
+    "fiber": "cotone/seta",
+    "category": "homewear"
+  },
+  {
+    "code": "19390/00",
+    "name": "HELIOS",
+    "label": "TELO MARE COT.CREPS UNITO 110X180 SFIL. 4",
+    "fabric": "LUXTEL",
+    "composition": "100% CO",
+    "dimensions": "110x180 cm",
+    "description": "Telo mare con cimossa a contrasto realizzato in puro cotone crèpe Itaco 100% Italiano. Tessuto con intreccio a reps su antico telaio a navetta e sfilato a mano sui due lati corti.",
+    "priceList": {
+    "retail": 290,
+    "wholesale":112,
+    "wholesale-trade":104
+    },
+    "image": "/images/helios.jpg",
+    "fiber": "cotone",
+    "category": "telo_mare"
+  },
+  {
+    "code": "19895/50",
+    "name": "HEMERA",
+    "label": "T-SHIRT M/L GIRO MANICA LUNGA",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "T-shirt a manica lunga in interlock comfort mélange.",
+    "priceList": {
+    "retail": 180,
+    "wholesale":73,
+    "wholesale-trade":72
+    },
+    "image": "/images/hemera.jpg",
+    "fiber": "cotone",
+    "category": "homewear"
+  },
+  {
+    "code": "19902/50",
+    "name": "HERA",
+    "label": "T-SHIRT MANICA CORTA",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "T-shirt in interlock comfort in cotone Supima a manica corta.",
+    "priceList": {
+    "retail": 165,
+    "wholesale":52,
+    "wholesale-trade":66
+    },
+    "image": "/images/hera.jpg",
+    "fiber": "cotone",
+    "category": "homewear"
+  },
+  {
+    "code": "19903/50",
+    "name": "HESTIA",
+    "label": "T-SHIRT MANICA LUNGA",
+    "fabric": "ADAMEL",
+    "composition": "100% CO",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "T-shirt a manica lunga in interlock comfort mélange.",
+    "priceList": {
+    "retail": 180,
+    "wholesale":68,
+    "wholesale-trade":72
+    },
+    "image": "/images/hestia.jpg",
+    "fiber": "cotone",
+    "category": "homewear"
+  },
+  {
+    "code": "20241/01",
+    "name": "HYPNOS",
+    "label": "SET 2 TOVAGLIETTE 35X50 SFIL.2",
+    "fabric": "BRESH",
+    "composition": "100% LI",
+    "dimensions": "35x50 cm",
+    "description": "Set di 2 tovagliette intreccio oxford in puro lino, sfilate a mano sui 4 lati.",
+    "priceList": {
+    "retail": 190,
+    "wholesale":68,
+    "wholesale-trade":68
+    },
+    "image": "/images/hypnos.jpg",
+    "fiber": "lino",
+    "category": "tovaglietta"
+  },
+  {
+    "code": "19890/01",
+    "name": "ICARO",
+    "label": "PLAID TRAVEL",
+    "fabric": "QILIN",
+    "composition": "",
+    "dimensions": "130x150",
+    "description": "Plaid travel con motivo a balze in puro cashmere, tessuto su antichi telai a navetta e finito con annodatura a mano.",
+    "priceList": {
+    "retail": 550,
+    "wholesale":194,
+    "wholesale-trade":196
+    },
+    "image": "/images/icaro.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "19894/50",
+    "name": "IDRA",
+    "label": "T-SHIRT MANICA CORTA",
+    "fabric": "ADALIA",
+    "composition": "100% CO",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "T-shirt in interlock comfort in cotone Supima a manica corta.",
+    "priceList": {
+    "retail": 165,
+    "wholesale":55,
+    "wholesale-trade":66
+    },
+    "image": "/images/idra.jpg",
+    "fiber": "cotone",
+    "category": "homewear"
+  },
+  {
+    "code": "20282/01",
+    "name": "ILIZIA",
+    "label": "SET 6 TOVAGLIOLI CARTA T.CAPO 50X50",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "50x50 cm",
+    "description": "Set 6 tovaglioli in pura carta giapponese con armatura Oxford, tinti in capo e rifiniti con ricamo bourdon in tono sui 4 lati.",
+    "priceList": {
+    "retail": 350,
+    "wholesale":120,
+    "wholesale-trade":125
+    },
+    "image": "/images/ilizia.jpg",
+    "fiber": "carta",
+    "category": "tovagliolo"
+  },
+  {
+    "code": "19349/00",
+    "name": "IONIO",
+    "label": "CUSCINO LINO DELAVÈ 40X60",
+    "fabric": "DELLINO",
+    "composition": "100% LI",
+    "dimensions": "40x60 cm",
+    "description": "Cuscino doppia faccia con intreccio a twill e motivo rigato in puro lino delavè.",
+    "priceList": {
+    "retail": 290,
+    "wholesale":100,
+    "wholesale-trade":104
+    },
+    "image": "/images/ionio.jpg",
+    "fiber": "lino",
+    "category": "cuscino"
+  },
+  {
+    "code": "20411/01",
+    "name": "IRIS",
+    "label": "RUNNER CARTA BOURDON T.CAPO 50X150",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "50X150",
+    "description": "Runner in pura carta giapponese con armatura Oxford, tintao in capo e rifinito con ricamo bourdon in tono sui 4 lati.",
+    "priceList": {
+    "retail": 250,
+    "wholesale":88,
+    "wholesale-trade":89
+    },
+    "image": "/images/iris.jpg",
+    "fiber": "carta",
+    "category": "runner"
+  },
+  {
+    "code": "20413/01",
+    "name": "LEDA",
+    "label": "SET 6 SOTTO-BICCH.BOU.CARTA T.CAPO 13X13",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "13X13",
+    "description": "Set 6 sottobicchieri in pura carta giapponese con armatura Oxford, tinti in capo e rifiniti con ricamo bourdon in tono sui 4 lati.",
+    "priceList": {
+    "retail": 160,
+    "wholesale":62,
+    "wholesale-trade":57
+    },
+    "image": "/images/leda.jpg",
+    "fiber": "carta",
+    "category": "sottobicchiere"
+  },
+  {
+    "code": "19907/50",
+    "name": "MANLIO",
+    "label": "PANTALONE JOGGING",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Pantalone lungo jogging con cinta in costina elastica e fondo ampio con coulisse in cotone Itaco",
+    "priceList": {
+    "retail": 295,
+    "wholesale": 123,
+    "wholesale-trade":118
+    },
+    "image": "/images/manlio.jpg",
+    "fiber": "cotone/poliammide",
+    "category": "homewear"
+  },
+  {
+    "code": "20279/01",
+    "name": "MEDEA",
+    "label": "TOVAGLIA CARTA GIAPPONESE T.CAPO150X190",
+    "fabric": "FIDENTO",
+    "composition": "100% PI",
+    "dimensions": "150x190 cm",
+    "description": "Tovaglia in pura carta giapponese con armatura Oxford, tinta in capo e rifinita con ricamo bourdon in tono sui 4 lati.",
+    "priceList": {
+    "retail": 420,
+    "wholesale":135,
+    "wholesale-trade":150
+    },
+    "image": "/images/medea.jpg",
+    "fiber": "carta",
+    "category": "tovaglia"
+  },
+  {
+    "code": "19412/00",
+    "name": "MEDUSA",
+    "label": "CUSCINO DIAGONALE ALPACA 60X60 PIPING",
+    "fabric": "PELUCHE/1",
+    "composition": "92% WP 8% SE",
+    "dimensions": "60x60 cm",
+    "description": "Cuscino \"peluche\" realizzato con soffice bouclé in baby alpaca e seta. Finito con elegante piping in pelle.",
+    "priceList": {
+    "retail": 350,
+    "wholesale":184,
+    "wholesale-trade":125
+    },
+    "image": "/images/medusa.jpg",
+    "fiber": "alpaca/seta",
+    "category": "cuscino"
+  },
+  {
+    "code": "20280/01",
+    "name": "MELIA",
+    "label": "SET 6 TOVAGLIOLI ITACO RIC.BOURDON50X50",
+    "fabric": "ARSON",
+    "composition": "100% CO",
+    "dimensions": "50x50 cm",
+    "description": "Set 6 tovaglioli in puro cotone ItacoTM tinto in filo con armatura Oxford, rifiniti con ricamo bourdon sui 4 lati.",
+    "priceList": {
+    "retail": 390,
+    "wholesale":132,
+    "wholesale-trade":139
+    },
+    "image": "/images/melia.jpg",
+    "fiber": "cotone",
+    "category": "tovagliolo"
+  },
+  {
+    "code": "20404/01",
+    "name": "MENELAO",
+    "label": "LENZUOLO SOPRA UNITO SEA ISLAND 270X300",
+    "fabric": "",
+    "composition": "100% CO",
+    "dimensions": "270x300 cm",
+    "description": "Lenzuolo sopra in Raso 600 fili di pregiato cotone Sea Island.",
+    "priceList": {
+    "retail": 950,
+    "wholesale":353,
+    "wholesale-trade":339
+    },
+    "image": "/images/menelao.jpg",
+    "fiber": "cotone",
+    "category": "lenzuolo"
+  },
+  {
+    "code": "20292/01",
+    "name": "MORFEO",
+    "label": "LENZUOLO SOPRA CANAPA T.CAPO 270X300",
+    "fabric": "CA",
+    "composition": "100% CA",
+    "dimensions": "270x300 cm",
+    "description": "Lenzuolo sopra in tela 100% canapa tinto in capo.",
+    "priceList": {
+    "retail": 550,
+    "wholesale":188,
+    "wholesale-trade":196
+    },
+    "image": "/images/morfeo.jpg",
+    "fiber": "canapa",
+    "category": "lenzuolo"
+  },
+  {
+    "code": "19873/00",
+    "name": "MUSA",
+    "label": "CUSCINO INGLESE BICOLORE F.5",
+    "fabric": "MAG00070",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Cuscino doppia faccia in puro cashmere con un lato in maglia inglese vanisè ed un lato in tessuto con effetto mouflon.",
+    "priceList": {
+    "retail": 780,
+    "wholesale":234,
+    "wholesale-trade":279
+    },
+    "image": "/images/musa.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "16893/02",
+    "name": "NARCISO",
+    "label": "PLAID ABSOLUTE 150X200 P.CAVALLO+ANNOD.7",
+    "fabric": "DENTONE",
+    "composition": "100% WS",
+    "dimensions": "150x200 cm",
+    "description": "Plaid in 100% cashmere con effetto mouflon, lavorazione punto cavallo con frangia in filato puro cashmere ritorto a dieci capi, annodato a mano.",
+    "priceList": {
+    "retail": 1750,
+    "wholesale":484,
+    "wholesale-trade":625
+    },
+    "image": "/images/narciso.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "19389/00",
+    "name": "NEMESI",
+    "label": "CUSCINO COT.CREPE REPS RIGATO 30X50",
+    "fabric": "LUXTEL/1",
+    "composition": "100% CO",
+    "dimensions": "30x50 cm",
+    "description": "Cuscino con intreccio a reps e disegno rigato realizzato in puro cotone crèpe Itaco 100% Italiano.",
+    "priceList": {
+    "retail": 220,
+    "wholesale":86,
+    "wholesale-trade":79
+    },
+    "image": "/images/nemesi.jpg",
+    "fiber": "cotone",
+    "category": "cuscino"
+  },
+  {
+    "code": "19331/00",
+    "name": "NEREO",
+    "label": "PLAID LINO DIAGO.UNITO 150X200 CAVALLO",
+    "fabric": "GIGABYTE",
+    "composition": "100% LI",
+    "dimensions": "150x200 cm",
+    "description": "Plaid in twill di puro lino ritorto a tre capi. Tinto in capo con effetto levigato e finito con cucitura punto cavallo e frange in cotone multi-capo. Annodato a mano.",
+    "priceList": {
+    "retail": 450,
+    "wholesale":126,
+    "wholesale-trade":161
+    },
+    "image": "/images/nereo.jpg",
+    "fiber": "lino",
+    "category": "plaid"
+  },
+  {
+    "code": "19759/00",
+    "name": "NIOBE",
+    "label": "PLAID JACQUARD BOUCLÈ 130X180 PENERATO",
+    "fabric": "DUOLOGY",
+    "composition": "90% WP 10% SE",
+    "dimensions": "130x180 cm",
+    "description": "Plaid realizzato con soffice bouclé in baby alpaca e seta. Tessuto su telaio Jacquard e finito con frange lunghe.",
+    "priceList": {
+    "retail": 850,
+    "wholesale":312,
+    "wholesale-trade":304
+    },
+    "image": "/images/niobe.jpg",
+    "fiber": "alpaca/seta",
+    "category": "plaid"
+  },
+  {
+    "code": "19910/50",
+    "name": "NYX",
+    "label": "CAMICIA MANICA LUNGA SEERSUCKER",
+    "fabric": "MORRENS",
+    "composition": "70% CO 30% SE",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Camicia a manica lunga in seersucker unito di cotone Supima e seta con taschino.",
+    "priceList": {
+    "retail": 295,
+    "wholesale":115,
+    "wholesale-trade":118
+    },
+    "image": "/images/nyx.jpg",
+    "fiber": "cotone/seta",
+    "category": "homewear"
+  },
+  {
+    "code": "20318/01",
+    "name": "OCEANO",
+    "label": "SET 2 FEDERE ITACO RIC.BOURDON 50X80",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "50x80 cm",
+    "description": "Set 2 federe in Raso 600 fili di puro cotone ItacoTM 100% italiano con volano di 5 cm e ricamo doppia riga bourdon.",
+    "priceList": {
+    "retail": 450,
+    "wholesale":157,
+    "wholesale-trade":161
+    },
+    "image": "/images/oceano.jpg",
+    "fiber": "cotone",
+    "category": "federa"
+  },
+  {
+    "code": "19388/00",
+    "name": "ODISSEO",
+    "label": "TELO MARE COT.CREPE REPS 110X180 SFIL. 4",
+    "fabric": "LUXTEL",
+    "composition": "100% CO",
+    "dimensions": "110x180 cm",
+    "description": "Telo mare con disegno rigato realizzato in puro cotone crèpe Itaco 100% Italiano. Tessuto con intreccio a reps su antico telaio a navetta e sfilato a mano sui due lati corti.",
+    "priceList": {
+    "retail": 290,
+    "wholesale":112,
+    "wholesale-trade":104
+    },
+    "image": "/images/odisseo.jpg",
+    "fiber": "cotone",
+    "category": "telo_mare"
+  },
+  {
+    "code": "19898/50",
+    "name": "OMERO",
+    "label": "SHORT JOGGING",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Short jogging in scuba comfort in cotone Itaco, con cintura in costina elasticizzata e coulisse.",
+    "priceList": {
+    "retail": 250,
+    "wholesale":95,
+    "wholesale-trade":100
+    },
+    "image": "/images/omero.jpg",
+    "fiber": "cotone/poliammide",
+    "category": "homewear"
+  },
+  {
+    "code": "20298/00",
+    "name": "ORFEO",
+    "label": "CUSCINO ABSOLUTE 50X50 P.CAVALLO",
+    "fabric": "DENTONE",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Cuscino in 100% cashmere con effetto mouflon, lavorazione punto cavallo in filato puro cashmere ritorto a dieci capi.",
+    "priceList": {
+    "retail": 620,
+    "wholesale":206,
+    "wholesale-trade":211
+    },
+    "image": "/images/orfeo.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "20296/01",
+    "name": "ORIONE",
+    "label": "LENZUOLO SOPRA UNITO ITACO 270X300",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "270x300 cm",
+    "description": "Lenzuolo sopra in Raso 600 fili di puro cotone ItacoTM 100% italiano.",
+    "priceList": {
+    "retail": 690,
+    "wholesale":250,
+    "wholesale-trade":246
+    },
+    "image": "/images/orione.jpg",
+    "fiber": "cotone",
+    "category": "lenzuolo"
+  },
   {
     "code": "20405/01",
     "name": "PALLAS",
+    "label": "LENZUOLO SOTTO UNITO SEA ISLAND 180X200",
     "fabric": "",
     "composition": "100% CO",
     "dimensions": "180x200 cm",
+    "description": "Lenzuolo sotto in Raso 600 fili di pregiato cotone Sea Island.",
     "priceList": {
-      "retail": 950,
-      "wholesale": 392,
-      "wholesale-trade": 339
+    "retail": 950,
+    "wholesale":392,
+    "wholesale-trade":339
     },
     "image": "/images/pallas.jpg",
     "fiber": "cotone",
-    "category": "lenzuolo",
-    "label": "LENZUOLO SOTTO UNITO SEA ISLAND 180X200",
-    "description": "Lenzuolo sotto in Raso 600 fili di pregiato cotone Sea Island."
+    "category": "lenzuolo"
+  },
+  {
+    "code": "20301/00",
+    "name": "PAN",
+    "label": "CUSCINO BIFACCIA 4 ANIMALI 40X60",
+    "fabric": "ROBORE",
+    "composition": "46% WP 40% WS 10% WK 4% WY",
+    "dimensions": "40x60 cm",
+    "description": "Cuscino double-face realizzato con speciale blend di 4 fibre nobili.",
+    "priceList": {
+    "retail": 490,
+    "wholesale":180,
+    "wholesale-trade":175
+    },
+    "image": "/images/pan.jpg",
+    "fiber": "alpaca/cashmere/cammello/yak",
+    "category": "cuscino"
+  },
+  {
+    "code": "16554/01",
+    "name": "PANDORA",
+    "label": "PLAID CHEVRON 130X180 ANN.8",
+    "fabric": "LIDIPE",
+    "composition": "100% WS",
+    "dimensions": "130x180",
+    "description": "Plaid con effetto ammagliato in 100% cashmere ritorto. Tessuto su antico telaio a navetta con classico motivo chevron. Rifinito con frange annodate a mano.",
+    "priceList": {
+    "retail": 780,
+    "wholesale":232,
+    "wholesale-trade":279
+    },
+    "image": "/images/pandora.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "20496/00",
+    "name": "PARIDE",
+    "label": "PLAID DOUBLE-FACE",
+    "fabric": "ROBORE",
+    "composition": "",
+    "dimensions": "150x200",
+    "description": "Plaid double-face realizzato con speciale blend di 4 fibre nobili, rifinito con lavorazione punto cavallo in filato puro cashmere ritorto a dieci capi.",
+    "priceList": {
+    "retail": 1450,
+    "wholesale":300,
+    "wholesale-trade":518
+    },
+    "image": "/images/paride.jpg",
+    "fiber": "alpaca/cashmere/cammello/yak",
+    "category": "plaid"
+  },
+  {
+    "code": "19899/50",
+    "name": "PEGASO",
+    "label": "PANTALONE LUNGO JOGGING",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Pantalone lungo jogging in scuba comfort in cotone Itaco, con cintura e fondo gamba in costina elasticizzata e coulisse.",
+    "priceList": {
+    "retail": 295,
+    "wholesale":135,
+    "wholesale-trade":118
+    },
+    "image": "/images/pegaso.jpg",
+    "fiber": "cotone/poliammide",
+    "category": "homewear"
+  },
+  {
+    "code": "19356/00",
+    "name": "PERSEO",
+    "label": "CUSCINO BIFACCIA ALTERNATO 50X50 CAVALLO",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "50x50 cm",
+    "description": "Cuscino in 100% cashmere double-face con effetto mouflon e balza a contrasto. Finito con lavorazione punto cavallo con filato puro cashmere ritorto a dieci capi.",
+    "priceList": {
+    "retail": 620,
+    "wholesale":206,
+    "wholesale-trade":221
+    },
+    "image": "/images/perseo.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "20320/01",
+    "name": "PHOBOS",
+    "label": "LENZUOLO SOTTO UNITO ITACO 180X200",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "180x200 cm",
+    "description": "Lenzuolo sotto in Raso 600 fili di puro cotone ItacoTM 100% italiano.",
+    "priceList": {
+    "retail": 690,
+    "wholesale":273,
+    "wholesale-trade":246
+    },
+    "image": "/images/phobos.jpg",
+    "fiber": "cotone",
+    "category": "lenzuolo"
+  },
+  {
+    "code": "20414/00",
+    "name": "RHEA",
+    "label": "CUSCINO BIFAC.RIGA ALTA 50X50 CAVALLO",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "50X50",
+    "description": "Cuscino in 100% cashmere double-face con effetto mouflon e balza a contrasto. Finito con lavorazione punto cavallo con filato puro cashmere ritorto a dieci capi.",
+    "priceList": {
+    "retail": 620,
+    "wholesale":206,
+    "wholesale-trade":221
+    },
+    "image": "/images/rhea.jpg",
+    "fiber": "cashmere",
+    "category": "cuscino"
+  },
+  {
+    "code": "19909/00",
+    "name": "SAFFO",
+    "label": "FELPE GIROCOLLO SCUBA",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "XXS-XS-S-M-L",
+    "description": "Felpa girocollo in scuba comfort in cotone Itaco, con fondi in costina elasticizzata.",
+    "priceList": {
+    "retail": 295,
+    "wholesale":99,
+    "wholesale-trade":118
+    },
+    "image": "/images/saffo.jpg",
+    "fiber": "cotone/poliammide",
+    "category": "homewear"
+  },
+  {
+    "code": "19351/00",
+    "name": "SATIRO",
+    "label": "CUSCINO BIFACCIA 4 ANIMALI 40X60 PIPING",
+    "fabric": "ROBORE",
+    "composition": "46% WP 40% WS 10% WK 4% WY",
+    "dimensions": "40x60 cm",
+    "description": "Cuscino double-face realizzato con speciale blend di 4 fibre nobili, rifinito con inserimento di elegante piping in pelle lungo i quattro lati.",
+    "priceList": {
+    "retail": 590,
+    "wholesale":160,
+    "wholesale-trade":211
+    },
+    "image": "/images/satiro.jpg",
+    "fiber": "alpaca/cashmere/cammello/yak",
+    "category": "cuscino"
+  },
+  {
+    "code": "19352/00",
+    "name": "SCILLA",
+    "label": "T.MARE NATTÈ RIG.130X180 SPIR.8",
+    "fabric": "TELLINO",
+    "composition": "100% LI",
+    "dimensions": "130x180 cm",
+    "description": "Telo mare rigato in puro lino. Tessuto con intreccio a reps su antico telaio a navetta e finito con spiralatura a mano sui due lati corti.",
+    "priceList": {
+    "retail": 320,
+    "wholesale":114,
+    "wholesale-trade":114
+    },
+    "image": "/images/scilla.jpg",
+    "fiber": "lino",
+    "category": "telo_mare"
+  },
+  {
+    "code": "20154/00",
+    "name": "SELENE",
+    "label": "COPERTA MAGLIA INGL.F.5 220X240+BORDO 6",
+    "fabric": "1968-05-01 00:00:00",
+    "composition": "",
+    "dimensions": "220x240 cm",
+    "description": "Coperta in maglia inglese bicolore. Finezza 5, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 3 capi, bordo in tessuto di cashmere sui 4 lati.",
+    "priceList": {
+    "retail": 2200,
+    "wholesale":1212,
+    "wholesale-trade":786
+    },
+    "image": "/images/selene.jpg",
+    "fiber": "cashmere",
+    "category": "coperta"
+  },
+  {
+    "code": "19860/01",
+    "name": "TACITO",
+    "label": "",
+    "fabric": "60% WS 40% SE",
+    "composition": "ESTERNO: 100% WS INTERNO: 93%SE 7%EA",
+    "dimensions": "19 X 10 CM",
+    "description": "",
+    "priceList": {
+    "retail": 160,
+    "wholesale":33,
+    "wholesale-trade":57
+    },
+    "image": "/images/tacito.jpg",
+    "fiber": "cashmere/seta",
+    "category": "accessorio"
+  },
+  {
+    "code": "20277/01",
+    "name": "TALIA",
+    "label": "TOVAGLIA ITACO RIC.BOURDON 150X190",
+    "fabric": "ARSON",
+    "composition": "100% CO",
+    "dimensions": "150x190 cm",
+    "description": "Tovaglia in puro cotone ItacoTM tinto in filo con armatura Oxford, rifinita con ricamo bourdon sui 4 lati.",
+    "priceList": {
+    "retail": 490,
+    "wholesale":168,
+    "wholesale-trade":175
+    },
+    "image": "/images/talia.jpg",
+    "fiber": "cotone",
+    "category": "tovaglia"
+  },
+  {
+    "code": "19355/00",
+    "name": "TESEO",
+    "label": "PLAID BIFACCIA ALTERNATO 150X200 CAVALLO",
+    "fabric": "DENTARCA",
+    "composition": "100% WS",
+    "dimensions": "150x200 cm",
+    "description": "Plaid in 100% cashmere double-face con effetto mouflon e balza a contrasto. Finito con lavorazione punto cavallo con filato puro cashmere ritorto a dieci capi.",
+    "priceList": {
+    "retail": 1750,
+    "wholesale":476,
+    "wholesale-trade":625
+    },
+    "image": "/images/teseo.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
+  },
+  {
+    "code": "20497/00",
+    "name": "TETIDE",
+    "label": "COPRILETTO DOUBLE-FACE",
+    "fabric": "ROBORE",
+    "composition": "",
+    "dimensions": "230x260",
+    "description": "Copriletto double-face realizzato con speciale blend di 4 fibre nobili, rifinito con inserimento di bordo lavorato a doppio apribile",
+    "priceList": {
+    "retail": 2500,
+    "wholesale":905,
+    "wholesale-trade":893
+    },
+    "image": "/images/tetide.jpg",
+    "fiber": "alpaca/cashmere/cammello/yak",
+    "category": "copriletto"
+  },
+  {
+    "code": "20319/01",
+    "name": "TIA",
+    "label": "COPRIPIUMINO ITACO RIC.BOURDON 270X240",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "270x240 cm",
+    "description": "Corpipiumino in Raso 600 fili di puro cotone ItacoTM 100% italiano con ricamo doppia riga bourdon.",
+    "priceList": {
+    "retail": 1490,
+    "wholesale":662,
+    "wholesale-trade":532
+    },
+    "image": "/images/tia.jpg",
+    "fiber": "cotone",
+    "category": "copripiumino"
+  },
+  {
+    "code": "20327/01",
+    "name": "TITO",
+    "label": "ACCAPPAT. CAPPUCCIO ITACO RIC.BOURDON",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "S-M-L",
+    "description": "Accappatoio con cappuccio in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con ricamo bourdon.",
+    "priceList": {
+    "retail": 450,
+    "wholesale":180,
+    "wholesale-trade":161
+    },
+    "image": "/images/tito.jpg",
+    "fiber": "cotone",
+    "category": "accappatoio"
+  },
+  {
+    "code": "19328/00",
+    "name": "TRITONE",
+    "label": "CUSCINO LEGGERO DIAG.UNITO 50X50 CAVALLO",
+    "fabric": "GIGABYTE",
+    "composition": "100% LI",
+    "dimensions": "50x50 cm",
+    "description": "Cuscino in twill di puro lino ritorto a tre capi. Tinto in capo con effetto levigato e finito con cucitura punto cavallo in cotone multi-capo.",
+    "priceList": {
+    "retail": 390,
+    "wholesale":114,
+    "wholesale-trade":139
+    },
+    "image": "/images/tritone.jpg",
+    "fiber": "lino",
+    "category": "cuscino"
+  },
+  {
+    "code": "20329/01",
+    "name": "TYPHON",
+    "label": "TELO MARE ITACO RIC.BOURDON 100X180",
+    "fabric": "CO",
+    "composition": "100% CO",
+    "dimensions": "100x180/80 cm",
+    "description": "Telo mare in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con cornice a contrasto sui 4 lati.",
+    "priceList": {
+    "retail": 350,
+    "wholesale":140,
+    "wholesale-trade":125
+    },
+    "image": "/images/typhon.jpg",
+    "fiber": "cotone",
+    "category": "telo_mare"
+  },
+  {
+    "code": "19900/50",
+    "name": "VESTA",
+    "label": "FELPA CON CAPPUCCIO",
+    "fabric": "CHIASMO",
+    "composition": "62% CO 38% PA",
+    "dimensions": "S-M-L-XL-XXL",
+    "description": "Felpa con cappuccio in scuba comfort in cotone Itaco, con fondi in costina elasticizzata.",
+    "priceList": {
+    "retail": 330,
+    "wholesale":132,
+    "wholesale-trade":132
+    },
+    "image": "/images/vesta.jpg",
+    "fiber": "cotone/poliammide",
+    "category": "homewear"
+  },
+  {
+    "code": "19325/00",
+    "name": "ZEFIRO",
+    "label": "PLAID CASHMERE EFFETTO MAGLIA",
+    "fabric": "CICCO",
+    "composition": "100% CASHMERE",
+    "dimensions": "130x180",
+    "description": "Plaid effetto maglia realizzato con un filo di puro cashmere ritorto a dieci capi ed intrecciato a Maxi-Panama, tessuto su telaio a navetta e finito con frange lunghe annodate e ricoperte a mano.",
+    "priceList": {
+    "retail": 1180,
+    "wholesale":334,
+    "wholesale-trade":421
+    },
+    "image": "/images/zefiro.jpg",
+    "fiber": "cashmere",
+    "category": "plaid"
   }
 ]
