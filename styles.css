@@ -1,5 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700&family=Ysabeau+Office:wght@400;600&display=swap');
 
+/* Animazioni base */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.03);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
 /* Reset */
 html, body {
   height: 100%;
@@ -27,6 +51,7 @@ main {
   padding: 1em 0;
   width: 100%;
   max-width: 1200px;
+  animation: fadeInUp 0.6s ease-out;
 }
 
 header {
@@ -109,6 +134,7 @@ h1 {
   transition: background-color 0.3s, color 0.3s, transform 0.3s;
   font-weight: 800;
   letter-spacing: 0.5px;
+  animation: pulse 1.8s infinite ease-in-out;
 }
 
 #language-toggle .lang-button:hover,
@@ -133,6 +159,7 @@ h1 {
   transition: background-color 0.3s, color 0.3s, transform 0.3s;
   font-weight: 800;
   letter-spacing: 0.5px;
+  animation: fadeInUp 0.6s ease-in-out;
 }
 
 #reset-filters:hover {
@@ -184,6 +211,7 @@ input[type="range"]::-moz-range-thumb {
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   padding: 1rem;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  animation: fadeInUp 0.4s ease-out;
 }
 
 .product-card:hover {
