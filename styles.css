@@ -83,115 +83,67 @@ h1 {
 
 /* Slider prezzo */
 input[type="range"] {
-  font-size: 1.5rem;
-  width: 100%;
-  color: #290000;
-  --thumb-height: 1.375em;
-  --thumb-width: 0.5em;
-  --track-height: 0.125em;
-  --track-color: rgba(0, 0, 0, 0.2);
-  --brightness-hover: 180%;
-  --brightness-down: 80%;
-  --clip-edges: 0.0125em;
-  position: relative;
-  background: transparent;
-  overflow: hidden;
   -webkit-appearance: none;
   appearance: none;
-}
-
-input[type="range"]:active {
-  cursor: grabbing;
-}
-
-input[type="range"]:disabled {
-  filter: grayscale(1);
-  opacity: 0.3;
-  cursor: not-allowed;
-}
-
-input[type="range"]::-webkit-slider-runnable-track {
-  background: linear-gradient(var(--track-color) 0 0) scroll no-repeat center / 100% calc(var(--track-height) + 1px);
-  height: var(--thumb-height);
+  width: 100%;
+  height: 4px;
+  background: #ccc;
+  border-radius: 2px;
+  outline: none;
+  background-image: linear-gradient(to right, #290000 var(--progress, 50%), #ccc var(--progress, 50%));
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  transition: background 0.3s ease-in-out;
 }
 
 input[type="range"]::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  width: var(--thumb-width, var(--thumb-height));
-  height: var(--thumb-height);
-  background-color: currentColor;
-  border-radius: var(--thumb-width, var(--thumb-height));
-  box-shadow: calc(-100vmax - var(--thumb-width, var(--thumb-height))) 0 0 100vmax currentColor;
-  background-image: linear-gradient(currentColor 0 0);
-  background-repeat: no-repeat;
-  background-position: left center;
-  background-size: 50% calc(var(--track-height) + 1px);
-  filter: brightness(100%);
-  clip-path: polygon(
-    100% -1px,
-    var(--clip-edges) -1px,
-    0 calc((var(--thumb-height) - var(--track-height)) * 0.5 - 0.5px),
-    -100vmax calc((var(--thumb-height) - var(--track-height)) * 0.5 - 0.5px),
-    -100vmax calc(var(--thumb-height) - (var(--thumb-height) - var(--track-height)) * 0.5 + 0.5px),
-    0 calc(var(--thumb-height) - (var(--thumb-height) - var(--track-height)) * 0.5 + 0.5px),
-    var(--clip-edges) 100%,
-    calc(100% + 1px) calc(100% + 1px)
-  );
-  margin-top: 0;
-  transition: all ease 100ms;
+  width: 18px;
+  height: 18px;
+  background: #290000;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 0 2px #29000044;
+  transition: transform 0.2s ease, background 0.2s ease;
+  margin-top: -7px;
 }
 
 input[type="range"]:hover::-webkit-slider-thumb {
-  filter: brightness(var(--brightness-hover));
-  cursor: grab;
+  transform: scale(1.1);
+  background: #441111;
 }
 
-input[type="range"]:active::-webkit-slider-thumb {
-  filter: brightness(var(--brightness-down));
+input[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  background: #290000;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0 0 2px #29000044;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+input[type="range"]:hover::-moz-range-thumb {
+  transform: scale(1.1);
+  background: #441111;
 }
 
 input[type="range"]::-moz-range-track {
   width: 100%;
-  background: var(--track-color);
-  height: calc(var(--track-height) + 1px);
-  border-radius: var(--track-height);
-}
-
-input[type="range"]::-moz-range-thumb {
-  width: var(--thumb-width, var(--thumb-height));
-  height: var(--thumb-height);
-  background: currentColor;
-  border: 0;
-  border-radius: var(--thumb-width, var(--thumb-height));
-  cursor: grab;
-  filter: brightness(100%);
-  transition: all ease 100ms;
-}
-
-input[type="range"]:hover::-moz-range-thumb {
-  filter: brightness(var(--brightness-hover));
-}
-
-input[type="range"]:active::-moz-range-thumb {
-  filter: brightness(var(--brightness-down));
-  cursor: grabbing;
+  height: 4px;
+  background: #ccc;
+  border-radius: 2px;
 }
 
 input[type="range"]::-moz-range-progress {
-  background: currentColor;
-  height: calc(var(--track-height) + 1px);
-  border-radius: var(--track-height);
-  filter: brightness(100%);
+  height: 4px;
+  background: #290000;
+  border-radius: 2px;
 }
 
-input[type="range"]:hover::-moz-range-progress {
-  filter: brightness(var(--brightness-hover));
-}
-
-input[type="range"]:active::-moz-range-progress {
-  filter: brightness(var(--brightness-down));
-}
 
 /* Custom select appearance */
 .filters select {
