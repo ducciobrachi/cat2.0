@@ -9,6 +9,13 @@ const categoryFilter = document.getElementById('categoryFilter');
 const priceRange = document.getElementById('priceRange');
 const priceLabel = document.getElementById('priceLabel');
 
+// Create and insert value badge
+const priceValue = document.createElement('span');
+priceValue.id = 'priceValue';
+priceValue.style.marginLeft = '1rem';
+priceValue.style.fontWeight = 'bold';
+priceLabel.after(priceValue);
+
 // Mappa codici brevi ai nomi interni dei listini
 const listMap = {
   r: 'retail',
@@ -25,27 +32,31 @@ const translations = {
     search: 'Cerca prodotti...',
     fiber: ['Tutti i materiali', 'Cashmere', 'Cotone', 'Lana', 'Alpaca'],
     category: ['Tutte le categorie', 'Plaid', 'Cuscino', 'Copripiumino', 'Lenzuolo', 'Calzini', 'Pantofola', 'Short', 'Pantalone', 'Asciugamano', 'Telo', 'Cardigan', 'Federe'],
-    price: val => `Prezzo massimo: €${val}`
+    price: val => `Prezzo massimo: €${val}`,
+    noProducts: 'Nessun prodotto trovato.'
   },
   en: {
     title: 'Arca Catalog',
     search: 'Search products...',
     fiber: ['All materials', 'Cashmere', 'Cotton', 'Wool', 'Alpaca'],
     category: ['All categories', 'Throw', 'Cushion', 'Duvet cover', 'Sheet', 'Socks', 'Slippers', 'Shorts', 'Trousers', 'Towel', 'Beach towel', 'Cardigan', 'Pillowcase'],
-    price: val => `Maximum price: €${val}`
+    price: val => `Maximum price: €${val}`,
+    noProducts: 'No products found.'
   },
   fr: {
     title: 'Catalogue Arca',
     search: 'Rechercher des produits...',
     fiber: ['Tous les matériaux', 'Cachemire', 'Coton', 'Laine', 'Alpaga'],
     category: ['Toutes les catégories', 'Plaid', 'Coussin', 'Housse de couette', 'Drap', 'Chaussettes', 'Pantoufles', 'Short', 'Pantalon', 'Serviette', 'Drap de plage', 'Cardigan', 'Taie d’oreiller'],
-    price: val => `Prix maximum : €${val}`
+    price: val => `Prix maximum : €${val}`,
+    noProducts: 'Aucun produit trouvé.'
   }
 };
 
 function updateSliderProgress() {
   const percentage = (priceRange.value / priceRange.max) * 100;
   priceRange.style.setProperty('--progress', `${percentage}%`);
+  priceValue.textContent = `€${priceRange.value}`;
 }
 
 function updateFilterHighlight() {
@@ -58,7 +69,7 @@ function updateFilterHighlight() {
 function displayProducts(items) {
   catalog.innerHTML = "";
   if (items.length === 0) {
-    catalog.innerHTML = "<p>Nessun prodotto trovato.</p>";
+    catalog.innerHTML = `<p>${translations[currentLang].noProducts}</p>`;
   } else {
     items.forEach(product => {
       const card = document.createElement('div');
