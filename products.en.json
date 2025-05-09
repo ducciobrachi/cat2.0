@@ -31,7 +31,7 @@
     },
     "image": "/images/ade.jpg",
     "fiber": "cashmere",
-    "category": "cuscino"
+    "category": "pillow"
   },
   {
     "code": "20323/01",
@@ -47,8 +47,8 @@
       "wholesale-trade": 105
     },
     "image": "/images/aello.jpg",
-    "fiber": "cotone",
-    "category": "telo"
+    "fiber": "cotton",
+    "category": "towel"
   },
   {
     "code": "20264/50",
@@ -65,7 +65,7 @@
     },
     "image": "/images/agia.jpg",
     "fiber": "alpaca/wool",
-    "category": "pantofola"
+    "category": "slipper"
   },
   {
     "code": "20263/50",
@@ -82,7 +82,7 @@
     },
     "image": "/images/agio.jpg",
     "fiber": "alpaca/wool",
-    "category": "pantofola"
+    "category": "slipper"
   },
   {
     "code": "19330/00",
@@ -99,7 +99,7 @@
     },
     "image": "/images/alecto.jpg",
     "fiber": "cotton",
-    "category": "cuscino"
+    "category": "pillow"
   },
   {
     "code": "19413/00",
@@ -166,7 +166,7 @@
       "wholesale-trade": 600
     },
     "image": "/images/apollo.jpg",
-    "fiber": "various",
+    "fiber": "cashmere/wool/yak/camel",
     "category": "throw"
   },
   {
