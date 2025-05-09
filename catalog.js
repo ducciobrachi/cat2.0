@@ -160,12 +160,10 @@ document.querySelectorAll('.lang-button').forEach(btn => {
     const fiberOptions = fiberFilter.options;
     const categoryOptions = categoryFilter.options;
     t.fiber.forEach((label, i) => {
-  fiberOptions[i].text = label;
-  fiberOptions[i].value = translations.it.fiber[i]?.toLowerCase() || "";
+  if (fiberOptions[i]) fiberOptions[i].text = label;
 });
     t.category.forEach((label, i) => {
-  categoryOptions[i].text = label;
-  categoryOptions[i].value = translations.it.category[i]?.toLowerCase() || "";
+  if (categoryOptions[i]) categoryOptions[i].text = label;
 });
     priceLabel.textContent = t.price(priceRange.value);
     updateSliderProgress();
