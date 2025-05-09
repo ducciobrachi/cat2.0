@@ -19,29 +19,25 @@
 
     <section class="filters">
       <input type="text" id="search" placeholder="Cerca prodotti...">
-      
+
       <select id="fiberFilter">
-        <option value="">Tutti i materiali</option>
+        <option value="">all</option>
         <option value="cashmere">Cashmere</option>
-        <option value="cotone">Cotone</option>
-        <option value="lana">Lana</option>
+        <option value="cotton">Cotton</option>
+        <option value="wool">Wool</option>
         <option value="alpaca">Alpaca</option>
+        <option value="linen">Linen</option>
+        <option value="vicuna">Vicuna</option>
       </select>
 
       <select id="categoryFilter">
-        <option value="">Tutte le categorie</option>
-        <option value="plaid">Plaid</option>
-        <option value="cuscino">Cuscino</option>
-        <option value="copripiumino">Copripiumino</option>
-        <option value="lenzuolo">Lenzuolo</option>
-        <option value="calzini">Calzini</option>
-        <option value="pantofola">Pantofola</option>
-        <option value="short">Short</option>
-        <option value="pantalone">Pantalone</option>
-        <option value="asciugamano">Asciugamano</option>
-        <option value="telo">Telo</option>
-        <option value="cardigan">Cardigan</option>
-        <option value="federe">Federe</option>
+        <option value="">all</option>
+        <option value="pillow">Pillow</option>
+        <option value="table">Table</option>
+        <option value="homewear">Homewear</option>
+        <option value="towel">Towel</option>
+        <option value="accessory">Accessory</option>
+        <option value="bath">Bath</option>
       </select>
 
       <input type="range" id="priceRange" min="0" max="2000" value="2000">
@@ -54,19 +50,25 @@
   <script src="catalog.js"></script>
   <script>
     const translations = {
-      it: {
-        title: 'Catalogo Arca',
-        search: 'Cerca prodotti...'
-      },
-      en: {
-        title: 'Arca Catalog',
-        search: 'Search products...'
-      },
-      fr: {
-        title: 'Catalogue Arca',
-        search: 'Rechercher des produits...'
-      }
-    };
+  it: {
+    title: 'Catalogo Arca',
+    search: 'Cerca prodotti...',
+    fiber: ['Tutti i materiali', 'Cashmere', 'Cotone', 'Lana', 'Alpaca', 'Lino', 'Vicuna'],
+    category: ['Tutte le categorie', 'Cuscino', 'Tavola', 'Homewear', 'Asciugamano', 'Accessorio', 'Bagno']
+  },
+  en: {
+    title: 'Arca Catalog',
+    search: 'Search products...',
+    fiber: ['All materials', 'Cashmere', 'Cotton', 'Wool', 'Alpaca', 'Linen', 'Vicuna'],
+    category: ['All categories', 'Pillow', 'Table', 'Homewear', 'Towel', 'Accessory', 'Bath']
+  },
+  fr: {
+    title: 'Catalogue Arca',
+    search: 'Rechercher des produits...',
+    fiber: ['Tous les matériaux', 'Cachemire', 'Coton', 'Laine', 'Alpaga', 'Lin', 'Vicuna'],
+    category: ['Toutes les catégories', 'Coussin', 'Table', 'Vêtements maison', 'Serviette', 'Accessoire', 'Salle de bain']
+  }
+};
 
     document.querySelectorAll('.lang-button').forEach(btn => {
       btn.addEventListener('click', () => {
@@ -79,6 +81,12 @@
 
         document.querySelectorAll('.lang-button').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
+
+        // aggiorna opzioni filtro dinamicamente
+        const fiberOptions = fiberFilter.options;
+        const categoryOptions = categoryFilter.options;
+        translations[lang].fiber.forEach((label, i) => fiberOptions[i].text = label);
+        translations[lang].category.forEach((label, i) => categoryOptions[i].text = label);
 
         loadProducts(lang);
       });
