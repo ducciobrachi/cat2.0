@@ -107,10 +107,10 @@ function filterProducts() {
   const filtered = updatedProducts.filter(product => {
     const price = product.priceList?.[selectedList] ?? 0;
     const matchesSearch =
-      product.name.toLowerCase().includes(searchText) ||
-      product.label.toLowerCase().includes(searchText);
-    const matchesFiber = selectedFiber === "" || (product.fiber && product.fiber.toLowerCase() === selectedFiber);
-    const matchesCategory = selectedCategory === "" || (product.category && product.category.toLowerCase() === selectedCategory);
+      product.name.toLowerCase().trim().includes(searchText) ||
+      product.label.toLowerCase().trim().includes(searchText);
+    const matchesFiber = selectedFiber === "" || (product.fiber && product.fiber.toLowerCase().trim() === selectedFiber);
+    const matchesCategory = selectedCategory === "" || (product.category && product.category.toLowerCase().trim() === selectedCategory);
     const matchesPrice = !isNaN(maxPrice) ? price <= maxPrice : true;
     return matchesSearch && matchesFiber && matchesCategory && matchesPrice;
   });
@@ -159,8 +159,12 @@ document.querySelectorAll('.lang-button').forEach(btn => {
     searchInput.placeholder = t.search;
     const fiberOptions = fiberFilter.options;
     const categoryOptions = categoryFilter.options;
-    t.fiber.forEach((label, i) => fiberOptions[i].text = label);
-    t.category.forEach((label, i) => categoryOptions[i].text = label);
+    t.fiber.forEach((label, i) => {
+  fiberOptions[i].text = label;
+});
+    t.category.forEach((label, i) => {
+  categoryOptions[i].text = label;
+});
     priceLabel.textContent = t.price(priceRange.value);
     updateSliderProgress();
     document.querySelectorAll('.lang-button').forEach(b => b.classList.remove('active'));
