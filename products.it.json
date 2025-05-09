@@ -161,9 +161,9 @@
     "dimensions": "150x200 cm",
     "description": "...",
     "priceList": {
-    "retail": 1680,
-    "wholesale":598,
-    "wholesale-trade":600
+     "retail": 1680,
+     "wholesale":598,
+     "wholesale-trade":600
     },
     "image": "/images/apollo.jpg",
      "fiber": "various",
@@ -178,9 +178,9 @@
     "dimensions": "130x180 cm",
     "description": "Plaid \"gaming\" ispirato al gioco degli scacchi in 100% cashmere ritorto. Tessuto su telaio Jacquard e rifinito con frange sfilate a mano sui due lati corti.",
     "priceList": {
-    "retail": 920,
-    "wholesale":272,
-    "wholesale-trade":329
+     "retail": 920,
+     "wholesale":272,
+     "wholesale-trade":329
     },
     "image": "/images/ares.jpg",
     "fiber": "hemp",
@@ -195,9 +195,9 @@
     "dimensions": "180x200 cm",
     "description": "Lenzuolo sotto in tela100% canapa tinto in capo.",
     "priceList": {
-    "retail": 550,
-    "wholesale":205,
-    "wholesale-trade":196
+     "retail": 550,
+     "wholesale":205,
+     "wholesale-trade":196
     },
     "image": "/images/argo.jpg",
     "fiber": "hemp",
@@ -212,9 +212,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "Short in seersucker unito in Supima e seta, con elastico in vita.",
     "priceList": {
-    "retail": 195,
-    "wholesale":75,
-    "wholesale-trade":78
+     "retail": 195,
+     "wholesale":75,
+     "wholesale-trade":78
     },
     "image": "/images/asteria.jpg",
     "fiber": "cotton/silk",
@@ -229,9 +229,9 @@
     "dimensions": "50x50 cm",
     "description": "Cuscino in lana e cashmere, con motivo logo tessuto su telaio jacquard e rifinito con cucitura punto cavallo in tono.",
     "priceList": {
-    "retail": 350,
-    "wholesale":102,
-    "wholesale-trade":125
+     "retail": 350,
+     "wholesale":102,
+     "wholesale-trade":125
     },
     "image": "/images/atena.jpg",
     "fiber": "wool/cashmere",
@@ -246,9 +246,9 @@
     "dimensions": "50x145 cm",
     "description": "Runner intreccio oxford in puro lino, sfilato a mano sui 4 lati.",
     "priceList": {
-    "retail": 220,
-    "wholesale":50,
-    "wholesale-trade":79
+     "retail": 220,
+     "wholesale":50,
+     "wholesale-trade":79
     },
     "image": "/images/boreas.jpg",
     "fiber": "linen",
@@ -263,9 +263,9 @@
     "dimensions": "30x50 cm",
     "description": "Cuscino in velluto liscio di puro cotone Itaco 100% Italiano.",
     "priceList": {
-    "retail": 350,
-    "wholesale":88,
-    "wholesale-trade":125
+     "retail": 350,
+     "wholesale":88,
+     "wholesale-trade":125
     },
     "image": "/images/bromio.jpg",
     "fiber": "cotton",
@@ -280,9 +280,9 @@
     "dimensions": "60x60 cm",
     "description": "Cuscino in 100% cashmere con effetto mouflon, lavorazione punto cavallo in filato puro cashmere ritorto a dieci capi.",
     "priceList": {
-    "retail": 650,
-    "wholesale":236,
-    "wholesale-trade":232
+     "retail": 650,
+     "wholesale":236,
+     "wholesale-trade":232
     },
     "image": "/images/calipso.jpg",
     "fiber": "cashmere",
@@ -297,9 +297,9 @@
     "dimensions": "30x50 cm",
     "description": "Cuscino in puro lino doppia faccia con intreccio a reps e motivo rigato.",
     "priceList": {
-    "retail": 280,
-    "wholesale":94,
-    "wholesale-trade":100
+     "retail": 280,
+     "wholesale":94,
+     "wholesale-trade":100
     },
     "image": "/images/cariddi.jpg",
     "fiber": "linen",
@@ -314,9 +314,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "Pantalone lungo jogging in scuba comfort in cotone Itaco, con cintura e fondo gamba in costina elasticizzata e coulisse.",
     "priceList": {
-    "retail": 295,
-    "wholesale":123,
-    "wholesale-trade":118
+     "retail": 295,
+     "wholesale":123,
+     "wholesale-trade":118
     },
     "image": "/images/cassio.jpg",
     "fiber": "cotton",
@@ -331,9 +331,9 @@
     "dimensions": "34 x 29 h.20 cm",
     "description": "È una borsa composta da tessuto e pelle.",
     "priceList": {
-    "retail": 3400,
-    "wholesale":1503,
-    "wholesale-trade":1214
+     "retail": 3400,
+     "wholesale":1503,
+     "wholesale-trade":1214
     },
     "image": "/images/catullo.jpg",
     "fiber": "cashmere/leather",
@@ -348,9 +348,9 @@
     "dimensions": "50x50 cm",
     "description": "Cuscino in velluto liscio di puro cotone Itaco 100% Italiano.",
     "priceList": {
-    "retail": 370,
-    "wholesale":102,
-    "wholesale-trade":132
+     "retail": 370,
+     "wholesale":102,
+     "wholesale-trade":132
     },
     "image": "/images/cerbero.jpg",
     "fiber": "cotton",
@@ -365,9 +365,9 @@
     "dimensions": "130x180 cm",
     "description": "Plaid \"gaming\" ispirato al gioco del backgammon in 100% cashmere ritorto. Tessuto su telaio Jacquard e rifinito con frange sfilate a mano sui due lati corti.",
     "priceList": {
-    "retail": 920,
-    "wholesale":272,
-    "wholesale-trade":329
+     "retail": 920,
+     "wholesale":272,
+     "wholesale-trade":329
     },
     "image": "/images/chimera.jpg",
     "fiber": "cashmere",
@@ -382,9 +382,9 @@
     "dimensions": "50x80 cm",
     "description": "Set 2 federe in Raso 600 fili di puro cotone Sea Island con volano di 5 cm e ricamo doppia riga bourdon.",
     "priceList": {
-    "retail": 550,
-    "wholesale":193,
-    "wholesale-trade":196
+     "retail": 550,
+     "wholesale":193,
+     "wholesale-trade":196
     },
     "image": "/images/ciclope.jpg",
     "fiber": "cotton",
@@ -399,9 +399,9 @@
     "dimensions": "130x180 cm",
     "description": "Plaid \"peluche\" realizzato con soffice boucle' in baby alpaca e seta. Finito con frange lunghe.",
     "priceList": {
-    "retail": 680,
-    "wholesale":290,
-    "wholesale-trade":243
+     "retail": 680,
+     "wholesale":290,
+     "wholesale-trade":243
     },
     "image": "/images/circe.jpg",
     "fiber": "alpaca/silk",
@@ -416,9 +416,9 @@
     "dimensions": "39-40 = S\n41-42 = M\n43-44 = L\n45-46 = XL",
     "description": "Pantofola uomo incrociata in puro lino tre capi ritorto, con suola in TPU.",
     "priceList": {
-    "retail": 220,
-    "wholesale":100,
-    "wholesale-trade":88
+     "retail": 220,
+     "wholesale":100,
+     "wholesale-trade":88
     },
     "image": "/images/clelia.jpg",
     "fiber": "linen",
@@ -433,9 +433,9 @@
     "dimensions": "50X150",
     "description": "Runner in 100% Canapa tinta in capo, rifinito con ricamo ajour sui 4 lati.",
     "priceList": {
-    "retail": 290,
-    "wholesale":103,
-    "wholesale-trade":104
+     "retail": 290,
+     "wholesale":103,
+     "wholesale-trade":104
     },
     "image": "/images/clio.jpg",
     "fiber": "hemp",
@@ -450,9 +450,9 @@
     "dimensions": "40x60 cm",
     "description": "Asciugamano ospite in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con ricamo bourdon sui 4 lati.",
     "priceList": {
-    "retail": 89,
-    "wholesale":35,
-    "wholesale-trade":32
+     "retail": 89,
+     "wholesale":35,
+     "wholesale-trade":32
     },
     "image": "/images/core.jpg",
     "fiber": "cotton",
@@ -467,9 +467,9 @@
     "dimensions": "90x150 cm",
     "description": "Plaid in puro cashmere con intreccio diagonale, realizzato su telaio a navetta e rifinito con frange sfilate a mano sui due lati corti.",
     "priceList": {
-    "retail": 480,
-    "wholesale":140,
-    "wholesale-trade":171
+     "retail": 480,
+     "wholesale":140,
+     "wholesale-trade":171
     },
     "image": "/images/crono.jpg",
     "fiber": "cashmere",
@@ -484,9 +484,9 @@
     "dimensions": "220x240 cm",
     "description": "Plaid in maglia inglese bicolore. Finezza 5, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 3 capi, bordo in tessuto di cashmere sui 4 lati",
     "priceList": {
-    "retail": 1780,
-    "wholesale":812,
-    "wholesale-trade":636
+     "retail": 1780,
+     "wholesale":812,
+     "wholesale-trade":636
     },
     "image": "/images/dafne.jpg",
      "fiber": "cashmere",
@@ -501,9 +501,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "Pantalone lungo in interlock comfort mélange, con cintura e fondo gamba in costina elasticizzata e coulisse.",
     "priceList": {
-    "retail": 250,
-    "wholesale":111,
-    "wholesale-trade":100
+     "retail": 250,
+     "wholesale":111,
+     "wholesale-trade":100
     },
     "image": "/images/dedalo.jpg",
     "fiber": "cotton",
@@ -518,9 +518,9 @@
     "dimensions": "50x50 cm",
     "description": "Set 6 tovaglioli in 100% Canapa tinti in capo, rifiniti con ricamo ajour sui 4 lati.",
     "priceList": {
-    "retail": 350,
-    "wholesale":123,
-    "wholesale-trade":125
+     "retail": 350,
+     "wholesale":123,
+     "wholesale-trade":125
     },
     "image": "/images/demetra.jpg",
     "fiber": "hemp",
@@ -535,9 +535,9 @@
     "dimensions": "130x180 cm",
     "description": "Trapuntino doppia faccia in velluto liscio di puro cotone Itaco 100% italiano, con imbottitura.",
     "priceList": {
-    "retail": 780,
-    "wholesale":284,
-    "wholesale-trade":279
+     "retail": 780,
+     "wholesale":284,
+     "wholesale-trade":279
     },
     "image": "/images/dioniso.jpg",
     "fiber": "cotton",
@@ -552,9 +552,9 @@
     "dimensions": "130x180 cm",
     "description": "Plaid con effetto ammagliato in 100% cashmere ritorto. Tessuto su antico telaio a navetta con intreccio maxi-twill. Rifinito con frange annodate a mano.",
     "priceList": {
-    "retail": 780,
-    "wholesale":233,
-    "wholesale-trade":279
+     "retail": 780,
+     "wholesale":233,
+     "wholesale-trade":279
     },
     "image": "/images/edipo.jpg",
     "fiber": "cashmere",
@@ -569,9 +569,9 @@
     "dimensions": "XXS-XS-S-M-L",
     "description": "Pantalone lungo interlock comfort melange con vita elasticata e fondo ampio con coulisse.",
     "priceList": {
-    "retail": 250,
-    "wholesale":107,
-    "wholesale-trade":100
+     "retail": 250,
+     "wholesale":107,
+     "wholesale-trade":100
     },
     "image": "/images/efesto.jpg",
     "fiber": "cotton",
@@ -586,9 +586,9 @@
     "dimensions": "130x180 cm",
     "description": "Telo mare rigato barre' in puro lino delavè. Tessuto con intreccio a twill su antico telaio a navetta e finito con spiralatura a mano sui due lati corti.",
     "priceList": {
-    "retail": 350,
-    "wholesale":108,
-    "wholesale-trade":125
+     "retail": 350,
+     "wholesale":108,
+     "wholesale-trade":125
     },
     "image": "/images/egeo.jpg",
     "fiber": "linen",
@@ -603,9 +603,9 @@
     "dimensions": "35-36 = XS, 37-38 = S, 39-40 = M, 41-42 = L",
     "description": "Pantofola donna incrociata in puro lino tre capi ritorto, con suola in TPU.",
     "priceList": {
-    "retail": 220,
-    "wholesale":100,
-    "wholesale-trade":88
+     "retail": 220,
+     "wholesale":100,
+     "wholesale-trade":88
     },
     "image": "/images/elea.jpg",
     "fiber": "linen",
@@ -620,9 +620,9 @@
     "dimensions": "50x80 cm",
     "description": "Set 2 federe in Raso 600 fili di pregiato cotone Sea Island.",
     "priceList": {
-    "retail": 420,
-    "wholesale": 130,
-    "wholesale-trade":150
+     "retail": 420,
+     "wholesale": 130,
+     "wholesale-trade":150
     },
     "image": "/images/eleusi.jpg",
     "fiber": "cotton",
@@ -637,9 +637,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "Felpa girocollo in scuba comfort in cotone Itaco, con fondi in costina elasticizzata.",
     "priceList": {
-    "retail": 295,
-    "wholesale":116,
-    "wholesale-trade":118
+     "retail": 295,
+     "wholesale":116,
+     "wholesale-trade":118
     },
     "image": "/images/enea.jpg",
     "fiber": "cotton/polyamide",
@@ -654,9 +654,9 @@
     "dimensions": "60x60 cm",
     "description": "Cuscino doppia faccia realizzato con un filo di puro cashmere ritorto a dieci capi ed intrecciato a Maxi-Panama.",
     "priceList": {
-    "retail": 590,
-    "wholesale":184,
-    "wholesale-trade":211
+     "retail": 590,
+     "wholesale":184,
+     "wholesale-trade":211
     },
     "image": "/images/eolo.jpg",
      "fiber": "cashmere",
@@ -671,9 +671,9 @@
     "dimensions": "XXS-XS-S-M-L",
     "description": "Short in interlock comfort in cotone Supima con fondo stondato e cinta in costina con coulisse.",
     "priceList": {
-    "retail": 220,
-    "wholesale":78,
-    "wholesale-trade":88
+     "retail": 220,
+     "wholesale":78,
+     "wholesale-trade":88
     },
     "image": "/images/epicuro.jpg",
     "fiber": "cotton",
@@ -688,9 +688,9 @@
     "dimensions": "30x50 cm",
     "description": "Cuscino in puro cashmere, con intreccio maxi-twill e finitura punto cavallo.",
     "priceList": {
-    "retail": 350,
-    "wholesale":116,
-    "wholesale-trade":125
+     "retail": 350,
+     "wholesale":116,
+     "wholesale-trade":125
     },
     "image": "/images/eracle.jpg",
     "fiber": "cashmere",
@@ -705,9 +705,9 @@
     "dimensions": "50x50 cm",
     "description": "Cuscino in puro cashmere, con intreccio maxi-twill e finitura punto cavallo.",
     "priceList": {
-    "retail": 390,
-    "wholesale":136,
-    "wholesale-trade":139
+     "retail": 390,
+     "wholesale":136,
+     "wholesale-trade":139
     },
     "image": "/images/erato.jpg",
     "fiber": "cashmere",
@@ -722,9 +722,9 @@
     "dimensions": "Donna: XXS-XS-S-M-L, Uomo: S-M-L-XL-XXL",
     "description": "Cardigan unisex, punto maglia French Terry. Finezza 7, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 2 capi, made in China",
     "priceList": {
-    "retail": 450,
-    "wholesale":126,
-    "wholesale-trade":180
+     "retail": 450,
+     "wholesale":126,
+     "wholesale-trade":180
     },
     "image": "/images/ercole.jpg",
     "fiber": "cashmere",
@@ -739,9 +739,9 @@
     "dimensions": "XXS-XS-S-M-L",
     "description": "Short in seersucker unito in Supima e seta, con elastico in vita.",
     "priceList": {
-    "retail": 195,
-    "wholesale":75,
-    "wholesale-trade":78
+     "retail": 195,
+     "wholesale":75,
+     "wholesale-trade":78
     },
 
     "image": "/images/erebo.jpg",
@@ -757,9 +757,9 @@
     "dimensions": "50x50 cm",
     "description": "Cuscino effetto maglia realizzato con un filo di puro cashmere ritorto a dieci capi ed intrecciato a Maxi-Panama, finitura con frange sfilate a mano sui 4 lati.",
     "priceList": {
-    "retail": 550,
-    "wholesale":172,
-    "wholesale-trade":196
+     "retail": 550,
+     "wholesale":172,
+     "wholesale-trade":196
     },
     "image": "/images/eros.jpg",
     "fiber": "cashmere",
@@ -774,9 +774,9 @@
     "dimensions": "50x80 cm",
     "description": "Set 2 federe in Raso 600 fili di puro cotone ItacoTM 100% italiano.",
     "priceList": {
-    "retail": 320,
-    "wholesale":102,
-    "wholesale-trade":114
+     "retail": 320,
+     "wholesale":102,
+     "wholesale-trade":114
     },
     "image": "/images/estia.jpg",
     "fiber": "cotton",
@@ -791,9 +791,9 @@
     "dimensions": "40x60",
     "description": "Tappeto lavabo in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con bordo a contrato e ricamo bourdon sui 4 lati.",
     "priceList": {
-    "retail": 125,
-    "wholesale":41,
-    "wholesale-trade":45
+     "retail": 125,
+     "wholesale":41,
+     "wholesale-trade":45
     },
     "image": "/images/fauna.jpg",
     "fiber": "cotton",
@@ -808,9 +808,9 @@
     "dimensions": "60x110",
     "description": "Tappeto doccia in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con bordo a contrato e ricamo bourdon sui 4 lati.",
     "priceList": {
-    "retail": 195,
-    "wholesale":68,
-    "wholesale-trade":70
+     "retail": 195,
+     "wholesale":68,
+     "wholesale-trade":70
     },
     "image": "/images/flora.jpg",
     "fiber": "cotton",
@@ -825,9 +825,9 @@
     "dimensions": "150x190 cm",
     "description": "Tovaglia in 100% Canapa tinta in capo, rifinita con ricamo ajour sui 4 lati.",
     "priceList": {
-    "retail": 420,
-    "wholesale":148,
-    "wholesale-trade":150
+     "retail": 420,
+     "wholesale":148,
+     "wholesale-trade":150
     },
     "image": "/images/forgia.jpg",
     "fiber": "hemp",
@@ -842,9 +842,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "Short in interlock comfort in cotone Supima con cinta in costina elasticcizzata e coulisse.",
     "priceList": {
-    "retail": 220,
-    "wholesale":84,
-    "wholesale-trade":88
+     "retail": 220,
+     "wholesale":84,
+     "wholesale-trade":88
     },
     "image": "/images/frixo.jpg",
     "fiber": "cotton",
@@ -859,9 +859,9 @@
     "dimensions": "270 x 240",
     "description": "Corpipiumino in Raso 600 fili di pregiato cotone Sea Island con ricamo doppia riga bourdon.",
     "priceList": {
-    "retail": 1950,
-    "wholesale":657,
-    "wholesale-trade":696
+     "retail": 1950,
+     "wholesale":657,
+     "wholesale-trade":696
     },
     "image": "/images/gerione.jpg",
    "fiber": "cotton",
@@ -876,9 +876,9 @@
     "dimensions": "270x240 cm",
     "description": "Copripiumino in tela 100% canapa tinto in capo.",
     "priceList": {
-    "retail": 850,
-    "wholesale":295,
-    "wholesale-trade":304
+     "retail": 850,
+     "wholesale":295,
+     "wholesale-trade":304
     },
     "image": "/images/giasone.jpg",
     "fiber": "hemp",
@@ -893,9 +893,9 @@
     "dimensions": "Donna: XXS-XS-S-M-L, Uomo: S-M-L-XL-XXL",
     "description": "Girocollo unisex, punto maglia French Terry. Finezza 7, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 2 capi, made in China",
     "priceList": {
-    "retail": 420,
-    "wholesale":118,
-    "wholesale-trade":168
+     "retail": 420,
+     "wholesale":118,
+     "wholesale-trade":168
     },
     "image": "/images/giove.jpg",
     "fiber": "cashmere",
@@ -910,9 +910,9 @@
     "dimensions": "XXS-XS-S-M-L",
     "description": "Felpa con cappuccio in scuba comfort in cotone Itaco, con fondi in costina elasticizzata.",
     "priceList": {
-    "retail": 330,
-    "wholesale":124,
-    "wholesale-trade":132
+     "retail": 330,
+     "wholesale":124,
+     "wholesale-trade":132
     },
     "image": "/images/gorgia.jpg",
     "fiber": "cotton/polyamide",
@@ -927,9 +927,9 @@
     "dimensions": "50x80 cm",
     "description": "Set 2 federe in tela 100% canapa tinte in capo.",
     "priceList": {
-    "retail": 250,
-    "wholesale":83,
-    "wholesale-trade":89
+     "retail": 250,
+     "wholesale":83,
+     "wholesale-trade":89
     },
     "image": "/images/hebe.jpg",
     "fiber": "hemp",
@@ -944,9 +944,9 @@
     "dimensions": "XXS-XS-S-M-L",
     "description": "Camicia a manica lunga in seersucker unito di cotone Supima e seta con taschino.",
     "priceList": {
-    "retail": 295,
-    "wholesale":119,
-    "wholesale-trade":118
+     "retail": 295,
+     "wholesale":119,
+     "wholesale-trade":118
     },
     "image": "/images/hecate.jpg",
     "fiber": "cotton/silk",
@@ -961,9 +961,9 @@
     "dimensions": "110x180 cm",
     "description": "Telo mare con cimossa a contrasto realizzato in puro cotone crèpe Itaco 100% Italiano. Tessuto con intreccio a reps su antico telaio a navetta e sfilato a mano sui due lati corti.",
     "priceList": {
-    "retail": 290,
-    "wholesale":112,
-    "wholesale-trade":104
+     "retail": 290,
+     "wholesale":112,
+     "wholesale-trade":104
     },
     "image": "/images/helios.jpg",
     "fiber": "cotton",
@@ -978,9 +978,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "T-shirt a manica lunga in interlock comfort mélange.",
     "priceList": {
-    "retail": 180,
-    "wholesale":73,
-    "wholesale-trade":72
+     "retail": 180,
+     "wholesale":73,
+     "wholesale-trade":72
     },
     "image": "/images/hemera.jpg",
     "fiber": "cotton",
@@ -995,9 +995,9 @@
     "dimensions": "XXS-XS-S-M-L",
     "description": "T-shirt in interlock comfort in cotone Supima a manica corta.",
     "priceList": {
-    "retail": 165,
-    "wholesale":52,
-    "wholesale-trade":66
+     "retail": 165,
+     "wholesale":52,
+     "wholesale-trade":66
     },
     "image": "/images/hera.jpg",
     "fiber": "cotton",
@@ -1012,9 +1012,9 @@
     "dimensions": "XXS-XS-S-M-L",
     "description": "T-shirt a manica lunga in interlock comfort mélange.",
     "priceList": {
-    "retail": 180,
-    "wholesale":68,
-    "wholesale-trade":72
+     "retail": 180,
+     "wholesale":68,
+     "wholesale-trade":72
     },
     "image": "/images/hestia.jpg",
     "fiber": "cotton",
@@ -1029,9 +1029,9 @@
     "dimensions": "35x50 cm",
     "description": "Set di 2 tovagliette intreccio oxford in puro lino, sfilate a mano sui 4 lati.",
     "priceList": {
-    "retail": 190,
-    "wholesale":68,
-    "wholesale-trade":68
+     "retail": 190,
+     "wholesale":68,
+     "wholesale-trade":68
     },
     "image": "/images/hypnos.jpg",
     "fiber": "linen",
@@ -1046,9 +1046,9 @@
     "dimensions": "130x150",
     "description": "Plaid travel con motivo a balze in puro cashmere, tessuto su antichi telai a navetta e finito con annodatura a mano.",
     "priceList": {
-    "retail": 550,
-    "wholesale":194,
-    "wholesale-trade":196
+     "retail": 550,
+     "wholesale":194,
+     "wholesale-trade":196
     },
     "image": "/images/icaro.jpg",
     "fiber": "cashmere",
@@ -1063,9 +1063,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "T-shirt in interlock comfort in cotone Supima a manica corta.",
     "priceList": {
-    "retail": 165,
-    "wholesale":55,
-    "wholesale-trade":66
+     "retail": 165,
+     "wholesale":55,
+     "wholesale-trade":66
     },
     "image": "/images/idra.jpg",
     "fiber": "cotton",
@@ -1080,9 +1080,9 @@
     "dimensions": "50x50 cm",
     "description": "Set 6 tovaglioli in pura carta giapponese con armatura Oxford, tinti in capo e rifiniti con ricamo bourdon in tono sui 4 lati.",
     "priceList": {
-    "retail": 350,
-    "wholesale":120,
-    "wholesale-trade":125
+     "retail": 350,
+     "wholesale":120,
+     "wholesale-trade":125
     },
     "image": "/images/ilizia.jpg",
     "fiber": "paper",
@@ -1097,9 +1097,9 @@
     "dimensions": "40x60 cm",
     "description": "Cuscino doppia faccia con intreccio a twill e motivo rigato in puro lino delavè.",
     "priceList": {
-    "retail": 290,
-    "wholesale":100,
-    "wholesale-trade":104
+     "retail": 290,
+     "wholesale":100,
+     "wholesale-trade":104
     },
     "image": "/images/ionio.jpg",
     "fiber": "linen",
@@ -1114,9 +1114,9 @@
     "dimensions": "50X150",
     "description": "Runner in pura carta giapponese con armatura Oxford, tintao in capo e rifinito con ricamo bourdon in tono sui 4 lati.",
     "priceList": {
-    "retail": 250,
-    "wholesale":88,
-    "wholesale-trade":89
+     "retail": 250,
+     "wholesale":88,
+     "wholesale-trade":89
     },
     "image": "/images/iris.jpg",
     "fiber": "paper",
@@ -1131,9 +1131,9 @@
     "dimensions": "13X13",
     "description": "Set 6 sottobicchieri in pura carta giapponese con armatura Oxford, tinti in capo e rifiniti con ricamo bourdon in tono sui 4 lati.",
     "priceList": {
-    "retail": 160,
-    "wholesale":62,
-    "wholesale-trade":57
+     "retail": 160,
+     "wholesale":62,
+     "wholesale-trade":57
     },
     "image": "/images/leda.jpg",
     "fiber": "paper",
@@ -1148,9 +1148,9 @@
     "dimensions": "XXS-XS-S-M-L",
     "description": "Pantalone lungo jogging con cinta in costina elastica e fondo ampio con coulisse in cotone Itaco",
     "priceList": {
-    "retail": 295,
-    "wholesale": 123,
-    "wholesale-trade":118
+     "retail": 295,
+     "wholesale": 123,
+     "wholesale-trade":118
     },
     "image": "/images/manlio.jpg",
     "fiber": "cotton/polyamide",
@@ -1165,9 +1165,9 @@
     "dimensions": "150x190 cm",
     "description": "Tovaglia in pura carta giapponese con armatura Oxford, tinta in capo e rifinita con ricamo bourdon in tono sui 4 lati.",
     "priceList": {
-    "retail": 420,
-    "wholesale":135,
-    "wholesale-trade":150
+     "retail": 420,
+     "wholesale":135,
+     "wholesale-trade":150
     },
     "image": "/images/medea.jpg",
     "fiber": "paper",
@@ -1182,9 +1182,9 @@
     "dimensions": "60x60 cm",
     "description": "Cuscino \"peluche\" realizzato con soffice bouclé in baby alpaca e seta. Finito con elegante piping in pelle.",
     "priceList": {
-    "retail": 350,
-    "wholesale":184,
-    "wholesale-trade":125
+     "retail": 350,
+     "wholesale":184,
+     "wholesale-trade":125
     },
     "image": "/images/medusa.jpg",
     "fiber": "alpaca/silk",
@@ -1199,9 +1199,9 @@
     "dimensions": "50x50 cm",
     "description": "Set 6 tovaglioli in puro cotone ItacoTM tinto in filo con armatura Oxford, rifiniti con ricamo bourdon sui 4 lati.",
     "priceList": {
-    "retail": 390,
-    "wholesale":132,
-    "wholesale-trade":139
+     "retail": 390,
+     "wholesale":132,
+     "wholesale-trade":139
     },
     "image": "/images/melia.jpg",
     "fiber": "cotton",
@@ -1216,9 +1216,9 @@
     "dimensions": "270x300 cm",
     "description": "Lenzuolo sopra in Raso 600 fili di pregiato cotone Sea Island.",
     "priceList": {
-    "retail": 950,
-    "wholesale":353,
-    "wholesale-trade":339
+     "retail": 950,
+     "wholesale":353,
+     "wholesale-trade":339
     },
     "image": "/images/menelao.jpg",
      "fiber": "cotton",
@@ -1233,9 +1233,9 @@
     "dimensions": "270x300 cm",
     "description": "Lenzuolo sopra in tela 100% canapa tinto in capo.",
     "priceList": {
-    "retail": 550,
-    "wholesale":188,
-    "wholesale-trade":196
+     "retail": 550,
+     "wholesale":188,
+     "wholesale-trade":196
     },
     "image": "/images/morfeo.jpg",
     "fiber": "hemp",
@@ -1250,9 +1250,9 @@
     "dimensions": "50x50 cm",
     "description": "Cuscino doppia faccia in puro cashmere con un lato in maglia inglese vanisè ed un lato in tessuto con effetto mouflon.",
     "priceList": {
-    "retail": 780,
-    "wholesale":234,
-    "wholesale-trade":279
+     "retail": 780,
+     "wholesale":234,
+     "wholesale-trade":279
     },
     "image": "/images/musa.jpg",
     "fiber": "cashmere",
@@ -1267,9 +1267,9 @@
     "dimensions": "150x200 cm",
     "description": "Plaid in 100% cashmere con effetto mouflon, lavorazione punto cavallo con frangia in filato puro cashmere ritorto a dieci capi, annodato a mano.",
     "priceList": {
-    "retail": 1750,
-    "wholesale":484,
-    "wholesale-trade":625
+     "retail": 1750,
+     "wholesale":484,
+     "wholesale-trade":625
     },
     "image": "/images/narciso.jpg",
     "fiber": "cashmere",
@@ -1284,9 +1284,9 @@
     "dimensions": "30x50 cm",
     "description": "Cuscino con intreccio a reps e disegno rigato realizzato in puro cotone crèpe Itaco 100% Italiano.",
     "priceList": {
-    "retail": 220,
-    "wholesale":86,
-    "wholesale-trade":79
+     "retail": 220,
+     "wholesale":86,
+     "wholesale-trade":79
     },
     "image": "/images/nemesi.jpg",
     "fiber": "cotton",
@@ -1301,9 +1301,9 @@
     "dimensions": "150x200 cm",
     "description": "Plaid in twill di puro lino ritorto a tre capi. Tinto in capo con effetto levigato e finito con cucitura punto cavallo e frange in cotone multi-capo. Annodato a mano.",
     "priceList": {
-    "retail": 450,
-    "wholesale":126,
-    "wholesale-trade":161
+     "retail": 450,
+     "wholesale":126,
+     "wholesale-trade":161
     },
     "image": "/images/nereo.jpg",
     "fiber": "linen",
@@ -1318,9 +1318,9 @@
     "dimensions": "130x180 cm",
     "description": "Plaid realizzato con soffice bouclé in baby alpaca e seta. Tessuto su telaio Jacquard e finito con frange lunghe.",
     "priceList": {
-    "retail": 850,
-    "wholesale":312,
-    "wholesale-trade":304
+     "retail": 850,
+     "wholesale":312,
+     "wholesale-trade":304
     },
     "image": "/images/niobe.jpg",
     "fiber": "alpaca/silk",
@@ -1335,9 +1335,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "Camicia a manica lunga in seersucker unito di cotone Supima e seta con taschino.",
     "priceList": {
-    "retail": 295,
-    "wholesale":115,
-    "wholesale-trade":118
+     "retail": 295,
+     "wholesale":115,
+     "wholesale-trade":118
     },
     "image": "/images/nyx.jpg",
     "fiber": "cotton/silk",
@@ -1352,9 +1352,9 @@
     "dimensions": "50x80 cm",
     "description": "Set 2 federe in Raso 600 fili di puro cotone ItacoTM 100% italiano con volano di 5 cm e ricamo doppia riga bourdon.",
     "priceList": {
-    "retail": 450,
-    "wholesale":157,
-    "wholesale-trade":161
+     "retail": 450,
+     "wholesale":157,
+     "wholesale-trade":161
     },
     "image": "/images/oceano.jpg",
     "fiber": "cotton",
@@ -1369,9 +1369,9 @@
     "dimensions": "110x180 cm",
     "description": "Telo mare con disegno rigato realizzato in puro cotone crèpe Itaco 100% Italiano. Tessuto con intreccio a reps su antico telaio a navetta e sfilato a mano sui due lati corti.",
     "priceList": {
-    "retail": 290,
-    "wholesale":112,
-    "wholesale-trade":104
+     "retail": 290,
+     "wholesale":112,
+    " wholesale-trade":104
     },
     "image": "/images/odisseo.jpg",
     "fiber": "cotton",
@@ -1386,9 +1386,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "Short jogging in scuba comfort in cotone Itaco, con cintura in costina elasticizzata e coulisse.",
     "priceList": {
-    "retail": 250,
-    "wholesale":95,
-    "wholesale-trade":100
+     "retail": 250,
+     "wholesale":95,
+     "wholesale-trade":100
     },
     "image": "/images/omero.jpg",
     "fiber": "cotton/polyamide",
@@ -1403,9 +1403,9 @@
     "dimensions": "50x50 cm",
     "description": "Cuscino in 100% cashmere con effetto mouflon, lavorazione punto cavallo in filato puro cashmere ritorto a dieci capi.",
     "priceList": {
-    "retail": 620,
-    "wholesale":206,
-    "wholesale-trade":211
+     "retail": 620,
+     "wholesale":206,
+     "wholesale-trade":211
     },
     "image": "/images/orfeo.jpg",
     "fiber": "cashmere",
@@ -1420,9 +1420,9 @@
     "dimensions": "270x300 cm",
     "description": "Lenzuolo sopra in Raso 600 fili di puro cotone ItacoTM 100% italiano.",
     "priceList": {
-    "retail": 690,
-    "wholesale":250,
-    "wholesale-trade":246
+     "retail": 690,
+     "wholesale":250,
+     "wholesale-trade":246
     },
     "image": "/images/orione.jpg",
     "fiber": "cotton",
@@ -1437,8 +1437,8 @@
     "dimensions": "180x200 cm",
     "description": "Lenzuolo sotto in Raso 600 fili di pregiato cotone Sea Island.",
     "priceList": {
-    "retail": 950,
-    "wholesale":392,
+     "retail": 950,
+     "wholesale":392,
     "wholesale-trade":339
     },
     "image": "/images/pallas.jpg",
@@ -1454,9 +1454,9 @@
     "dimensions": "40x60 cm",
     "description": "Cuscino double-face realizzato con speciale blend di 4 fibre nobili.",
     "priceList": {
-    "retail": 490,
-    "wholesale":180,
-    "wholesale-trade":175
+     "retail": 490,
+     "wholesale":180,
+     "wholesale-trade":175
     },
     "image": "/images/pan.jpg",
      "fiber": "alpaca/cashmere/camel/yak",
@@ -1471,9 +1471,9 @@
     "dimensions": "130x180",
     "description": "Plaid con effetto ammagliato in 100% cashmere ritorto. Tessuto su antico telaio a navetta con classico motivo chevron. Rifinito con frange annodate a mano.",
     "priceList": {
-    "retail": 780,
-    "wholesale":232,
-    "wholesale-trade":279
+     "retail": 780,
+     "wholesale":232,
+     "wholesale-trade":279
     },
     "image": "/images/pandora.jpg",
     "fiber": "cashmere",
@@ -1488,9 +1488,9 @@
     "dimensions": "150x200",
     "description": "Plaid double-face realizzato con speciale blend di 4 fibre nobili, rifinito con lavorazione punto cavallo in filato puro cashmere ritorto a dieci capi.",
     "priceList": {
-    "retail": 1450,
-    "wholesale":300,
-    "wholesale-trade":518
+     "retail": 1450,
+     "wholesale":300,
+     "wholesale-trade":518
     },
     "image": "/images/paride.jpg",
     "fiber": "alpaca/cashmere/camel/yak",
@@ -1505,9 +1505,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "Pantalone lungo jogging in scuba comfort in cotone Itaco, con cintura e fondo gamba in costina elasticizzata e coulisse.",
     "priceList": {
-    "retail": 295,
-    "wholesale":135,
-    "wholesale-trade":118
+     "retail": 295,
+     "wholesale":135,
+     "wholesale-trade":118
     },
     "image": "/images/pegaso.jpg",
     "fiber": "cotton/polyamide",
@@ -1522,9 +1522,9 @@
     "dimensions": "50x50 cm",
     "description": "Cuscino in 100% cashmere double-face con effetto mouflon e balza a contrasto. Finito con lavorazione punto cavallo con filato puro cashmere ritorto a dieci capi.",
     "priceList": {
-    "retail": 620,
-    "wholesale":206,
-    "wholesale-trade":221
+     "retail": 620,
+     "wholesale":206,
+     "wholesale-trade":221
     },
     "image": "/images/perseo.jpg",
      "fiber": "cashmere",
@@ -1539,9 +1539,9 @@
     "dimensions": "180x200 cm",
     "description": "Lenzuolo sotto in Raso 600 fili di puro cotone ItacoTM 100% italiano.",
     "priceList": {
-    "retail": 690,
-    "wholesale":273,
-    "wholesale-trade":246
+     "retail": 690,
+     "wholesale":273,
+     "wholesale-trade":246
     },
     "image": "/images/phobos.jpg",
     "fiber": "cotton",
@@ -1556,9 +1556,9 @@
     "dimensions": "50X50",
     "description": "Cuscino in 100% cashmere double-face con effetto mouflon e balza a contrasto. Finito con lavorazione punto cavallo con filato puro cashmere ritorto a dieci capi.",
     "priceList": {
-    "retail": 620,
-    "wholesale":206,
-    "wholesale-trade":221
+     "retail": 620,
+     "wholesale":206,
+     "wholesale-trade":221
     },
     "image": "/images/rhea.jpg",
     "fiber": "cashmere",
@@ -1573,9 +1573,9 @@
     "dimensions": "XXS-XS-S-M-L",
     "description": "Felpa girocollo in scuba comfort in cotone Itaco, con fondi in costina elasticizzata.",
     "priceList": {
-    "retail": 295,
-    "wholesale":99,
-    "wholesale-trade":118
+     "retail": 295,
+     "wholesale":99,
+     "wholesale-trade":118
     },
     "image": "/images/saffo.jpg",
     "fiber": "cotton/polyamide",
@@ -1590,9 +1590,9 @@
     "dimensions": "40x60 cm",
     "description": "Cuscino double-face realizzato con speciale blend di 4 fibre nobili, rifinito con inserimento di elegante piping in pelle lungo i quattro lati.",
     "priceList": {
-    "retail": 590,
-    "wholesale":160,
-    "wholesale-trade":211
+     "retail": 590,
+     "wholesale":160,
+     "wholesale-trade":211
     },
     "image": "/images/satiro.jpg",
     "fiber": "alpaca/cashmere/camel/yak",
@@ -1607,9 +1607,9 @@
     "dimensions": "130x180 cm",
     "description": "Telo mare rigato in puro lino. Tessuto con intreccio a reps su antico telaio a navetta e finito con spiralatura a mano sui due lati corti.",
     "priceList": {
-    "retail": 320,
-    "wholesale":114,
-    "wholesale-trade":114
+     "retail": 320,
+     "wholesale":114,
+     "wholesale-trade":114
     },
     "image": "/images/scilla.jpg",
     "fiber": "linen",
@@ -1624,9 +1624,9 @@
     "dimensions": "220x240 cm",
     "description": "Coperta in maglia inglese bicolore. Finezza 5, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 3 capi, bordo in tessuto di cashmere sui 4 lati.",
     "priceList": {
-    "retail": 2200,
-    "wholesale":1212,
-    "wholesale-trade":786
+     "retail": 2200,
+     "wholesale":1212,
+     "wholesale-trade":786
     },
     "image": "/images/selene.jpg",
     "fiber": "cashmere",
@@ -1641,9 +1641,9 @@
     "dimensions": "19 X 10 CM",
     "description": "",
     "priceList": {
-    "retail": 160,
-    "wholesale":33,
-    "wholesale-trade":57
+     "retail": 160,
+     "wholesale":33,
+     "wholesale-trade":57
     },
     "image": "/images/tacito.jpg",
     "fiber": "cashmere/silk",
@@ -1658,9 +1658,9 @@
     "dimensions": "150x190 cm",
     "description": "Tovaglia in puro cotone ItacoTM tinto in filo con armatura Oxford, rifinita con ricamo bourdon sui 4 lati.",
     "priceList": {
-    "retail": 490,
-    "wholesale":168,
-    "wholesale-trade":175
+     "retail": 490,
+     "wholesale":168,
+     "wholesale-trade":175
     },
     "image": "/images/talia.jpg",
     "fiber": "cotton",
@@ -1675,9 +1675,9 @@
     "dimensions": "150x200 cm",
     "description": "Plaid in 100% cashmere double-face con effetto mouflon e balza a contrasto. Finito con lavorazione punto cavallo con filato puro cashmere ritorto a dieci capi.",
     "priceList": {
-    "retail": 1750,
-    "wholesale":476,
-    "wholesale-trade":625
+     "retail": 1750,
+     "wholesale":476,
+     "wholesale-trade":625
     },
     "image": "/images/teseo.jpg",
     "fiber": "cashmere",
@@ -1692,9 +1692,9 @@
     "dimensions": "230x260",
     "description": "Copriletto double-face realizzato con speciale blend di 4 fibre nobili, rifinito con inserimento di bordo lavorato a doppio apribile",
     "priceList": {
-    "retail": 2500,
-    "wholesale":905,
-    "wholesale-trade":893
+     "retail": 2500,
+     "wholesale":905,
+     "wholesale-trade":893
     },
     "image": "/images/tetide.jpg",
     "fiber": "alpaca/cashmere/camel/yak",
@@ -1709,9 +1709,9 @@
     "dimensions": "270x240 cm",
     "description": "Corpipiumino in Raso 600 fili di puro cotone ItacoTM 100% italiano con ricamo doppia riga bourdon.",
     "priceList": {
-    "retail": 1490,
-    "wholesale":662,
-    "wholesale-trade":532
+     "retail": 1490,
+     "wholesale":662,
+     "wholesale-trade":532
     },
     "image": "/images/tia.jpg",
     "fiber": "cotton",
@@ -1726,9 +1726,9 @@
     "dimensions": "S-M-L",
     "description": "Accappatoio con cappuccio in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con ricamo bourdon.",
     "priceList": {
-    "retail": 450,
-    "wholesale":180,
-    "wholesale-trade":161
+     "retail": 450,
+     "wholesale":180,
+     "wholesale-trade":161
     },
     "image": "/images/tito.jpg",
      "fiber": "cotton",
@@ -1743,9 +1743,9 @@
     "dimensions": "50x50 cm",
     "description": "Cuscino in twill di puro lino ritorto a tre capi. Tinto in capo con effetto levigato e finito con cucitura punto cavallo in cotone multi-capo.",
     "priceList": {
-    "retail": 390,
-    "wholesale":114,
-    "wholesale-trade":139
+     "retail": 390,
+     "wholesale":114,
+     "wholesale-trade":139
     },
     "image": "/images/tritone.jpg",
     "fiber": "linen",
@@ -1760,9 +1760,9 @@
     "dimensions": "100x180/80 cm",
     "description": "Telo mare in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con cornice a contrasto sui 4 lati.",
     "priceList": {
-    "retail": 350,
-    "wholesale":140,
-    "wholesale-trade":125
+     "retail": 350,
+     "wholesale":140,
+     "wholesale-trade":125
     },
     "image": "/images/typhon.jpg",
     "fiber": "cotton",
@@ -1777,9 +1777,9 @@
     "dimensions": "S-M-L-XL-XXL",
     "description": "Felpa con cappuccio in scuba comfort in cotone Itaco, con fondi in costina elasticizzata.",
     "priceList": {
-    "retail": 330,
-    "wholesale":132,
-    "wholesale-trade":132
+     "retail": 330,
+     "wholesale":132,
+     "wholesale-trade":132
     },
     "image": "/images/vesta.jpg",
     "fiber": "cotton/polyamide",
@@ -1794,9 +1794,9 @@
     "dimensions": "130x180",
     "description": "Plaid effetto maglia realizzato con un filo di puro cashmere ritorto a dieci capi ed intrecciato a Maxi-Panama, tessuto su telaio a navetta e finito con frange lunghe annodate e ricoperte a mano.",
     "priceList": {
-    "retail": 1180,
-    "wholesale":334,
-    "wholesale-trade":421
+     "retail": 1180,
+     "wholesale":334,
+     "wholesale-trade":421
     },
     "image": "/images/zefiro.jpg",
     "fiber": "cashmere",
