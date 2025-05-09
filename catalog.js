@@ -161,9 +161,11 @@ document.querySelectorAll('.lang-button').forEach(btn => {
     const categoryOptions = categoryFilter.options;
     t.fiber.forEach((label, i) => {
   fiberOptions[i].text = label;
+  fiberOptions[i].value = translations.it.fiber[i]?.toLowerCase() || "";
 });
     t.category.forEach((label, i) => {
   categoryOptions[i].text = label;
+  categoryOptions[i].value = translations.it.category[i]?.toLowerCase() || "";
 });
     priceLabel.textContent = t.price(priceRange.value);
     updateSliderProgress();
