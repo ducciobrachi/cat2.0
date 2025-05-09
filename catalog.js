@@ -178,13 +178,13 @@ document.querySelectorAll('.lang-button').forEach(btn => {
     t.fiber.forEach((label, i) => {
   if (fiberOptions[i]) {
     fiberOptions[i].text = label;
-    fiberOptions[i].value = t.fiber[i].toLowerCase();
+    fiberOptions[i].value = translations.it.fiber[i]?.toLowerCase();
   }
 });
     t.category.forEach((label, i) => {
   if (categoryOptions[i]) {
     categoryOptions[i].text = label;
-    categoryOptions[i].value = t.category[i].toLowerCase();
+    categoryOptions[i].value = translations.it.category[i]?.toLowerCase();
   }
 });
     priceLabel.textContent = t.price(priceRange.value);
