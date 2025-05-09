@@ -27,28 +27,16 @@ const selectedListKey = urlParams.get('list') || 'r';
 const selectedList = listMap[selectedListKey] || 'retail';
 
 const translations = {
-  it: {
-    title: 'Catalogo Arca',
-    search: 'Cerca prodotti...',
-    fiber: ['Tutti i materiali', 'Cashmere', 'Cotone', 'Lana', 'Alpaca'],
-    category: ['Tutte le categorie', 'Plaid', 'Cuscino', 'Copripiumino', 'Lenzuolo', 'Calzini', 'Pantofola', 'Short', 'Pantalone', 'Asciugamano', 'Telo', 'Cardigan', 'Federe'],
-    price: val => `Prezzo massimo: €${val}`,
+  $1,
+    priceLabel: 'Prezzo'}`,
     noProducts: 'Nessun prodotto trovato.'
   },
-  en: {
-    title: 'Arca Catalog',
-    search: 'Search products...',
-    fiber: ['All materials', 'Cashmere', 'Cotton', 'Wool', 'Alpaca'],
-    category: ['All categories', 'Throw', 'Cushion', 'Duvet cover', 'Sheet', 'Socks', 'Slippers', 'Shorts', 'Trousers', 'Towel', 'Beach towel', 'Cardigan', 'Pillowcase'],
-    price: val => `Maximum price: €${val}`,
+  $1,
+    priceLabel: 'Price'}`,
     noProducts: 'No products found.'
   },
-  fr: {
-    title: 'Catalogue Arca',
-    search: 'Rechercher des produits...',
-    fiber: ['Tous les matériaux', 'Cachemire', 'Coton', 'Laine', 'Alpaga'],
-    category: ['Toutes les catégories', 'Plaid', 'Coussin', 'Housse de couette', 'Drap', 'Chaussettes', 'Pantoufles', 'Short', 'Pantalon', 'Serviette', 'Drap de plage', 'Cardigan', 'Taie d’oreiller'],
-    price: val => `Prix maximum : €${val}`,
+  $1,
+    priceLabel: 'Prix'}`,
     noProducts: 'Aucun produit trouvé.'
   }
 };
