@@ -8,9 +8,9 @@
     "dimensions": "150x200 cm",
     "description": "Plaid in lana e cashmere, con motivo logo tessuto su telaio jacquard e rifinito con cucitura punto cavallo in tono.",
     "priceList": {
-    "retail": 1180,
-    "wholesale": 182,
-    "wholesale-trade":279
+     "retail": 1180,
+     "wholesale": 182,
+     "wholesale-trade":279
     },
     "image": "/images/achille.jpg",
     "fiber": "wool/cashmere",
@@ -25,9 +25,9 @@
     "dimensions": "30X50 cm",
     "description": "Cuscino in 100% cashmere double-face con effetto mouflon. Finito con lavorazione punto cavallo con filato puro cashmere ritorto a dieci capi.",
     "priceList": {
-    "retail": 480,
-    "wholesale": 164,
-    "wholesale-trade":171
+     "retail": 480,
+     "wholesale": 164,
+     "wholesale-trade":171
     },
     "image": "/images/ade.jpg",
     "fiber": "cashmere",
@@ -41,10 +41,10 @@
     "composition": "100% CO",
     "dimensions": "100x150 cm",
     "description": "Telo doccia in spugna di cotone ItacoTM 100% italiano 500 gr/m2 un lato riccio ed un lato rasato. Rifinito con ricamo bourdon sui 4 lati.",
-     "priceList": {
-    "retail": 295,
-    "wholesale": 115,
-    "wholesale-trade":105
+    "priceList": {
+     "retail": 295,
+     "wholesale": 115,
+     "wholesale-trade":105
     },
     "image": "/images/aello.jpg",
     "fiber": "cotone",
@@ -58,10 +58,10 @@
     "composition": "90% WP 10% PA",
     "dimensions": "35-36 = XS\n37-38 = S\n39-40 = M\n41-42 = L",
     "description": "Pantofola donna incrociata in bouclé di baby alpaca e lana con soletta interna in montone e fondo in pelle scamosciata. Finitura con etichetta jacquard Arca.",
-     "priceList": {
-    "retail": 250,
-    "wholesale": 109,
-    "wholesale-trade":100
+    "priceList": {
+     "retail": 250,
+     "wholesale": 109,
+     "wholesale-trade":100
     },
     "image": "/images/agia.jpg",
     "fiber": "alpaca/wool",
@@ -76,9 +76,9 @@
     "dimensions": "39-40 = S\n41-42 = M\n43-44 = L\n45-46 = XL",
     "description": "Pantofola uomo incrociata in bouclé di baby alpaca e lana con soletta interna in montone e fondo in pelle scamosciata. Finitura con etichetta jacquard Arca.",
     "priceList": {
-    "retail": 250,
-    "wholesale": 109,
-    "wholesale-trade":100
+     "retail": 250,
+     "wholesale": 109,
+     "wholesale-trade":100
     },
     "image": "/images/agio.jpg",
     "fiber": "alpaca/wool",
@@ -93,9 +93,9 @@
     "dimensions": "60x60 cm",
     "description": "Cuscino in velluto liscio di puro cotone Itaco 100% Italiano.",
     "priceList": {
-    "retail": 390,
-    "wholesale": 114,
-    "wholesale-trade":139
+     "retail": 390,
+     "wholesale": 114,
+     "wholesale-trade":139
     },
     "image": "/images/alecto.jpg",
     "fiber": "cotton",
@@ -109,10 +109,10 @@
     "composition": "100% WS",
     "dimensions": "130x180 cm",
     "description": "Plaid con effetto ammagliato in 100% cashmere ritorto. Tessuto su telaio Jacquard e rifinito con frange annodate a mano.",
-     "priceList": {
-    "retail": 920,
-    "wholesale":258,
-    "wholesale-trade":329
+    "priceList": {
+     "retail": 920,
+     "wholesale":258,
+     "wholesale-trade":329
     },
     "image": "/images/alfeo.jpg",
      "fiber": "cashmere",
@@ -126,10 +126,10 @@
     "composition": "100 % CA",
     "dimensions": "10x10 cm",
     "description": "Set 6 sottobicchieri in 100% Canapa tinti in capo, rifiniti con ricamo ajour sui 4 lati.",
-     "priceList": {
-    "retail": 160,
-    "wholesale":62,
-    "wholesale-trade":57
+    "priceList": {
+     "retail": 160,
+     "wholesale":62,
+     "wholesale-trade":57
     },
     "image": "/images/ammon.jpg",
      "fiber": "hemp",
@@ -143,10 +143,10 @@
     "composition": "100% WS",
     "dimensions": "XS-S-M-L",
     "description": "Calzino sportivo unisex, realizzato con filato cardato 100%WS certificato SFA (Sustainable Fibre Alliance) Nm 2/28 a 1 capo, made in Italy",
-     "priceList": {
-    "retail": 90,
-    "wholesale":24,
-    "wholesale-trade":36
+    "priceList": {
+     "retail": 90,
+     "wholesale":24,
+     "wholesale-trade":36
     },
     "image": "/images/anchise.jpg",
     "fiber": "cashmere",
