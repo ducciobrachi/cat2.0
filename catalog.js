@@ -160,10 +160,16 @@ document.querySelectorAll('.lang-button').forEach(btn => {
     const fiberOptions = fiberFilter.options;
     const categoryOptions = categoryFilter.options;
     t.fiber.forEach((label, i) => {
-  if (fiberOptions[i]) fiberOptions[i].text = label;
+  if (fiberOptions[i]) {
+    fiberOptions[i].text = label;
+    fiberOptions[i].value = t.fiber[i].toLowerCase();
+  }
 });
     t.category.forEach((label, i) => {
-  if (categoryOptions[i]) categoryOptions[i].text = label;
+  if (categoryOptions[i]) {
+    categoryOptions[i].text = label;
+    categoryOptions[i].value = t.category[i].toLowerCase();
+  }
 });
     priceLabel.textContent = t.price(priceRange.value);
     updateSliderProgress();
