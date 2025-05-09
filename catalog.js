@@ -9,6 +9,13 @@ const categoryFilter = document.getElementById('categoryFilter');
 const priceRange = document.getElementById('priceRange');
 const priceLabel = document.getElementById('priceLabel');
 
+// Create and insert value badge
+const priceValue = document.createElement('span');
+priceValue.id = 'priceValue';
+priceValue.style.marginLeft = '1rem';
+priceValue.style.fontWeight = 'bold';
+priceLabel.after(priceValue);
+
 // Mappa codici brevi ai nomi interni dei listini
 const listMap = {
   r: 'retail',
@@ -24,24 +31,36 @@ const translations = {
     title: 'Catalogo Arca',
     search: 'Cerca prodotti...',
     fiber: ['Tutti i materiali', 'Cashmere', 'Cotone', 'Lana', 'Alpaca'],
-    category: ['Tutte le categorie', 'Plaid', 'Cuscino', 'Copripiumino', 'Lenzuolo', 'Calzini', 'Pantofola', 'Short', 'Pantalone', 'Asciugamano', 'Telo', 'Cardigan', 'Federe'],
-    price: val => `Prezzo massimo: €${val}`
+    category: ['Tutte le categorie', 'Plaid', 'Pillow', 'Copripiumino', 'Lenzuolo', 'Calzini', 'Pantofola', 'Short', 'Pantalone', 'Asciugamano', 'Telo', 'Cardigan', 'Federe'],
+    price: val => `Prezzo massimo: €${val}`,
+    priceLabel: 'Prezzo',
+    noProducts: 'Nessun prodotto trovato.'
   },
   en: {
     title: 'Arca Catalog',
     search: 'Search products...',
     fiber: ['All materials', 'Cashmere', 'Cotton', 'Wool', 'Alpaca'],
-    category: ['All categories', 'Throw', 'Cushion', 'Duvet cover', 'Sheet', 'Socks', 'Slippers', 'Shorts', 'Trousers', 'Towel', 'Beach towel', 'Cardigan', 'Pillowcase'],
-    price: val => `Maximum price: €${val}`
+    category: ['All categories', 'Throw', 'Pillow', 'Duvet cover', 'Sheet', 'Socks', 'Slippers', 'Shorts', 'Trousers', 'Towel', 'Beach towel', 'Cardigan', 'Pillowcase'],
+    price: val => `Maximum price: €${val}`,
+    priceLabel: 'Price',
+    noProducts: 'No products found.'
   },
   fr: {
     title: 'Catalogue Arca',
     search: 'Rechercher des produits...',
     fiber: ['Tous les matériaux', 'Cachemire', 'Coton', 'Laine', 'Alpaga'],
-    category: ['Toutes les catégories', 'Plaid', 'Coussin', 'Housse de couette', 'Drap', 'Chaussettes', 'Pantoufles', 'Short', 'Pantalon', 'Serviette', 'Drap de plage', 'Cardigan', 'Taie d’oreiller'],
-    price: val => `Prix maximum : €${val}`
+    category: ['Toutes les catégories', 'Plaid', 'Pillow', 'Housse de couette', 'Drap', 'Chaussettes', 'Pantoufles', 'Short', 'Pantalon', 'Serviette', 'Drap de plage', 'Cardigan', 'Taie d’oreiller'],
+    price: val => `Prix maximum : €${val}`,
+    priceLabel: 'Prix',
+    noProducts: 'Aucun produit trouvé.'
   }
 };
+
+function updateSliderProgress() {
+  const percentage = (priceRange.value / priceRange.max) * 100;
+  priceRange.style.setProperty('--progress', `${percentage}%`);
+  priceValue.textContent = `€${priceRange.value}`;
+}
 
 function updateFilterHighlight() {
   document.querySelectorAll('.active-filter').forEach(el => el.classList.remove('active-filter'));
@@ -53,7 +72,7 @@ function updateFilterHighlight() {
 function displayProducts(items) {
   catalog.innerHTML = "";
   if (items.length === 0) {
-    catalog.innerHTML = "<p>Nessun prodotto trovato.</p>";
+    catalog.innerHTML = `<p>${translations[currentLang].noProducts}</p>`;
   } else {
     items.forEach(product => {
       const card = document.createElement('div');
@@ -63,7 +82,7 @@ function displayProducts(items) {
         <img src="${product.image}" alt="${product.name}" />
         <h2>${product.name}</h2>
         <p>${product.label}</p>
-        <p><strong>Prezzo:</strong> €${price}</p>
+        <p><strong>${translations[currentLang].priceLabel || 'Prezzo'}:</strong> €${price}</p>
       `;
       catalog.appendChild(card);
     });
@@ -79,6 +98,22 @@ function displayProducts(items) {
   }
 }
 
+const valueMap = {
+  fiber: {
+    cotone: 'cotton', cotton: 'cotton', coton: 'cotton',
+    lana: 'wool', wool: 'wool', laine: 'wool',
+    alpaca: 'alpaca',
+    cachemire: 'cashmere', cashmere: 'cashmere',
+    seta: 'silk', silk: 'silk', soie: 'silk'
+  },
+  category: {
+    lenzuolo: 'sheet', sheet: 'sheet', drap: 'sheet',
+    plaid: 'plaid',
+    cuscino: 'pillow', coussin: 'pillow', cushion: 'pillow',
+    copripiumino: 'duvet cover', 'duvet cover': 'duvet cover', 'housse de couette': 'duvet cover'
+  }
+};
+
 function filterProducts() {
   const searchText = searchInput.value.toLowerCase().trim();
   const selectedFiber = fiberFilter.value?.trim().toLowerCase();
@@ -88,10 +123,10 @@ function filterProducts() {
   const filtered = updatedProducts.filter(product => {
     const price = product.priceList?.[selectedList] ?? 0;
     const matchesSearch =
-      product.name.toLowerCase().includes(searchText) ||
-      product.label.toLowerCase().includes(searchText);
-    const matchesFiber = selectedFiber === "" || (product.fiber && product.fiber.toLowerCase() === selectedFiber);
-    const matchesCategory = selectedCategory === "" || (product.category && product.category.toLowerCase() === selectedCategory);
+      product.name.toLowerCase().trim().includes(searchText) ||
+      product.label.toLowerCase().trim().includes(searchText);
+    const matchesFiber = selectedFiber === "" || (product.fiber && product.fiber === selectedFiber);
+    const matchesCategory = selectedCategory === "" || (product.category && product.category === selectedCategory);
     const matchesPrice = !isNaN(maxPrice) ? price <= maxPrice : true;
     return matchesSearch && matchesFiber && matchesCategory && matchesPrice;
   });
@@ -105,6 +140,7 @@ function resetFilters() {
   fiberFilter.value = "";
   categoryFilter.value = "";
   priceRange.value = priceRange.max;
+  updateSliderProgress();
   priceLabel.textContent = translations[currentLang].price(priceRange.max);
   filterProducts();
 }
@@ -139,9 +175,20 @@ document.querySelectorAll('.lang-button').forEach(btn => {
     searchInput.placeholder = t.search;
     const fiberOptions = fiberFilter.options;
     const categoryOptions = categoryFilter.options;
-    t.fiber.forEach((label, i) => fiberOptions[i].text = label);
-    t.category.forEach((label, i) => categoryOptions[i].text = label);
+    t.fiber.forEach((label, i) => {
+  if (fiberOptions[i]) {
+    fiberOptions[i].text = label;
+    fiberOptions[i].value = t.fiber[i].toLowerCase();
+  }
+});
+    t.category.forEach((label, i) => {
+  if (categoryOptions[i]) {
+    categoryOptions[i].text = label;
+    categoryOptions[i].value = t.category[i].toLowerCase();
+  }
+});
     priceLabel.textContent = t.price(priceRange.value);
+    updateSliderProgress();
     document.querySelectorAll('.lang-button').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     loadProducts(lang);
@@ -152,11 +199,13 @@ searchInput.addEventListener('input', filterProducts);
 fiberFilter.addEventListener('change', filterProducts);
 categoryFilter.addEventListener('change', filterProducts);
 priceRange.addEventListener('input', () => {
+  updateSliderProgress();
   priceLabel.textContent = translations[currentLang].price(priceRange.value);
   filterProducts();
 });
 
 document.addEventListener("DOMContentLoaded", () => {
+  updateSliderProgress();
   loadProducts(currentLang);
   const resetBtn = document.getElementById('reset-filters');
   if (resetBtn) resetBtn.addEventListener('click', resetFilters);
