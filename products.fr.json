@@ -13,7 +13,7 @@
       "wholesale-trade": 279
     },
     "image": "/images/achille.jpg",
-    "fiber": "laine/cachemire",
+    "fiber": "wool/cashmere",
     "category": "plaid"
   },
   {
@@ -30,8 +30,8 @@
       "wholesale-trade": 171
     },
     "image": "/images/ade.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+    "fiber": "cashmere",
+    "category": "pillow"
   },
   {
     "code": "20323/01",
@@ -47,8 +47,8 @@
       "wholesale-trade": 105
     },
     "image": "/images/aello.jpg",
-    "fiber": "coton",
-    "category": "serviette"
+    "fiber": "cotone",
+    "category": "telo"
   },
   {
     "code": "20264/50",
@@ -64,8 +64,8 @@
       "wholesale-trade": 100
     },
     "image": "/images/agia.jpg",
-    "fiber": "alpaga/laine",
-    "category": "chausson"
+    "fiber": "alpaca/wool",
+    "category": "slipper"
   },
   {
     "code": "20263/50",
@@ -81,8 +81,8 @@
       "wholesale-trade": 100
     },
     "image": "/images/agio.jpg",
-    "fiber": "alpaga/laine",
-    "category": "chausson"
+    "fiber": "alpaca/wool",
+    "category": "slipper"
   },
   {
     "code": "19330/00",
@@ -115,8 +115,8 @@
       "wholesale-trade": 329
     },
     "image": "/images/alfeo.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+     "fiber": "cashmere",
+    "category": "throw"
   },
   {
     "code": "20412/01",
@@ -132,8 +132,8 @@
       "wholesale-trade": 57
     },
     "image": "/images/ammon.jpg",
-    "fiber": "chanvre",
-    "category": "accessoire de table"
+     "fiber": "hemp",
+    "category": "table accessory"
   },
   {
     "code": "20081/50-51",
@@ -149,8 +149,8 @@
       "wholesale-trade": 36
     },
     "image": "/images/anchise.jpg",
-    "fiber": "cachemire",
-    "category": "chaussette"
+    "fiber": "cashmere",
+    "category": "sock"
   },
   {
     "code": "19350/00",
@@ -166,8 +166,8 @@
       "wholesale-trade": 600
     },
     "image": "/images/apollo.jpg",
-    "fiber": "divers",
-    "category": "jeté"
+     "fiber": "various",
+    "category": "throw"
   },
   {
     "code": "19414/00",
@@ -183,8 +183,8 @@
       "wholesale-trade": 329
     },
     "image": "/images/ares.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+    "fiber": "cashmere",
+    "category": "throw"
   },
   {
     "code": "20293/01",
@@ -200,8 +200,8 @@
       "wholesale-trade": 196
     },
     "image": "/images/argo.jpg",
-    "fiber": "chanvre",
-    "category": "drap"
+    "fiber": "hemp",
+    "category": "sheet"
   },
   {
     "code": "19911/50",
@@ -217,8 +217,8 @@
       "wholesale-trade": 78
     },
     "image": "/images/asteria.jpg",
-    "fiber": "coton/soie",
-    "category": "vêtement"
+    "fiber": "cotton/silk",
+    "category": "apparel"
   },
   {
     "code": "19346/00",
@@ -234,8 +234,8 @@
       "wholesale-trade": 125
     },
     "image": "/images/atena.jpg",
-    "fiber": "laine/cachemire",
-    "category": "coussin"
+    "fiber": "wool/cashmere",
+    "category": "cushion"
   },
   {
     "code": "20242/01",
@@ -251,8 +251,8 @@
       "wholesale-trade": 79
     },
     "image": "/images/boreas.jpg",
-    "fiber": "lin",
-    "category": "chemin de table"
+    "fiber": "linen",
+    "category": "runner"
   },
   {
     "code": "20300/00",
@@ -268,8 +268,8 @@
       "wholesale-trade": 125
     },
     "image": "/images/bromio.jpg",
-    "fiber": "coton",
-    "category": "coussin"
+    "fiber": "cotton",
+    "category": "cushion"
   },
   {
     "code": "19329/00",
@@ -285,8 +285,8 @@
       "wholesale-trade": 232
     },
     "image": "/images/calipso.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+    "fiber": "cashmere",
+    "category": "cushion"
   },
   {
     "code": "19353/00",
@@ -302,8 +302,8 @@
       "wholesale-trade": 100
     },
     "image": "/images/cariddi.jpg",
-    "fiber": "lin",
-    "category": "coussin"
+    "fiber": "linen",
+    "category": "cushion"
   },
   {
     "code": "19906/50",
@@ -319,8 +319,8 @@
       "wholesale-trade": 118
     },
     "image": "/images/cassio.jpg",
-    "fiber": "coton",
-    "category": "vêtement"
+    "fiber": "cotton",
+    "category": "apparel"
   },
   {
     "code": "20517/00",
@@ -336,8 +336,8 @@
       "wholesale-trade": 1214
     },
     "image": "/images/catullo.jpg",
-    "fiber": "cachemire/cuir",
-    "category": "sac"
+    "fiber": "cashmere/leather",
+    "category": "bag"
   },
   {
     "code": "20299/00",
@@ -353,8 +353,8 @@
       "wholesale-trade": 132
     },
     "image": "/images/cerbero.jpg",
-    "fiber": "coton",
-    "category": "coussin"
+    "fiber": "cotton",
+    "category": "cushion"
   },
   {
     "code": "19415/00",
@@ -370,8 +370,8 @@
       "wholesale-trade": 329
     },
     "image": "/images/chimera.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+    "fiber": "cashmere",
+    "category": "throw"
   },
   {
     "code": "20407/01",
@@ -387,8 +387,8 @@
       "wholesale-trade": 196
     },
     "image": "/images/ciclope.jpg",
-    "fiber": "coton",
-    "category": "taie d'oreiller"
+    "fiber": "cotton",
+    "category": "pillowcase"
   },
   {
     "code": "19411/00",
@@ -404,8 +404,8 @@
       "wholesale-trade": 243
     },
     "image": "/images/circe.jpg",
-    "fiber": "alpaga/soie",
-    "category": "jeté"
+    "fiber": "alpaca/silk",
+    "category": "throw"
   },
   {
     "code": "20263/51",
@@ -421,8 +421,8 @@
       "wholesale-trade": 88
     },
     "image": "/images/clelia.jpg",
-    "fiber": "lin",
-    "category": "pantoufle"
+    "fiber": "linen",
+    "category": "slipper"
   },
   {
     "code": "20410/01",
@@ -438,8 +438,8 @@
       "wholesale-trade": 104
     },
     "image": "/images/clio.jpg",
-    "fiber": "chanvre",
-    "category": "chemin de table"
+    "fiber": "hemp",
+    "category": "runner"
   },
   {
     "code": "20321/01",
@@ -455,8 +455,8 @@
       "wholesale-trade": 32
     },
     "image": "/images/core.jpg",
-    "fiber": "coton",
-    "category": "serviette"
+    "fiber": "cotton",
+    "category": "towel"
   },
   {
     "code": "19347/00",
@@ -472,8 +472,8 @@
       "wholesale-trade": 171
     },
     "image": "/images/crono.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+    "fiber": "cashmere",
+    "category": "throw"
   },
   {
     "code": "20155/00",
@@ -489,8 +489,8 @@
       "wholesale-trade": 636
     },
     "image": "/images/dafne.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+     "fiber": "cashmere",
+    "category": "throw"
   },
   {
     "code": "19897/50",
@@ -506,8 +506,8 @@
       "wholesale-trade": 100
     },
     "image": "/images/dedalo.jpg",
-    "fiber": "coton",
-    "category": "pantalon"
+    "fiber": "cotton",
+    "category": "pants"
   },
   {
     "code": "20281/01",
@@ -523,8 +523,8 @@
       "wholesale-trade": 125
     },
     "image": "/images/demetra.jpg",
-    "fiber": "chanvre",
-    "category": "serviette"
+    "fiber": "hemp",
+    "category": "napkins"
   },
   {
     "code": "20237/00",
@@ -540,8 +540,8 @@
       "wholesale-trade": 279
     },
     "image": "/images/dioniso.jpg",
-    "fiber": "coton",
-    "category": "jeté"
+    "fiber": "cotton",
+    "category": "quilt"
   },
   {
     "code": "19323/00",
@@ -557,8 +557,8 @@
       "wholesale-trade": 279
     },
     "image": "/images/edipo.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+    "fiber": "cashmere",
+    "category": "throw"
   },
   {
     "code": "19904/50",
@@ -574,8 +574,8 @@
       "wholesale-trade": 100
     },
     "image": "/images/efesto.jpg",
-    "fiber": "coton",
-    "category": "pantalon"
+    "fiber": "cotton",
+    "category": "pants"
   },
   {
     "code": "19348/00",
@@ -591,8 +591,8 @@
       "wholesale-trade": 125
     },
     "image": "/images/egeo.jpg",
-    "fiber": "lin",
-    "category": "serviette de plage"
+    "fiber": "linen",
+    "category": "beach towel"
   },
   {
     "code": "20264/51",
@@ -608,8 +608,8 @@
       "wholesale-trade": 88
     },
     "image": "/images/elea.jpg",
-    "fiber": "lin",
-    "category": "pantoufle"
+    "fiber": "linen",
+    "category": "slipper"
   },
   {
     "code": "20406/01",
@@ -625,8 +625,8 @@
       "wholesale-trade": 150
     },
     "image": "/images/eleusi.jpg",
-    "fiber": "coton",
-    "category": "taie d'oreiller"
+    "fiber": "cotton",
+    "category": "pillowcase"
   },
   {
     "code": "19901/50",
@@ -642,8 +642,8 @@
       "wholesale-trade": 118
     },
     "image": "/images/enea.jpg",
-    "fiber": "coton/polyamide",
-    "category": "sweat-shirt"
+    "fiber": "cotton/polyamide",
+    "category": "sweatshirt"
   },
   {
     "code": "19327/00",
@@ -659,8 +659,8 @@
       "wholesale-trade": 211
     },
     "image": "/images/eolo.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+     "fiber": "cashmere",
+    "category": "cushion"
   },
   {
     "code": "19905/50",
@@ -676,8 +676,8 @@
       "wholesale-trade": 88
     },
     "image": "/images/epicuro.jpg",
-    "fiber": "coton",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton",
+    "category": "homewear"
   },
   {
     "code": "20297/00",
@@ -693,8 +693,8 @@
       "wholesale-trade": 125
     },
     "image": "/images/eracle.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+    "fiber": "cashmere",
+    "category": "cushion"
   },
   {
     "code": "19324/00",
@@ -710,8 +710,8 @@
       "wholesale-trade": 139
     },
     "image": "/images/erato.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+    "fiber": "cashmere",
+    "category": "cushion"
   },
   {
     "code": "20076/50",
@@ -727,8 +727,8 @@
       "wholesale-trade": 180
     },
     "image": "/images/ercole.jpg",
-    "fiber": "cachemire",
-    "category": "vêtement d'intérieur"
+    "fiber": "cashmere",
+    "category": "homewear"
   },
   {
     "code": "19913/50",
@@ -744,8 +744,8 @@
       "wholesale-trade": 78
     },
     "image": "/images/erebo.jpg",
-    "fiber": "coton/soie",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton/silk",
+    "category": "homewear"
   },
   {
     "code": "19326/00",
@@ -761,8 +761,8 @@
       "wholesale-trade": 196
     },
     "image": "/images/eros.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+    "fiber": "cashmere",
+    "category": "cushion"
   },
   {
     "code": "20316/01",
@@ -778,8 +778,8 @@
       "wholesale-trade": 114
     },
     "image": "/images/estia.jpg",
-    "fiber": "coton",
-    "category": "taie d'oreiller"
+    "fiber": "cotton",
+    "category": "pillowcase"
   },
   {
     "code": "20535/00",
@@ -795,8 +795,8 @@
       "wholesale-trade": 45
     },
     "image": "/images/fauna.jpg",
-    "fiber": "coton",
-    "category": "tapis"
+    "fiber": "cotton",
+    "category": "rug"
   },
   {
     "code": "20563/00",
@@ -812,8 +812,8 @@
       "wholesale-trade": 70
     },
     "image": "/images/flora.jpg",
-    "fiber": "coton",
-    "category": "tapis"
+    "fiber": "cotton",
+    "category": "rug"
   },
   {
     "code": "20278/01",
@@ -829,8 +829,8 @@
       "wholesale-trade": 150
     },
     "image": "/images/forgia.jpg",
-    "fiber": "chanvre",
-    "category": "nappe"
+    "fiber": "hemp",
+    "category": "tablecloth"
   },
   {
     "code": "19896/50",
@@ -846,8 +846,8 @@
       "wholesale-trade": 88
     },
     "image": "/images/frixo.jpg",
-    "fiber": "coton",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton",
+    "category": "homewear"
   },
   {
     "code": "20408/01",
@@ -863,8 +863,8 @@
       "wholesale-trade": 696
     },
     "image": "/images/gerione.jpg",
-    "fiber": "coton",
-    "category": "housse de couette"
+    "fiber": "cotton",
+    "category": "duvet cover"
   },
   {
     "code": "20295/01",
@@ -880,8 +880,8 @@
       "wholesale-trade": 304
     },
     "image": "/images/giasone.jpg",
-    "fiber": "chanvre",
-    "category": "housse de couette"
+    "fiber": "hemp",
+    "category": "duvet cover"
   },
   {
     "code": "20075/50",
@@ -897,8 +897,8 @@
       "wholesale-trade": 168
     },
     "image": "/images/giove.jpg",
-    "fiber": "cachemire",
-    "category": "vêtement d'intérieur"
+    "fiber": "cashmere",
+    "category": "homewear"
   },
   {
     "code": "19908/50",
@@ -914,8 +914,8 @@
       "wholesale-trade": 132
     },
     "image": "/images/gorgia.jpg",
-    "fiber": "coton/polyamide",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
   },
   {
     "code": "20294/01",
@@ -931,8 +931,8 @@
       "wholesale-trade": 89
     },
     "image": "/images/hebe.jpg",
-    "fiber": "chanvre",
-    "category": "taie d'oreiller"
+    "fiber": "hemp",
+    "category": "pillowcase"
   },
   {
     "code": "19912/50",
@@ -948,8 +948,8 @@
       "wholesale-trade": 118
     },
     "image": "/images/hecate.jpg",
-    "fiber": "coton/soie",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton/silk",
+    "category": "homewear"
   },
   {
     "code": "19390/00",
@@ -965,8 +965,8 @@
       "wholesale-trade": 104
     },
     "image": "/images/helios.jpg",
-    "fiber": "coton",
-    "category": "serviette de plage"
+    "fiber": "cotton",
+    "category": "beach towel"
   },
   {
     "code": "19895/50",
@@ -982,8 +982,8 @@
       "wholesale-trade": 72
     },
     "image": "/images/hemera.jpg",
-    "fiber": "coton",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton",
+    "category": "homewear"
   },
   {
     "code": "19902/50",
@@ -999,8 +999,8 @@
       "wholesale-trade": 66
     },
     "image": "/images/hera.jpg",
-    "fiber": "coton",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton",
+    "category": "homewear"
   },
   {
     "code": "19903/50",
@@ -1016,8 +1016,8 @@
       "wholesale-trade": 72
     },
     "image": "/images/hestia.jpg",
-    "fiber": "coton",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton",
+    "category": "homewear"
   },
   {
     "code": "20241/01",
@@ -1033,8 +1033,8 @@
       "wholesale-trade": 68
     },
     "image": "/images/hypnos.jpg",
-    "fiber": "lin",
-    "category": "set de table"
+    "fiber": "linen",
+    "category": "placemat"
   },
   {
     "code": "19890/01",
@@ -1050,8 +1050,8 @@
       "wholesale-trade": 196
     },
     "image": "/images/icaro.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+    "fiber": "cashmere",
+    "category": "throw"
   },
   {
     "code": "19894/50",
@@ -1067,8 +1067,8 @@
       "wholesale-trade": 66
     },
     "image": "/images/idra.jpg",
-    "fiber": "coton",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton",
+    "category": "homewear"
   },
   {
     "code": "20282/01",
@@ -1084,8 +1084,8 @@
       "wholesale-trade": 125
     },
     "image": "/images/ilizia.jpg",
-    "fiber": "papier",
-    "category": "serviette"
+    "fiber": "paper",
+    "category": "napkin"
   },
   {
     "code": "19349/00",
@@ -1101,8 +1101,8 @@
       "wholesale-trade": 104
     },
     "image": "/images/ionio.jpg",
-    "fiber": "lin",
-    "category": "coussin"
+    "fiber": "linen",
+    "category": "cushion"
   },
   {
     "code": "20411/01",
@@ -1118,7 +1118,7 @@
       "wholesale-trade": 89
     },
     "image": "/images/iris.jpg",
-    "fiber": "papier",
+    "fiber": "paper",
     "category": "runner"
   },
   {
@@ -1135,8 +1135,8 @@
       "wholesale-trade": 57
     },
     "image": "/images/leda.jpg",
-    "fiber": "papier",
-    "category": "sous-verre"
+    "fiber": "paper",
+    "category": "coaster"
   },
   {
     "code": "19907/50",
@@ -1152,8 +1152,8 @@
       "wholesale-trade": 118
     },
     "image": "/images/manlio.jpg",
-    "fiber": "coton/polyamide",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
   },
   {
     "code": "20279/01",
@@ -1169,8 +1169,8 @@
       "wholesale-trade": 150
     },
     "image": "/images/medea.jpg",
-    "fiber": "papier",
-    "category": "nappe"
+    "fiber": "paper",
+    "category": "tablecloth"
   },
   {
     "code": "19412/00",
@@ -1186,8 +1186,8 @@
       "wholesale-trade": 125
     },
     "image": "/images/medusa.jpg",
-    "fiber": "alpaga/soie",
-    "category": "coussin"
+    "fiber": "alpaca/silk",
+    "category": "cushion"
   },
   {
     "code": "20280/01",
@@ -1203,8 +1203,8 @@
       "wholesale-trade": 139
     },
     "image": "/images/melia.jpg",
-    "fiber": "coton",
-    "category": "serviette"
+    "fiber": "cotton",
+    "category": "napkin"
   },
   {
     "code": "20404/01",
@@ -1220,8 +1220,8 @@
       "wholesale-trade": 339
     },
     "image": "/images/menelao.jpg",
-    "fiber": "coton",
-    "category": "drap"
+     "fiber": "cotton",
+    "category": "sheet"
   },
   {
     "code": "20292/01",
@@ -1237,8 +1237,8 @@
       "wholesale-trade": 196
     },
     "image": "/images/morfeo.jpg",
-    "fiber": "chanvre",
-    "category": "drap"
+    "fiber": "hemp",
+    "category": "sheet"
   },
   {
     "code": "19873/00",
@@ -1254,8 +1254,8 @@
       "wholesale-trade": 279
     },
     "image": "/images/musa.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+    "fiber": "cashmere",
+    "category": "cushion"
   },
   {
     "code": "16893/02",
@@ -1271,8 +1271,8 @@
       "wholesale-trade": 625
     },
     "image": "/images/narciso.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+    "fiber": "cashmere",
+    "category": "plaid"
   },
   {
     "code": "19389/00",
@@ -1288,8 +1288,8 @@
       "wholesale-trade": 79
     },
     "image": "/images/nemesi.jpg",
-    "fiber": "coton",
-    "category": "coussin"
+    "fiber": "cotton",
+    "category": "cushion"
   },
   {
     "code": "19331/00",
@@ -1305,8 +1305,8 @@
       "wholesale-trade": 161
     },
     "image": "/images/nereo.jpg",
-    "fiber": "lin",
-    "category": "jeté"
+    "fiber": "linen",
+    "category": "plaid"
   },
   {
     "code": "19759/00",
@@ -1322,8 +1322,8 @@
       "wholesale-trade": 304
     },
     "image": "/images/niobe.jpg",
-    "fiber": "alpaga/soie",
-    "category": "jeté"
+    "fiber": "alpaca/silk",
+    "category": "plaid"
   },
   {
     "code": "19910/50",
@@ -1339,8 +1339,8 @@
       "wholesale-trade": 118
     },
     "image": "/images/nyx.jpg",
-    "fiber": "coton/soie",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton/silk",
+    "category": "homewear"
   },
   {
     "code": "20318/01",
@@ -1356,8 +1356,8 @@
       "wholesale-trade": 161
     },
     "image": "/images/oceano.jpg",
-    "fiber": "coton",
-    "category": "taie d'oreiller"
+    "fiber": "cotton",
+    "category": "pillowcase"
   },
   {
     "code": "19388/00",
@@ -1373,8 +1373,8 @@
       "wholesale-trade": 104
     },
     "image": "/images/odisseo.jpg",
-    "fiber": "coton",
-    "category": "serviette de plage"
+    "fiber": "cotton",
+    "category": "beach towel"
   },
   {
     "code": "19898/50",
@@ -1390,8 +1390,8 @@
       "wholesale-trade": 100
     },
     "image": "/images/omero.jpg",
-    "fiber": "coton/polyamide",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
   },
   {
     "code": "20298/00",
@@ -1407,8 +1407,8 @@
       "wholesale-trade": 211
     },
     "image": "/images/orfeo.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+    "fiber": "cashmere",
+    "category": "cushion"
   },
   {
     "code": "20296/01",
@@ -1424,8 +1424,8 @@
       "wholesale-trade": 246
     },
     "image": "/images/orione.jpg",
-    "fiber": "coton",
-    "category": "drap"
+    "fiber": "cotton",
+    "category": "sheet"
   },
   {
     "code": "20405/01",
@@ -1441,8 +1441,8 @@
       "wholesale-trade": 339
     },
     "image": "/images/pallas.jpg",
-    "fiber": "coton",
-    "category": "drap"
+    "fiber": "cotton",
+    "category": "sheet"
   },
   {
     "code": "20301/00",
@@ -1458,8 +1458,8 @@
       "wholesale-trade": 175
     },
     "image": "/images/pan.jpg",
-    "fiber": "alpaga/cachemire/chameau/yak",
-    "category": "coussin"
+     "fiber": "alpaca/cashmere/camel/yak",
+    "category": "cushion"
   },
   {
     "code": "16554/01",
@@ -1475,8 +1475,8 @@
       "wholesale-trade": 279
     },
     "image": "/images/pandora.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+    "fiber": "cashmere",
+    "category": "plaid"
   },
   {
     "code": "20496/00",
@@ -1492,8 +1492,8 @@
       "wholesale-trade": 518
     },
     "image": "/images/paride.jpg",
-    "fiber": "alpaga/cachemire/chameau/yak",
-    "category": "jeté"
+    "fiber": "alpaca/cashmere/camel/yak",
+    "category": "throw"
   },
   {
     "code": "19899/50",
@@ -1509,8 +1509,8 @@
       "wholesale-trade": 118
     },
     "image": "/images/pegaso.jpg",
-    "fiber": "coton/polyamide",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
   },
   {
     "code": "19356/00",
@@ -1526,8 +1526,8 @@
       "wholesale-trade": 221
     },
     "image": "/images/perseo.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+     "fiber": "cashmere",
+    "category": "cushion"
   },
   {
     "code": "20320/01",
@@ -1543,8 +1543,8 @@
       "wholesale-trade": 246
     },
     "image": "/images/phobos.jpg",
-    "fiber": "coton",
-    "category": "drap"
+    "fiber": "cotton",
+    "category": "sheet"
   },
   {
     "code": "20414/00",
@@ -1560,8 +1560,8 @@
       "wholesale-trade": 221
     },
     "image": "/images/rhea.jpg",
-    "fiber": "cachemire",
-    "category": "coussin"
+    "fiber": "cashmere",
+    "category": "cushion"
   },
   {
     "code": "19909/00",
@@ -1577,8 +1577,8 @@
       "wholesale-trade": 118
     },
     "image": "/images/saffo.jpg",
-    "fiber": "coton/polyamide",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
   },
   {
     "code": "19351/00",
@@ -1594,8 +1594,8 @@
       "wholesale-trade": 211
     },
     "image": "/images/satiro.jpg",
-    "fiber": "alpaga/cachemire/chameau/yak",
-    "category": "coussin"
+    "fiber": "alpaca/cashmere/camel/yak",
+    "category": "cushion"
   },
   {
     "code": "19352/00",
@@ -1611,8 +1611,8 @@
       "wholesale-trade": 114
     },
     "image": "/images/scilla.jpg",
-    "fiber": "lin",
-    "category": "serviette de plage"
+    "fiber": "linen",
+    "category": "beach towel"
   },
   {
     "code": "20154/00",
@@ -1628,8 +1628,8 @@
       "wholesale-trade": 786
     },
     "image": "/images/selene.jpg",
-    "fiber": "cachemire",
-    "category": "couverture"
+    "fiber": "cashmere",
+    "category": "blanket"
   },
   {
     "code": "19860/01",
@@ -1645,8 +1645,8 @@
       "wholesale-trade": 57
     },
     "image": "/images/tacito.jpg",
-    "fiber": "cachemire/soie",
-    "category": "accessoire"
+    "fiber": "cashmere/silk",
+    "category": "accessory"
   },
   {
     "code": "20277/01",
@@ -1662,8 +1662,8 @@
       "wholesale-trade": 175
     },
     "image": "/images/talia.jpg",
-    "fiber": "coton",
-    "category": "nappe"
+    "fiber": "cotton",
+    "category": "tablecloth"
   },
   {
     "code": "19355/00",
@@ -1679,8 +1679,8 @@
       "wholesale-trade": 625
     },
     "image": "/images/teseo.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+    "fiber": "cashmere",
+    "category": "throw"
   },
   {
     "code": "20497/00",
@@ -1696,8 +1696,8 @@
       "wholesale-trade": 893
     },
     "image": "/images/tetide.jpg",
-    "fiber": "alpaga/cachemire/chameau/yak",
-    "category": "dessus-de-lit"
+    "fiber": "alpaca/cashmere/camel/yak",
+    "category": "bedspread"
   },
   {
     "code": "20319/01",
@@ -1713,8 +1713,8 @@
       "wholesale-trade": 532
     },
     "image": "/images/tia.jpg",
-    "fiber": "coton",
-    "category": "housse de couette"
+    "fiber": "cotton",
+    "category": "duvet cover"
   },
   {
     "code": "20327/01",
@@ -1730,8 +1730,8 @@
       "wholesale-trade": 161
     },
     "image": "/images/tito.jpg",
-    "fiber": "coton",
-    "category": "peignoir"
+     "fiber": "cotton",
+    "category": "bathrobe"
   },
   {
     "code": "19328/00",
@@ -1747,8 +1747,8 @@
       "wholesale-trade": 139
     },
     "image": "/images/tritone.jpg",
-    "fiber": "lin",
-    "category": "coussin"
+    "fiber": "linen",
+    "category": "cushion"
   },
   {
     "code": "20329/01",
@@ -1764,8 +1764,8 @@
       "wholesale-trade": 125
     },
     "image": "/images/typhon.jpg",
-    "fiber": "coton",
-    "category": "serviette de plage"
+    "fiber": "cotton",
+    "category": "beach towel"
   },
   {
     "code": "19900/50",
@@ -1781,8 +1781,8 @@
       "wholesale-trade": 132
     },
     "image": "/images/vesta.jpg",
-    "fiber": "coton/polyamide",
-    "category": "vêtement d'intérieur"
+    "fiber": "cotton/polyamide",
+    "category": "homewear"
   },
   {
     "code": "19325/00",
@@ -1798,7 +1798,7 @@
       "wholesale-trade": 421
     },
     "image": "/images/zefiro.jpg",
-    "fiber": "cachemire",
-    "category": "jeté"
+    "fiber": "cashmere",
+    "category": "throw"
   }
 ]
