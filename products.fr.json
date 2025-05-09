@@ -48,7 +48,7 @@
     },
     "image": "/images/aello.jpg",
     "fiber": "cotone",
-    "category": "telo"
+    "category": "towel"
   },
   {
     "code": "20264/50",
@@ -98,8 +98,8 @@
       "wholesale-trade": 139
     },
     "image": "/images/alecto.jpg",
-    "fiber": "coton",
-    "category": "coussin"
+    "fiber": "cotton",
+    "category": "pillow"
   },
   {
     "code": "19413/00",
@@ -116,7 +116,7 @@
     },
     "image": "/images/alfeo.jpg",
      "fiber": "cashmere",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "20412/01",
@@ -133,7 +133,7 @@
     },
     "image": "/images/ammon.jpg",
      "fiber": "hemp",
-    "category": "table accessory"
+    "category": "table"
   },
   {
     "code": "20081/50-51",
@@ -150,7 +150,7 @@
     },
     "image": "/images/anchise.jpg",
     "fiber": "cashmere",
-    "category": "sock"
+    "category": "homewear"
   },
   {
     "code": "19350/00",
@@ -167,7 +167,7 @@
     },
     "image": "/images/apollo.jpg",
      "fiber": "various",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "19414/00",
@@ -184,7 +184,7 @@
     },
     "image": "/images/ares.jpg",
     "fiber": "cashmere",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "20293/01",
@@ -201,7 +201,7 @@
     },
     "image": "/images/argo.jpg",
     "fiber": "hemp",
-    "category": "sheet"
+    "category": "bedroom"
   },
   {
     "code": "19911/50",
@@ -218,7 +218,7 @@
     },
     "image": "/images/asteria.jpg",
     "fiber": "cotton/silk",
-    "category": "apparel"
+    "category": "homewear"
   },
   {
     "code": "19346/00",
@@ -235,7 +235,7 @@
     },
     "image": "/images/atena.jpg",
     "fiber": "wool/cashmere",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "20242/01",
@@ -252,7 +252,7 @@
     },
     "image": "/images/boreas.jpg",
     "fiber": "linen",
-    "category": "runner"
+    "category": "table"
   },
   {
     "code": "20300/00",
@@ -269,7 +269,7 @@
     },
     "image": "/images/bromio.jpg",
     "fiber": "cotton",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "19329/00",
@@ -286,7 +286,7 @@
     },
     "image": "/images/calipso.jpg",
     "fiber": "cashmere",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "19353/00",
@@ -303,7 +303,7 @@
     },
     "image": "/images/cariddi.jpg",
     "fiber": "linen",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "19906/50",
@@ -320,7 +320,7 @@
     },
     "image": "/images/cassio.jpg",
     "fiber": "cotton",
-    "category": "apparel"
+    "category": "homwear"
   },
   {
     "code": "20517/00",
@@ -337,7 +337,7 @@
     },
     "image": "/images/catullo.jpg",
     "fiber": "cashmere/leather",
-    "category": "bag"
+    "category": "accessory"
   },
   {
     "code": "20299/00",
@@ -354,7 +354,7 @@
     },
     "image": "/images/cerbero.jpg",
     "fiber": "cotton",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "19415/00",
@@ -371,7 +371,7 @@
     },
     "image": "/images/chimera.jpg",
     "fiber": "cashmere",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "20407/01",
@@ -388,7 +388,7 @@
     },
     "image": "/images/ciclope.jpg",
     "fiber": "cotton",
-    "category": "pillowcase"
+    "category": "bedroom"
   },
   {
     "code": "19411/00",
@@ -405,7 +405,7 @@
     },
     "image": "/images/circe.jpg",
     "fiber": "alpaca/silk",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "20263/51",
@@ -422,7 +422,7 @@
     },
     "image": "/images/clelia.jpg",
     "fiber": "linen",
-    "category": "slipper"
+    "category": "homewear"
   },
   {
     "code": "20410/01",
@@ -439,7 +439,7 @@
     },
     "image": "/images/clio.jpg",
     "fiber": "hemp",
-    "category": "runner"
+    "category": "table"
   },
   {
     "code": "20321/01",
@@ -473,7 +473,7 @@
     },
     "image": "/images/crono.jpg",
     "fiber": "cashmere",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "20155/00",
@@ -490,7 +490,7 @@
     },
     "image": "/images/dafne.jpg",
      "fiber": "cashmere",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "19897/50",
@@ -507,7 +507,7 @@
     },
     "image": "/images/dedalo.jpg",
     "fiber": "cotton",
-    "category": "pants"
+    "category": "homewear"
   },
   {
     "code": "20281/01",
@@ -524,7 +524,7 @@
     },
     "image": "/images/demetra.jpg",
     "fiber": "hemp",
-    "category": "napkins"
+    "category": "table"
   },
   {
     "code": "20237/00",
@@ -541,7 +541,7 @@
     },
     "image": "/images/dioniso.jpg",
     "fiber": "cotton",
-    "category": "quilt"
+    "category": "plaid"
   },
   {
     "code": "19323/00",
@@ -558,7 +558,7 @@
     },
     "image": "/images/edipo.jpg",
     "fiber": "cashmere",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "19904/50",
@@ -575,7 +575,7 @@
     },
     "image": "/images/efesto.jpg",
     "fiber": "cotton",
-    "category": "pants"
+    "category": "homewear"
   },
   {
     "code": "19348/00",
@@ -592,7 +592,7 @@
     },
     "image": "/images/egeo.jpg",
     "fiber": "linen",
-    "category": "beach towel"
+    "category": "towel"
   },
   {
     "code": "20264/51",
@@ -609,7 +609,7 @@
     },
     "image": "/images/elea.jpg",
     "fiber": "linen",
-    "category": "slipper"
+    "category": "homewear"
   },
   {
     "code": "20406/01",
@@ -626,7 +626,7 @@
     },
     "image": "/images/eleusi.jpg",
     "fiber": "cotton",
-    "category": "pillowcase"
+    "category": "bedroom"
   },
   {
     "code": "19901/50",
@@ -643,7 +643,7 @@
     },
     "image": "/images/enea.jpg",
     "fiber": "cotton/polyamide",
-    "category": "sweatshirt"
+    "category": "homewear"
   },
   {
     "code": "19327/00",
@@ -660,7 +660,7 @@
     },
     "image": "/images/eolo.jpg",
      "fiber": "cashmere",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "19905/50",
@@ -694,7 +694,7 @@
     },
     "image": "/images/eracle.jpg",
     "fiber": "cashmere",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "19324/00",
@@ -711,7 +711,7 @@
     },
     "image": "/images/erato.jpg",
     "fiber": "cashmere",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "20076/50",
@@ -762,7 +762,7 @@
     },
     "image": "/images/eros.jpg",
     "fiber": "cashmere",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "20316/01",
@@ -779,7 +779,7 @@
     },
     "image": "/images/estia.jpg",
     "fiber": "cotton",
-    "category": "pillowcase"
+    "category": "bedroom"
   },
   {
     "code": "20535/00",
@@ -796,7 +796,7 @@
     },
     "image": "/images/fauna.jpg",
     "fiber": "cotton",
-    "category": "rug"
+    "category": "bath"
   },
   {
     "code": "20563/00",
@@ -813,7 +813,7 @@
     },
     "image": "/images/flora.jpg",
     "fiber": "cotton",
-    "category": "rug"
+    "category": "bath"
   },
   {
     "code": "20278/01",
@@ -830,7 +830,7 @@
     },
     "image": "/images/forgia.jpg",
     "fiber": "hemp",
-    "category": "tablecloth"
+    "category": "table"
   },
   {
     "code": "19896/50",
@@ -864,7 +864,7 @@
     },
     "image": "/images/gerione.jpg",
     "fiber": "cotton",
-    "category": "duvet cover"
+    "category": "bedroom"
   },
   {
     "code": "20295/01",
@@ -881,7 +881,7 @@
     },
     "image": "/images/giasone.jpg",
     "fiber": "hemp",
-    "category": "duvet cover"
+    "category": "bedroom"
   },
   {
     "code": "20075/50",
@@ -932,7 +932,7 @@
     },
     "image": "/images/hebe.jpg",
     "fiber": "hemp",
-    "category": "pillowcase"
+    "category": "bedroom"
   },
   {
     "code": "19912/50",
@@ -966,7 +966,7 @@
     },
     "image": "/images/helios.jpg",
     "fiber": "cotton",
-    "category": "beach towel"
+    "category": "towel"
   },
   {
     "code": "19895/50",
@@ -1034,7 +1034,7 @@
     },
     "image": "/images/hypnos.jpg",
     "fiber": "linen",
-    "category": "placemat"
+    "category": "bedroom"
   },
   {
     "code": "19890/01",
@@ -1051,7 +1051,7 @@
     },
     "image": "/images/icaro.jpg",
     "fiber": "cashmere",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "19894/50",
@@ -1085,7 +1085,7 @@
     },
     "image": "/images/ilizia.jpg",
     "fiber": "paper",
-    "category": "napkin"
+    "category": "table"
   },
   {
     "code": "19349/00",
@@ -1102,7 +1102,7 @@
     },
     "image": "/images/ionio.jpg",
     "fiber": "linen",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "20411/01",
@@ -1119,7 +1119,7 @@
     },
     "image": "/images/iris.jpg",
     "fiber": "paper",
-    "category": "runner"
+    "category": "table"
   },
   {
     "code": "20413/01",
@@ -1136,7 +1136,7 @@
     },
     "image": "/images/leda.jpg",
     "fiber": "paper",
-    "category": "coaster"
+    "category": "table"
   },
   {
     "code": "19907/50",
@@ -1170,7 +1170,7 @@
     },
     "image": "/images/medea.jpg",
     "fiber": "paper",
-    "category": "tablecloth"
+    "category": "table"
   },
   {
     "code": "19412/00",
@@ -1187,7 +1187,7 @@
     },
     "image": "/images/medusa.jpg",
     "fiber": "alpaca/silk",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "20280/01",
@@ -1204,7 +1204,7 @@
     },
     "image": "/images/melia.jpg",
     "fiber": "cotton",
-    "category": "napkin"
+    "category": "table"
   },
   {
     "code": "20404/01",
@@ -1221,7 +1221,7 @@
     },
     "image": "/images/menelao.jpg",
      "fiber": "cotton",
-    "category": "sheet"
+    "category": "bedroom"
   },
   {
     "code": "20292/01",
@@ -1238,7 +1238,7 @@
     },
     "image": "/images/morfeo.jpg",
     "fiber": "hemp",
-    "category": "sheet"
+    "category": "bedroom"
   },
   {
     "code": "19873/00",
@@ -1255,7 +1255,7 @@
     },
     "image": "/images/musa.jpg",
     "fiber": "cashmere",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "16893/02",
@@ -1289,7 +1289,7 @@
     },
     "image": "/images/nemesi.jpg",
     "fiber": "cotton",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "19331/00",
@@ -1357,7 +1357,7 @@
     },
     "image": "/images/oceano.jpg",
     "fiber": "cotton",
-    "category": "pillowcase"
+    "category": "bedroom"
   },
   {
     "code": "19388/00",
@@ -1374,7 +1374,7 @@
     },
     "image": "/images/odisseo.jpg",
     "fiber": "cotton",
-    "category": "beach towel"
+    "category": "towel"
   },
   {
     "code": "19898/50",
@@ -1408,7 +1408,7 @@
     },
     "image": "/images/orfeo.jpg",
     "fiber": "cashmere",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "20296/01",
@@ -1425,7 +1425,7 @@
     },
     "image": "/images/orione.jpg",
     "fiber": "cotton",
-    "category": "sheet"
+    "category": "bedroom"
   },
   {
     "code": "20405/01",
@@ -1442,7 +1442,7 @@
     },
     "image": "/images/pallas.jpg",
     "fiber": "cotton",
-    "category": "sheet"
+    "category": "bedroom"
   },
   {
     "code": "20301/00",
@@ -1459,7 +1459,7 @@
     },
     "image": "/images/pan.jpg",
      "fiber": "alpaca/cashmere/camel/yak",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "16554/01",
@@ -1493,7 +1493,7 @@
     },
     "image": "/images/paride.jpg",
     "fiber": "alpaca/cashmere/camel/yak",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "19899/50",
@@ -1527,7 +1527,7 @@
     },
     "image": "/images/perseo.jpg",
      "fiber": "cashmere",
-    "category": "cushion"
+    "category": "plaid"
   },
   {
     "code": "20320/01",
@@ -1544,7 +1544,7 @@
     },
     "image": "/images/phobos.jpg",
     "fiber": "cotton",
-    "category": "sheet"
+    "category": "bedroom"
   },
   {
     "code": "20414/00",
@@ -1561,7 +1561,7 @@
     },
     "image": "/images/rhea.jpg",
     "fiber": "cashmere",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "19909/00",
@@ -1595,7 +1595,7 @@
     },
     "image": "/images/satiro.jpg",
     "fiber": "alpaca/cashmere/camel/yak",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "19352/00",
@@ -1612,7 +1612,7 @@
     },
     "image": "/images/scilla.jpg",
     "fiber": "linen",
-    "category": "beach towel"
+    "category": "towel"
   },
   {
     "code": "20154/00",
@@ -1629,7 +1629,7 @@
     },
     "image": "/images/selene.jpg",
     "fiber": "cashmere",
-    "category": "blanket"
+    "category": "bedroom"
   },
   {
     "code": "19860/01",
@@ -1663,7 +1663,7 @@
     },
     "image": "/images/talia.jpg",
     "fiber": "cotton",
-    "category": "tablecloth"
+    "category": "table"
   },
   {
     "code": "19355/00",
@@ -1680,7 +1680,7 @@
     },
     "image": "/images/teseo.jpg",
     "fiber": "cashmere",
-    "category": "throw"
+    "category": "plaid"
   },
   {
     "code": "20497/00",
@@ -1697,7 +1697,7 @@
     },
     "image": "/images/tetide.jpg",
     "fiber": "alpaca/cashmere/camel/yak",
-    "category": "bedspread"
+    "category": "bedroom"
   },
   {
     "code": "20319/01",
@@ -1714,7 +1714,7 @@
     },
     "image": "/images/tia.jpg",
     "fiber": "cotton",
-    "category": "duvet cover"
+    "category": "bedroom"
   },
   {
     "code": "20327/01",
@@ -1731,7 +1731,7 @@
     },
     "image": "/images/tito.jpg",
      "fiber": "cotton",
-    "category": "bathrobe"
+    "category": "bath"
   },
   {
     "code": "19328/00",
@@ -1748,7 +1748,7 @@
     },
     "image": "/images/tritone.jpg",
     "fiber": "linen",
-    "category": "cushion"
+    "category": "pillow"
   },
   {
     "code": "20329/01",
@@ -1765,7 +1765,7 @@
     },
     "image": "/images/typhon.jpg",
     "fiber": "cotton",
-    "category": "beach towel"
+    "category": "towel"
   },
   {
     "code": "19900/50",
@@ -1799,6 +1799,6 @@
     },
     "image": "/images/zefiro.jpg",
     "fiber": "cashmere",
-    "category": "throw"
+    "category": "plaid"
   }
 ]
