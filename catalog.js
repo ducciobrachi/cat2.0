@@ -1,4 +1,4 @@
-// catalog.js
+// catalog.js aggiornato con filtri coerenti ai tag inglesi
 let updatedProducts = [];
 let currentLang = 'it';
 
@@ -16,7 +16,6 @@ priceValue.style.marginLeft = '1rem';
 priceValue.style.fontWeight = 'bold';
 priceLabel.after(priceValue);
 
-// Mappa codici brevi ai nomi interni dei listini
 const listMap = {
   r: 'retail',
   w: 'wholesale',
@@ -30,8 +29,8 @@ const translations = {
   it: {
     title: 'Catalogo Arca',
     search: 'Cerca prodotti...',
-    fiber: ['Tutti i materiali', 'Cashmere', 'Cotone', 'Lana', 'Alpaca'],
-    category: ['Tutte le categorie', 'Plaid', 'Cuscino', 'Copripiumino', 'Lenzuolo', 'Calzini', 'Pantofola', 'Short', 'Pantalone', 'Asciugamano', 'Telo', 'Cardigan', 'Federe'],
+    fiber: ['Tutti i materiali', 'cashmere', 'cotone', 'lana', 'alpaca', 'lino', 'vicuna'],
+    category: ['Tutte le categorie', 'pillow', 'table', 'homewear', 'towel', 'accessory', 'bath'],
     price: val => `Prezzo massimo: €${val}`,
     priceLabel: 'Prezzo',
     noProducts: 'Nessun prodotto trovato.'
@@ -39,8 +38,8 @@ const translations = {
   en: {
     title: 'Arca Catalog',
     search: 'Search products...',
-    fiber: ['All materials', 'Cashmere', 'Cotton', 'Wool', 'Alpaca'],
-    category: ['All categories', 'Throw', 'Cushion', 'Duvet cover', 'Sheet', 'Socks', 'Slippers', 'Shorts', 'Trousers', 'Towel', 'Beach towel', 'Cardigan', 'Pillowcase'],
+    fiber: ['All materials', 'cashmere', 'cotton', 'wool', 'alpaca', 'linen', 'vicuna'],
+    category: ['All categories', 'pillow', 'table', 'homewear', 'towel', 'accessory', 'bath'],
     price: val => `Maximum price: €${val}`,
     priceLabel: 'Price',
     noProducts: 'No products found.'
@@ -48,8 +47,8 @@ const translations = {
   fr: {
     title: 'Catalogue Arca',
     search: 'Rechercher des produits...',
-    fiber: ['Tous les matériaux', 'Cachemire', 'Coton', 'Laine', 'Alpaga'],
-    category: ['Toutes les catégories', 'Plaid', 'Coussin', 'Housse de couette', 'Drap', 'Chaussettes', 'Pantoufles', 'Short', 'Pantalon', 'Serviette', 'Drap de plage', 'Cardigan', 'Taie d’oreiller'],
+    fiber: ['Tous les matériaux', 'cachemire', 'coton', 'laine', 'alpaga', 'lin', 'vicuna'],
+    category: ['Toutes les catégories', 'pillow', 'table', 'homewear', 'towel', 'accessory', 'bath'],
     price: val => `Prix maximum : €${val}`,
     priceLabel: 'Prix',
     noProducts: 'Aucun produit trouvé.'
