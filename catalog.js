@@ -98,6 +98,22 @@ function displayProducts(items) {
   }
 }
 
+const valueMap = {
+  fiber: {
+    cotone: 'cotton', cotton: 'cotton', coton: 'cotton',
+    lana: 'wool', wool: 'wool', laine: 'wool',
+    alpaca: 'alpaca',
+    cachemire: 'cashmere', cashmere: 'cashmere',
+    seta: 'silk', silk: 'silk', soie: 'silk'
+  },
+  category: {
+    lenzuolo: 'sheet', sheet: 'sheet', drap: 'sheet',
+    plaid: 'plaid', plaid: 'plaid',
+    cuscino: 'cushion', coussin: 'cushion', cushion: 'cushion',
+    copripiumino: 'duvet cover', 'duvet cover': 'duvet cover', 'housse de couette': 'duvet cover'
+  }
+};
+
 function filterProducts() {
   const searchText = searchInput.value.toLowerCase().trim();
   const selectedFiber = fiberFilter.value?.trim().toLowerCase();
@@ -109,8 +125,10 @@ function filterProducts() {
     const matchesSearch =
       product.name.toLowerCase().trim().includes(searchText) ||
       product.label.toLowerCase().trim().includes(searchText);
-    const matchesFiber = selectedFiber === "" || (product.fiber && product.fiber.toLowerCase().trim() === selectedFiber);
-    const matchesCategory = selectedCategory === "" || (product.category && product.category.toLowerCase().trim() === selectedCategory);
+    const normalizedFiber = valueMap.fiber[selectedFiber] || selectedFiber;
+    const matchesFiber = selectedFiber === "" || (product.fiber && valueMap.fiber[product.fiber] === normalizedFiber);
+    const normalizedCategory = valueMap.category[selectedCategory] || selectedCategory;
+    const matchesCategory = selectedCategory === "" || (product.category && valueMap.category[product.category] === normalizedCategory);
     const matchesPrice = !isNaN(maxPrice) ? price <= maxPrice : true;
     return matchesSearch && matchesFiber && matchesCategory && matchesPrice;
   });
