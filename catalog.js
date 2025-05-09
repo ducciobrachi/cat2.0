@@ -125,10 +125,8 @@ function filterProducts() {
     const matchesSearch =
       product.name.toLowerCase().trim().includes(searchText) ||
       product.label.toLowerCase().trim().includes(searchText);
-    const normalizedFiber = valueMap.fiber[selectedFiber] || selectedFiber;
-    const matchesFiber = selectedFiber === "" || (product.fiber && valueMap.fiber[product.fiber] === normalizedFiber);
-    const normalizedCategory = valueMap.category[selectedCategory] || selectedCategory;
-    const matchesCategory = selectedCategory === "" || (product.category && valueMap.category[product.category] === normalizedCategory);
+    const matchesFiber = selectedFiber === "" || (product.fiber && product.fiber === selectedFiber);
+    const matchesCategory = selectedCategory === "" || (product.category && product.category === selectedCategory);
     const matchesPrice = !isNaN(maxPrice) ? price <= maxPrice : true;
     return matchesSearch && matchesFiber && matchesCategory && matchesPrice;
   });
